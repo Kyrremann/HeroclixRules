@@ -1,0 +1,4 @@
+HeroclixRules
+=============
+
+Heroclix Rules
