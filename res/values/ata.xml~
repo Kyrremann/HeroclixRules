@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ata">
+        <item>ALL-STAR SQUADRON\nKeyword(s): All-Star Squadron\nCost:
+			2\nCharacters using this team ability modify their attack value by +1
+			when making
+			a close combat attack against a character at least twice
+			its point
+			value.</item>
+        <item>ALPHA FLIGHT\nKeyword(s): Alpha Flight\nCost: 4\nOnce during
+			each game, choose any team ability or opposing character.
+			Each
+			friendly character using this team ability modifies its attack
+			value
+			by +1 when attacking the chosen character or a character
+			possessing
+			the chosen team ability.</item>
+        <item>AMAZON\nKeyword(s): Amazon\nCost: 4\nWhenever a character using
+			this team ability takes 2 or more damage from an
+			opponent\'s attack,
+			put a Sisterhood token on this card. Before being
+			given a non-free
+			action, a friendly character using this team ability
+			may remove any
+			number of Sisterhood tokens from this card. Modify
+			that character\'s
+			speed, attack, or range value by +1 for each token
+			removed until that
+			action is resolved.</item>
+		<item>ANIMAL\n
+		    Keyword(s): Animal\n
+		    Cost: 4\n
+		    At the beginning of your turn, roll a d6. On a result of 5-6 all friendly characters using this team ability ignore Shape Change and Stealth this turn.</item>
+        <item>ANNIHILATORS\nKeyword(s): Annihilators\nCost: 4\n
+			When a character using this team ability KO\'s an opposing character of a higher point value with an attack, remove an action token from each friendly character using this team ability that\'s less points than the KO\'d character.</item>
+        <item>ASGARDIAN\n
+		    Keyword(s): Asgardian\n
+			Cost: 5\n
+			A character using this team ability can\'t have its Willpower or Indomitable countered. A character using this team ability can use Willpower on its first click.</item>
+        <item>ATLANTIS\nKeyword(s): Atlantis\nCost: 2\nWhenever a character
+			using this team ability occupies water terrain, modify
+			its defense
+			value by +1 against ranged combat attacks.</item>
+        <item>AVENGERS (HEROIC AGE)\n
+			Keyword(s): Avengers\n
+			Cost: 2\n
+			When a character using this team ability is given a move action, after actions resolve roll a d6 that can’t be rerolled. On a roll of 6, remove an action token from that character.</item>
+        <item>AVENGERS RESPONSE UNIT\n
+			Keyword(s): Avengers\n
+			Cost: 3\n
+			When one or more characters using this team ability is adjacent to a friendly character making a close combat attack, modify the characters attack value by +1.</item>
+       <item>BLACK LANTERN CORPS\n
+       Cost: 1\n
+       Keyword(s): Black Lantern Corps\n
+       When a character using this
+                  team ability uses Regeneration, its minimum result is 1.\n
+                 Uncopyable</item>
+		<item>CHECKMATE\nKeyword(s): Checkmate\nCost: 6\nMinion: Kings and
+			Queens and Bishops. When another friendly character using
+			this team
+			ability and with a point value greater than 50 is within 8
+			squares,
+			this character can be given a power action to use Perplex if
+			it can\'t
+			already use Perplex.</item>
+        <item>DARK AVENGERS\nKeyword(s): Dark Avengers\nCost: 4\nWhenever an
+			opposing character takes damage from an attack by a character
+			using
+			this team ability, modify that opposing character\'s defense
+			value by
+			-1 until the end of the turn. Each opposing character can\'t
+			have this
+			modifier applied more than once per turn.</item>
+        <item>ELDERS OF THE UNIVERSE\n
+			Keyword(s):Elders of the Universe\n
+			Cost: 5\n
+			Opposing characters can’t attempt a relic roll while at least two friendly characters can use this team ability.</item>
+        <item>FANTASTIC FORCE\nKeyword(s): Fantastic Four\nCost: 5\nCharacters
+			using this team ability may replace their defense value with the
+			unmodified defense value of an adjacent friendly character using this
+			team ability.</item>
+        <item>FF\n
+			Keyword(s): Fantastic Four\n
+			Cost: 3\n
+			When a character using this team ability KO’s an opposing character, that character may heal any character using this team ability of 1 damage.</item>
+        <item>FLASHPOINT\n
+			Keyword(s): Flashpoint\n
+			Cost: 4\n
+			Once per game per character using this team ability, it may use Probability Control during an adjacent friendly character\'s attack. When they do, you may reroll only one die and keep the other. Uncopyable.</item>
+        <item>GREAT LAKES AVENGERS\nKeyword(s): Great Lakes Avengers\nCost: 3\n
+			During an attack made by a character using this team ability,
+			opposing characters cannot use Probability Control unless a
+			friendly character has already used Probability Control during
+			this attack. Uncopyable.</item>
+        <item>GREEN LANTERN HONOR GUARD\nKeyword(s): Green Lantern
+			Corps\nCost: 5\nWhenever a character using this team ability attacks,
+			modify their attack
+			value by +1 for each other friendly character that
+			attacked the same
+			target this turn while using this team ability.</item>
+        <item>GUARDIANS OF THE GALAXY\nKeyword(s): Guardians of the
+			Galaxy\nCost: 4\nPowers possessed by characters using this team
+			ability can\'t be countered.
+			This team ability can\'t be used by wild
+			cards.</item>
+        <item>GUARDIANS OF THE GALAXY (SILVER AGE)\nKeyword(s): Guardians of the Galaxy\nCost: 1\nCharacters using this team ability are wild cards, but don\'t possess any other team abilities. Uncopyable.</item>
+        <item>THE HAND\n
+			Keyword(s): The Hand\n
+			Cost: 7\n
+			When it is not your turn, lines of fire to a character using this team ability are blocked if this character is adjacent to a wall or blocking terrain. </item>
+        <item>HELLIONS\nKeyword(s): Hellions\nCost: 5\nWhen a friendly
+			character using this team ability is KO\'d during an
+			opponent\'s turn,
+			remove an action token from another friendly
+			character with higher
+			point value that\'s using this team ability.</item>
+        <item>HORSEMEN OF APOCALYPSE\nKeyword(s): Horsemen of
+			Apocalypse\nCost: 1\nAs long as you control exactly 4 characters
+			using this team ability,
+			modify this character\'s attack value by +1.
+			Uncopyable.</item>
+        <item>HOWLING COMMANDOS\n
+			Keyword(s): Howling Commandos\n
+			Cost: 3\n
+			Friendly characters can use Support if they can\'t already, but only to target a character using this team ability that took 2 or more damage from a single opponent’s attack since your last turn.</item>
+        <item>HULKBUSTERS\n
+    		Keyword(s): Hulkbusters\n
+    		Cost: 2\n
+    		When there are more friendly characters using this team ability on the map than the total number of opposing characters, and a character using this team ability targets an opposing character with a higher point value, modify that opposing character\'s defense value by -1 for this attack.</item>
+        <item>HULKED-OUT HEROES\n
+   			Keyword(s): Hulked-Out Heroes\n
+    		Cost: 5\n
+    		Characters using this team ability can use Super Strength if they are not on click #1. Uncopyable.</item>
+        <item>HYDRA DEEP SCIENCE DIVISION\n
+			Cost: 3\n
+			Keyword(s): HYDRA\n
+			The maximum number of squares between an opposing character and its target when using Outwit, Perplex, or Probability Control is reduced by 1 for each friendly character using this team ability, to a minimum of 4 squares.</item>
+        <item>INFINITY WATCH\n
+            Keyword(s): Infinity Watch\n
+            Cost: 2\n
+			When a character using this team ability rolls for a relic with the #relic# set symbol, it succeeds on a roll of 3-6. Uncopyable.</item>
+        <item>INHUMANS\n
+			Keyword(s): Inhumans\n
+			Cost: 4\n
+			Characters using this team ability may use the Carry ability, but only to carry characters that can also use this team ability, and may carry those characters regardless of their combat symbols. Uncopyable.</item>
+        <item>INTELLIGENCIA\n
+    		Keyword(s): Intelligencia \n
+    		Cost: 3 \n
+		    If no friendly character is affected by an opponent\'s Outwit and/or Perplex, friendly characters that can use Outwit and/or Perplex may use them to target characters within 12 squares instead of 10 squares and all characters using this team ability modify their range values by +2. </item>
+        <item>JUSTICE LEAGUE (SILVER AGE)\n
+   		 	Keyword(s): JLA, Justice League, Justice League of America \n
+    		Cost: 4 \n
+    		Once during each game, choose any team ability or opposing character. Each friendly character using this team ability modifies its attack value by +1 when attacking the chosen character or a character possessing the chosen team ability. </item>
+		<item>JUSTICE LEAGUE: NEW 52\n
+		    Keyword(s): Justice League\n
+		    Cost: 3\n
+		    When a character using this team ability is adjacent to a friendly character using Leadership, add 1 to the result of the die rill, maximum 6, if not already modified by this effect.</item>
+		<item>JUSTICE LEAGUE DARK\n
+		    Keyword(s): Justice League\n
+		    Cost: 2\n
+		    When a character using this team ability is adjacent to a friendly character using this team ability, opposing characters modify their range values by -2 if not already modified by this effect. Uncopyable.</item>
+        <item>JUSTICE LEAGUE INTERNATIONAL\n
+            Keyword(s): Justice League Antarctica, Justice League Europe, or Justice League	International\n
+			Cost: 3\n
+			Whenever a character using this team ability
+			would be dealt damage, you can
+			choose to reduce damage dealt by 1 if
+			you deal 1 unavoidable damage
+			to a friendly character using this team
+			ability that is adjacent to
+			this character. (This can only be used
+			once per damage dealt)</item>
+        <item>KRYPTONIAN\n
+    		Keyword(s): Kryptonian \n
+   			Cost: 2 \n
+    		When characters using this team ability occupy the highest level of clear, outdoor terrain and is not adjacent to blocking or hindering terrain, modify their attack values by +1.</item>
+        <item>LEAGUE OF ASSASSINS\n
+            Keyword(s): League of Assassins\n
+            Cost: 7\n
+            When it is not your turn, lines of fire to a character using this team ability are blocked
+			if this
+			character is adjacent to a wall or blocking terrain.</item>
+        <item>LEGION LOST\n
+			Keyword(s): Legion of Super Heroes, Legion of Super Villains \n
+			Cost: 4 \n
+			Once at the beginning of the game, if no character on your force possesses a team ability that isn\'t a wild card team ability, choose any one DC team ability other than an additional team ability, a wild card team ability, or a team ability that can\'t be used by wild cards. Characters using this team ability are not wild cards and can use the chosen team ability if they can\'t already. </item>
+        <item>LEGIONNAIRES\n
+            Keyword(s): Legion of Super Heroes\n
+            Cost: 2\n
+            Whenever the friendly character with the highest point value
+			that\'s using
+			this team ability is KO\'d, remove one action token from
+			each other
+			friendly character using this team ability.</item>
+        <item>MARVEL KNIGHTS\n
+		    Keyword(s): Marvel Knights \n
+		    Cost: 10 \n
+		    Characters using this team ability can use Stealth. </item>
+		<item>THE MIGHTY\n
+		    Keyword(s): The Mighty\n
+		    Cost: 1\n
+		    When a character using this team ability hits an opposing character and the attack roll is double, 
+		    place 1 Mighty token on this card for each 100 points of game\'s build total. Before any attack roll
+		    , you may remove one Mighty token from this card and modify the attacking character\'s attack value 
+		    by -1 for this attack.\n\n
+		    A character using this team ability modifies their attack value by +1 when attacking a character 
+		    using The Worthy additional team ability or posessing The Worthy keyword.</item>
+        <item>MIGHTY AVENGERS\n
+			Keyword(s): Avengers\n
+			Cost: 4\n
+			When a character using this team ability destroys a square of blocking terrain, roll a d6 after actions resolve. On a roll of 5, you may place a standard light object in that square. On a roll of 6, you may place a standard heavy object in that square.</item>
+        <item>MODOK\'S 11\n
+			Keyword(s): MODOK’s 11\n
+			Cost: 2\n
+			Give a character using this team ability a free action to remove
+			one object from the game. This object must be a light or heavy
+			object in the character’s square or a square adjacent to the
+			character.</item>
+        <item>MONSTER SOCIETY OF EVIL\nKeyword(s): Injustice Society or
+			Monster Society of Evil\n
+			Cost: 5\nAt the end of your turn, you may
+			roll a d6 for each friendly character
+			using this team ability. On a
+			result of 5 or 6, deal 1 damage to each
+			opposing character adjacent to
+			that character that hasn\'t already
+			been dealt damage by this team
+			ability this turn.</item>
+        <item>MORLOCKS\nKeyword(s): Gene Nation or Morlocks\nCost: 2* (0 if
+			the character possesses the Morlocks team symbol)\nWhenever a
+			character using this team ability makes a close combat
+			attack, modify
+			its attack value by +1 for each other character using
+			this team
+			ability adjacent to both this character and the target.</item>
+        <item>NEGATIVE ZONE\nKeyword(s): Negative Zone\nCost: 2\n
+			A character using this team ability may ignore one wall or square of blocking terrain for movement purposes when it uses Charge or Running Shot. If it does and misses all target opposing characters deal this character 1 unavoidable damage after actions resolve.</item>
+        <item>NEW MUTANTS\nKeyword(s): Generation X, New Mutants\nCost: 4\n
+			Whenever a character using this team ability would be dealt damage,
+			you may
+			give an action token to an adjacent friendly character using
+			this
+			team ability. If you do, deal all of the damage to that character
+			instead.</item>
+        <item>NEWER FANTASTIC FOUR\nKeyword(s): Fantastic Four\nCost: 1\n
+			A character using this team ability modifies its attack value by +1 when attacking characters possessing #indomitable#, #giant#, or #colossus#.</item>
+        <item>NEXTWAVE\nKeyword(s): Nextwave\nCost 5\nWhen a character using
+			this team ability KO\'s an opposing character of a
+			higher point value
+			with an attack, place this character anywhere on
+			the map.</item>
+        <item>NOVA CORPS\nKeyword(s): Nova Corps\nCost: -10*\n
+			Friendly characters ignore traits named \"Share Through the Worldmind\" possessed by friendly characters. *(0 if the character dosen\'t possess the trait named \"Share Through the Worldmind.\")</item>
+        <item>THE ORDER\nKeyword(s): Defenders\nCost: 3\n
+			Character using this team ability cannot be targeted by an opposing character using one of the listed powers if any character using this team ability was already hit by an opposing character using that power this turn.\n
+			Flurry				Incapacitate\n
+			Charge				Penetrating/Psychic Blast\n
+			Hypersonic Speed	Ranged Combat Expert\n
+			Running Shot		Exploit Weakness\n
+			Blades/Claws/Fangs	Close Combat Expert</item>
+        <item>OUTLAWS\nKeyword(s): Outlaws\nCost: 1\nWhen a character using
+			this team ability is given a move action, modify
+			that character\'s
+			speed values by +1 for each adjacent character using
+			this team ability
+			at the beginning of the move action.</item>
+        <item>PHANTOM ZONE\n
+			    Keyword(s): Phantom Zone\n
+			    Cost: 4\nOnce per game per character using this team ability, when they would take 4 or more damage from an attack, you may roll a d6. On a result of 4-6, ignore the damage and place this character in your starting area.</item>
+        <item>REAVERS\nKeyword(s): Reavers\nCost: 8\nWhen a character using
+			this team ability has two action tokens, it can be
+			given a non-free
+			action. If you do, after actions resolve deal the
+			character 1
+			unavoidable damage and do not clear action tokens from it
+			at the end
+			of the turn.</item>
+        <item>ROGUES\n
+			    Keyword(s): Rogues \n
+			    Cost: 6 \n
+			    Characters using this team ability can use Outwit, but only to counter Hypersonic Speed, the Move and Attack ability, or a special power that specifically allows that character to use Hypersonic Speed or the Move and Attack ability. Uncopyable.</item>
+        <item>RUNAWAYS\nKeyword(s): Runaways\nCost: 3\nWhenever a character
+			using this team ability attacks, modify their attack
+			value by +1 for
+			each other friendly character that dealt damage to an
+			opposing
+			character this turn while using this team ability.</item>
+        <item>SAVAGE LAND\n
+			    Keyword(s): Savage Land\n
+			    Cost: 3\n
+			    Once per game per character using this team ability, when they roll a d6 for Blades/Claws/Fangs, if the result is a 1 that character may reroll the d6. </item>
+        <item>SECRET AVENGERS\n
+			Keyword(s): Avengers\n
+			Cost: 5\n
+			Characters using this team ability can’t be the target of an opponent’s Outwit or Perplex unless they’ve been targeted with an attack previously in the same turn.</item>
+        <item>SECRET INVASION\n
+        Cost: 2\n
+Keyword(s): Skrulls\n
+When a character using this team ability is targeted with an attack
+by an opposing character with which it shares a keyword, modify
+this character’s defense value by +1.</item>
+		<item>SECRET SIX\nKeyword(s): Secret Six\nCost: 3\nWhenever a
+			character using this team ability is KO\'d, you may roll a d6 and
+			subtract 2 (minimum 1). Deal that much damage, divided as you choose,
+			among any number of opposing characters adjacent to the square the
+			KO\'d character occupied.</item>
+        <item>SECRET WARRIORS\n
+			Keyword(s): Secret Warriors\n
+			Cost: 1\n
+			When you build your force, choose the H.A.M.M.E.R., HYDRA,
+			or S.H.I.E.L.D. keyword. Characters using this team ability also
+			possess the chosen keyword. Uncopyable.</item>
+        <item>SERPENT SOCIETY\n
+            Keyword(s): Serpent Society or Serpent Squad\n
+			Cost: 6* (0 if the character possesses the Serpent Society
+			team symbol)\n
+			Characters using this team ability can use
+			Phasing/Teleport.</item>
+        <item>SHADOWPACT\n
+            Keyword(s): Shadowpact\n
+            Cost: 1\n
+This character ignores the Mystics team ability.</item>
+        <item>THE SOCIETY\n
+            Keyword(s): Secret Society of Super Villains or
+			Society\n
+			Cost: 3\n
+			Whenever a character using this team ability is
+			targeted by Outwit, you roll
+			a d6. On a result of 4-6, the opposing
+			character that targeted your
+			character cannot use Outwit to target
+			that character this turn. This
+			team ability cannot be used by wild
+			cards.</item>
+        <item>SQUADRON SUPREME\n
+            Keyword(s): Squadron Sinister or Squadron
+			Supreme\n
+			Cost: 5\n
+			While at least two friendly characters using this
+			team ability are
+			adjacent, one of them of your choice can use Mind
+			Control. This team
+			ability cannot be used by wild cards.</item>
+        <item>STRATEGIC HOMELAND INTERVENTION, ENFORCEMENT AND LOGISTICS DIVISION\n
+			Keyword(s): S.H.I.E.L.D.\n
+			Cost: 3\n
+			The maximum number of squares between a friendly character and its target when using Outwit, Perplex, or Probability Control is increased by 1 for each friendly character using this team ability, to a maximum of 16 squares.</item>
+        <item>THUNDERBOLTS\n
+            Keyword(s): Thunderbolts\n
+            Cost: 8\n
+            Once at the
+			beginning of the game, choose any one Marvel team ability
+			other than
+			an Additional team ability, a wild card team ability, or a
+			team ability
+			that can\'t be used by wild cards. Characters using this
+			team ability
+			can use the chosen team ability if they can\'t already.</item>
+        <item>U-FOES\nKeyword(s): U-Foes\nCost: 3\nWhen a character using this
+			team ability hits an opposing character with
+			a printed damage value of 4 or
+			more, increase the damage dealt to that
+			character by 1.</item>
+        <item>UNIVERSAL CHURCH OF TRUTH\nKeyword(s): Universal Chruch of Truth\nCost: 4\n
+			When an opposing character targets a character using this team ability with an attack and misses, modify the defense value of all character using this team ability by +1 until the end of the turn.</item>
+        <item>WHITE LANTERN CORPS\nKeyword(s): White Lantern Corps\nCost:
+			3\nPlace a number of tokens on this card equal to the number of
+			characters
+			with the White Lantern Corps keyword with which you begin
+			the game.
+			Immediately before any attack roll, you may remove one token
+			to
+			modify a friendly character\'s defense value by +1.</item>
+        <item>WINTER GUARD\n
+Keyword(s): Soviet Super-Soldiers, Winter Guard\n
+Cost: 1\n
+Each character using this team ability may be given a power
+action once per game to be dealt 1 unavoidable damage. If you do,
+after actions resolve roll a d6 and heal the character of half the
+result.</item>
+        <item>X-FORCE\nKeyword(s): X-Force\nCost: 3\nCharacters using this
+			team ability ignore the effects of hindering terrain on
+			their
+			movement.</item>
+    </string-array>
+
+</resources>

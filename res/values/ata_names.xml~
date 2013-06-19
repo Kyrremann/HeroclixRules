@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="ata_names">
+		<item>ALL-STAR SQUADRON</item>
+		<item>ALPHA FLIGHT</item>
+		<item>AMAZON</item>
+		<item>ANIMAL</item>
+		<item>ANNIHILATORS</item>
+		<item>ASGARDIAN</item>
+		<item>ATLANTIS</item>
+		<item>AVENGERS (HEROIC AGE)</item>
+		<item>AVENGERS RESPONSE UNIT</item>
+		<item>BLACK LANTERN CORPS</item>
+		<item>CHECKMATE</item>
+		<item>DARK AVENGERS</item>
+		<item>ELDERS OF THE UNIVERSE	</item>
+		<item>FANTASTIC FORCE</item>
+		<item>FF</item>
+		<item>FLASHPOINT</item>
+		<item>GREAT LAKES AVENGERS</item>
+		<item>GREEN LANTERN HONOR GUARD</item>
+		<item>GUARDIANS OF THE GALAXY</item>
+		<item>GUARDIANS OF THE GALAXY (SILVER AGE)</item>
+		<item>THE HAND</item>
+		<item>HELLIONS</item>
+		<item>HORSEMEN OF APOCALYPSE</item>
+		<item>HOWLING COMMANDOS</item>
+		<item>HULKBUSTERS</item>
+		<item>HULKED-OUT HEROES</item>
+		<item>HYDRA DEEP SCIENCE DIVISION</item>
+		<item>INFINITY WATCH</item>
+		<item>INHUMANS</item>
+		<item>INTELLIGENCIA</item>
+		<item>JUSTICE LEAGUE (SILVER AGE)</item>
+		<item>JUSTICE LEAGUE: NEW 52</item>
+		<item>JUSTICE LEAGUE DARK</item>
+		<item>JUSTICE LEAGUE INTERNATIONAL</item>
+		<item>KRYPTONIAN</item>
+		<item>LEAGUE OF ASSASSINS</item>
+		<item>LEGION LOST</item>
+		<item>LEGIONNAIRES</item>
+		<item>MARVEL KNIGHTS</item>
+		<item>THE MIGHTY</item>
+		<item>MIGHTY AVENGERS</item>
+		<item>MODOK\'S 11</item>
+		<item>MONSTER SOCIETY OF EVIL</item>
+		<item>MORLOCKS</item>
+		<item>NEGATIVE ZONE</item>
+		<item>NEW MUTANTS</item>
+		<item>NEWER FANTASTIC FOUR</item>
+		<item>NEXTWAVE</item>
+		<item>NOVA CORPS</item>
+		<item>THE ORDER</item>
+		<item>OUTLAWS</item>
+		<item>PHANTOM ZONE</item>
+		<item>REAVERS</item>
+		<item>ROGUES</item>
+		<item>RUNAWAYS</item>
+		<item>SAVAGE LAND</item>
+		<item>SECRET AVENGERS</item>
+		<item>SECRET INVASION</item>
+		<item>SECRET SIX</item>
+		<item>SECRET WARRIORS</item>
+		<item>SERPENT SOCIETY</item>
+		<item>SHADOWPACT</item>
+		<item>THE SOCIETY</item>
+		<item>SQUADRON SUPREME</item>
+		<item>STRATEGIC HOMELAND INTERVENTION, ENFORCEMENT AND LOGISTICS DIVISION</item>
+		<item>THUNDERBOLTS</item>
+		<item>U-FOES</item>
+		<item>UNIVERSAL CHURCH OF TRUTH</item>
+		<item>WHITE LANTERN CORPS</item>
+		<item>WINTER GUARD</item>
+		<item>X-FORCE</item>
+	</string-array>
+
+</resources>

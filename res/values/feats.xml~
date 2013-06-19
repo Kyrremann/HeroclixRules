@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="feats">
+		<item>ALIAS\n
+			Cost: 3\n
+			Prerequisite: #attack# and #damage#\n
+			Choose a
+			character. This character can use Shape Change, if it cannot
+			already.
+			After this feat is used, remove it from the game.</item>
+		<item>AMBIDEXTROUS\n
+			Cost: Twice the assigned character\'s printed
+			range value (Minimum cost 12).\n
+			Prerequisite: Range value of 6 or more and one
+			#lightning#.\n
+			Choose a character. The character now has
+			#lightning##lightning#.</item>
+		<item>AMBUSH\n
+			Cost: 5\n
+			Prerequisite: Stealth\n
+			Choose a character. The
+			character gets +2 to its attack value when it makes
+			a close combat
+			attack while occupying hindering terrain. After the
+			attack resolves,
+			the character\'s Stealth is countered until the
+			beginning of your next
+			turn.</item>
+		<item>AND STAY DOWN\n
+			Cost: 6\n
+			Prerequisite: Exploit Weakness or Super
+			Strength\n
+			Choose a character. When the character makes a close\n
+			combat attack without using an object, an attack roll result of 11 or
+			12 is
+			a critical hit.</item>
+		<item>ARMOR PIERCING\n
+			Cost: 10\n
+			Choose a character. Damage dealt by
+			the character may not be reduced below
+			1.</item>
+		<item>AUTOMATIC REGENERATION\n
+			Cost: 12\n
+			Prerequisite: Regeneration\n
+			Choose a character. Once, at the beginning of your turn, this
+			character
+			uses Regeneration as a free action.</item>
+		<item>BLOOD OATH\n
+			Cost: 10\n
+			Prerequisite: Battle Fury or
+			Blades/Claws/Fangs or Willpower \n
+			Choose a character. Before the
+			beginning of the first turn, choose an
+			opposing character. The
+			character modifies its attack value by +1
+			when attacking the chosen
+			opposing character. When the character
+			makes a successful close combat
+			attack against the chosen character
+			and the attack roll is doubles,
+			you can choose to treat the damage
+			from the attack as penetrating
+			damage. If you do, remove this feat
+			from the game after the attack
+			resolves.</item>
+		<item>
+			BOOK OF DESTINY\n
+			Cost: 4\n
+			Prerequisite: Probability Control or
+			Super Senses\n
+			Choose a character. At the end of your turn, choose an
+			opposing character 6
+			or fewer squares away from the character to which
+			it can draw a clear
+			line of fire. Until the beginning of your next
+			turn, the chosen
+			character can\'t use Outwit or Probability Control,
+			and can\'t evade
+			attacks. At the beginning of your next turn, remove
+			this feat from
+			the game.\n</item>
+		<item>
+			BRILLIANT TACTICIAN\n
+			Cost: 20\n
+			Prerequisite: Outwit and
+			Perplex\n
+			Choose a character. Outwit does not need to show in the
+			character\'s stat
+			slot in order for the character to use this feat.
+			When the character
+			uses Perplex, the character can affect every target
+			friendly
+			character that shares a team symbol or keyword with it. The
+			character must have clear line of fire to each target.\n</item>
+		<item>CALL TO ARMS\n
+			Cost: 10\n
+			Prerequisite: Mastermind or Support\n
+			Choose a character. Give the character a power action. Make an attack
+			roll (as though making a close combat attack) against an adjacent
+			target friendly character that has one or more action tokens and
+			that
+			is not adjacent to an opposing character. Ignore all modifiers
+			for the
+			purpose of the attack. If the attack succeeds, remove all
+			action
+			tokens from the target and deal the target 1 unavoidable
+			damage.
+		</item>
+		<item>CAMOUFLAGE\n
+			Cost: 8\n
+			Prerequisite: Shape Change\n
+			Choose a
+			character. When the character is adjacent to a wall or blocking
+			terrain, any line of fire for a ranged combat attack drawn to the
+			character is blocked.</item>
+		<item>CANNONBALL\n
+			Cost: 4\n
+			Prerequisite: Impervious or Invulnerability
+			or Super Strength\n
+			Choose a character. When the character is on
+			elevated terrain, it can
+			move to the next lowest elevation without
+			using a
+			ladder or stairs. When the
+			character is knocked back off of
+			elevated
+			terrain, it ignores knock
+			back damage.</item>
+		<item>COMPEL\n
+			Cost: 15\n
+			Prerequisite: Mind Control\n
+			Choose a
+			character. When the character uses Mind Control, it can target a
+			single friendly character that has already been given an action
+			this
+			turn. If the attack succeeds, after the action is resolved
+			deal 1
+			unavoidable damage to the target.</item>
+		<item>CONSTRUCT\n
+			Cost: 14\n
+			Prerequisite: Barrier\n
+			Choose a character.
+			Any opposing character adjacent to a barrier marker
+			placed by the
+			character that attempts to move (or would be moved by
+			a power,
+			ability, or effect possessed by another character) must
+			attempt to
+			break away. The effect of this feat ignores powers,
+			abilities and
+			effects that allow a character to break away
+			automatically.</item>
+		<item>CONTINGENCY PLAN\n
+			Cost: 12\n
+			Prerequisite: Leadership or
+			Mastermind\n
+			Choose a character. If the character\'s controller does
+			not use all of his
+			or her actions for a turn, put a contingency token
+			on this card if
+			there are two or fewer tokens on this card. When a
+			friendly
+			character is given an action, you can remove any number of
+			tokens
+			from this card: The character modifies the friendly
+			character\'s
+			speed, attack or range value by +1 for each token
+			removed.</item>
+		<item>COORDINATION\n
+			Cost: 6\n
+			Prerequisite: Any team symbol\n
+			Choose a
+			character. Lines of fire to and from the character are not
+			blocked by
+			characters with the same team symbol.</item>
+		<item>DAMAGE SHIELD\n
+			Cost: 10\n
+			Prerequisite: Close Combat Expert,
+			Combat Reflexes, Energy Shield/Deflection,
+			Flurry, Hypersonic Speed,
+			Impervious, Invulnerability, or Poison \n
+			Choose a character. When the
+			character is the target of a
+			successful close combat attack, the
+			attacker is dealt 1 damage
+			after the attack resolves.</item>
+		<item>DARKNESS WITHIN\n
+			Cost: 15\n
+
+			Choose a character. (Optional) Once
+			per turn immediately before this
+			character makes an attack, deal 1
+			pushing damage that ignores
+			Willpower and team abilities to a single
+			target friendly character
+			adjacent to the character; this is not an
+			attack: The character
+			gets +1 to its damage value for that attack. The
+			friendly target
+			does not receive an action token for this pushing
+			damage.</item>
+		<item>DISASSEMBLE\n
+			Cost: 3\n
+			Prerequisite: Force Blast or Energy
+			Explosion or Exploit Weakness \n
+			Choose a character. When this
+			character is given an action and begins or
+			ends the action adjacent to
+			or in the same square as a target
+			special object or standard heavy
+			object, you may remove the
+			target object from the game and
+			replace it with a standard light object
+			from outside the game.
+				</item>
+		<item>DISINTEGRATE\n
+			Cost: 7\n
+			Prerequisite: Close Combat Expert or
+			Exploit Weakness or Poison \n
+			Choose a character. When the character
+			is given a close combat action,
+			before making the close combat attack,
+			remove from the game an
+			object adjacent to the character or an object
+			held by a
+			character adjacent to the character.</item>
+		<item>DISSENT\n
+			Cost: 18\n
+			Prerequisite: Outwit\n
+			Choose a character.
+			When the character uses Outwit, it may choose to
+			counter a team
+			ability possessed by a single target opposing
+			character.</item>
+		<item>
+			DIVEBOMB\n
+			Cost: 10\n
+			Modifier: #attack# -1\n
+			Prerequisite:
+			#flying#\n
+			Choose a character. When soaring, the character may make
+			close combat
+			attacks against grounded characters.\n</item>
+		<item>DOUBLE-TIME\n
+			Cost: 5\n
+			Prerequisite: Transporter or #speed# speed
+			mode\n
+			Choose a character. When the character is not adjacent to an
+			opposing
+			character and is given a move action, it may move up to
+			double its
+			unmodified speed value; it may not make attacks during this
+			move
+			action. At the end of the move, if the character is not a
+			transporter, deal it 1 pushing damage that ignores Willpower and
+			team
+			abilities.</item>
+		<item>DRAG\n
+			Cost: 5\n
+			Prerequisite: #flying#\n
+			Choose a character. Give
+			the character a power action when it is
+			adjacent to a target opposing
+			character. If the character
+			successfully breaks away, move the
+			character up to half its speed
+			value and then place the target in an
+			unoccupied square adjacent
+			to the character. If the target is not a
+			flying character and
+			occupied a square of elevated terrain, and then
+			was placed in a
+			square on a lower elevation, deal it 2 damage after
+			being placed.
+					</item>
+		<item>ELITE SNIPER\n
+			Cost: 20\n
+			Prerequisite: Ranged Combat Expert or
+			Super Senses\n
+			Choose a character. Ranged combat attacks made by the
+			character ignore
+			other characters\' Stealth. The character can use the
+			Sharpshooter
+			ability.</item>
+		<item>ENDURANCE\n
+			Cost: 5\n
+			Prerequisite: #attack# and #damage#\n
+			Choose
+			a character. When the character would be dealt pushing damage,
+			you can
+			instead choose to deal no damage to the character and put
+			an endurance
+			token on this card. If there are endurance tokens on
+			this card when
+			the character is given a non-free action, after the
+			action resolves,
+			roll a d6. on a result of 1 or 2, deal the
+			character unavoidable
+			damage equal to the result plus the number
+			of tokens on this card,
+			then remove all tokens form this card.
+					</item>
+		<item>ENERVATION\n
+			Cost: 7\n
+			Prerequisite: Defend or Support\n
+			Choose a
+			character. During an opponent\'s turn, if an action token would
+			be
+			given to a friendly character adjacent to the character, roll
+			2d6; on
+			a result of 9-12, the token is not given.</item>
+		<item>ENTANGLE\n
+			Cost: 8\n
+			Prerequisite: Plasticity\n
+			Choose a character.
+			Opposing characters attempting to target the
+			character with a close
+			combat attack must roll one six-sided die
+			before making the attack. On
+			a result of 1 or 2, the opposing
+			character cannot attack the
+			character. It is not given an action
+			token, but it cannot be given
+			another action or make another
+			attack that turn.</item>
+		<item>ENTRENCH\n
+			Cost: 5\n
+			Prerequisite: Defend or Enhancement\n
+			Choose a
+			character. Friendly characters adjacent to the character ignore
+			knock
+			back and critical hits.</item>
+		<item>EXTENDED RANGE\n
+			Cost: 10\n
+			Prerequisite: Range greater than 0 and
+			less than 9\n
+			Choose a character. Before making a ranged combat
+			attack, the
+			character\'s range may be increased for the duration of
+			the
+			attack
+			by a number of squares up to its unmodified damage value.
+			For
+			each
+			square the range of an attack is increased, decrease the
+			damage
+			value by 1 (after all other modifiers and replacements) when
+			resolving the attack. An attack using Incapacitate does not place
+			any
+			action tokens on the target.</item>
+		<item>FALL BACK\n
+			Cost: 5\n
+			Prerequisite: Combat Reflexes, Super Senses,
+			or Phasing/Teleport \n
+			Choose a character. When the character makes a
+			close combat attack that
+			would knock back a single target opposing
+			character, the character
+			can choose not to knock back the target.
+			Instead after the attack
+			is resolved move the character directly away
+			from the target (the
+			character breaks away automatically) for each 1
+			damage taken by
+			the target.</item>
+		<item>
+			FASTBALL SPECIAL\n
+			Cost: 12\n
+			Modifiers: #attack# +2 (see text); /
+			#damage#/#giant# +1 (see text)\n
+			Prerequisite: Chosen characters must
+			have the same team ability
+			printed on their bases; see feat text\n
+			Choose two characters; if one of them is
+			KOd before this feat is used,
+			remove the feat from the game.
+			Give both characters a power action
+			when they are adjacent: The
+			first character must have Super Strength
+			and the second character
+			must be a character without Flight, have
+			Toughness and may not
+			have a
+			damage value higher than 3. The first
+			character makes a
+			ranged combat
+			attack against a single opposing target
+			within 6
+			squares. Place the
+			second character in any square adjacent to
+			the
+			target to which the
+			first character has clear line of fire. If
+			the
+			attack succeeds, the
+			second character deals the damage.
+						</item>
+		<item>FLASHBANG\n
+			Cost: 3\n
+			Prerequisite: Smoke Cloud\n
+			Choose a
+			character. The character can use Smoke Cloud as a free action
+			if it
+			is
+			given a move action immediately before or after using
+			Smoke Cloud.
+			After this feat it used, remove it from the game.
+						</item>
+		<item>FORCE FIELD\n
+			Cost: 10\n
+			Prerequisite: Barrier, Defend, Energy
+			Shield/Deflection, or Telekinesis \n
+			When this character cannot use a
+			power or ability that reduces
+			damage, this character may use
+			Toughness.</item>
+		<item>FORTITUDE\n
+			Cost: 25\n
+			Prerequisite: #attack#\n
+			Choose a
+			character.
+			The character ignores other characters\' Exploit
+			Weakness.
+			Outwit
+			can\'t be used by other characters to counter the
+			character\'s
+			powers.
+		</item>
+		<item>FROG LEGS\n
+			Cost: 3\n
+			Prerequisite: and a point value of 150 or
+			less.
+			Choose a character. This character can use the Swim ability.
+		</item>
+		<item>GETAWAY\n
+			Cost: 4\n
+			Prerequisite: Mastermind\n
+			Choose a character.
+			Following the resolution of an attack in which the
+			character uses
+			Mastermind, the character can immediately break
+			away automatically and
+			move 1 square for each damage that was
+			dealt to a friendly character
+			via that use of Mastermind.</item>
+		<item>GIANT STRIDE\n
+			Cost: 9\n
+			Prerequisite: #giant#\n
+			Choose a
+			character. When the character has zero action tokens and is
+			moved as
+			part of a move or power action, it ignores the effects of
+			other
+			characters on movement, though it must break away normally.
+					</item>
+		<item>HAYMAKER\n
+			Cost: 10\n
+			Modifiers: #attack# -1, #damage#/#giant#
+			+2\n
+
+			Choose a character. Give this character a close combat action
+			targeting
+			a single opposing character. After resolving this action,
+			this
+			character takes 1 pushing damage that ignores Willpower and team
+			abilities.</item>
+		<item>HEALING FACTOR\n
+			Cost: 6\n
+			Prerequisite: Regeneration\n
+			Choose a
+			character. When this character uses Regeneration, it doesn\'t
+			count
+			toward your available actions for the turn.</item>
+		<item>HEIGHTENED REFLEXES\n
+			Cost: 10\n
+			Prerequisite: Combat Reflexes or
+			Energy Shield/Deflection\n
+			Choose a character. When the character is
+			hit by an attack using Charge,
+			Hypersonic Speed, Running Shot, or the
+			Move and Attack
+			ability, roll one six-sided die before
+			damage is dealt. On a
+			result of 5 or 6, the character evades the
+			attack.</item>
+		<item>HOLD THE LINE\n
+			Cost: 4\n
+			Prerequisite: #attack#, #damage# and
+			Leadership or Super Strength\n
+			Choose a character. Give the character
+			a power action to make a close
+			combat attack against an opposing
+			character. If the attack
+			succeeds, you may modify the character\'s
+			attack value by -2 and
+			make a close combat attack against a different
+			opposing character
+			as a free action.</item>
+		<item>HOMING DEVICE\n
+			Cost: 8\n
+			Modifiers: #damage# -1\n
+
+			Choose a
+			character. When this character hits an opposing character with
+			a close
+			combat attack, lines of fire drawn to that opposing
+			character until
+			the end of your turn are not affected by hindering
+			terrain.</item>
+		<item>IMMORTAL CONTEMPT\n
+			Cost: 10\n
+			Prerequisite: Deity keyword\n
+			Choose a character. The character modifies its attack value by +1
+			when
+			attacking a character without the Deity or Cosmic keyword that
+			has
+			a point value less than its own.</item>
+		<item>IMPROVISE\n
+			Cost: 7\n
+			Prerequisite: Close Combat Expert or Perplex
+			or Ranged Combat Expert \n
+			Choose a character. Once per round, when
+			one of the character\'s combat
+			values would be modified such that the
+			modified value is higher
+			than the unmodified value, you can ignore the
+			modifier and put an
+			Improvise token on this card, if there are fewer
+			that three tokens
+			on this card. \n
+			If there are three tokens on this
+			card when the character makes an
+			unsuccessful attack roll where the
+			result of the roll is doubles,
+			you can remove all tokens from this
+			card and automatically hit the
+			target of the attack (though this is
+			not a critical hit.) Remove
+			all tokens from this card when the
+			character makes a critical hit.
+		</item>
+		<item>IN CONTACT WITH ORACLE\n
+			Cost: 10 per character chosen\n
+			Prerequisite: Choose two or more characters; Oracle may not be
+			chosen.
+			Chosen characters are Agents. As long as it is not the target
+			on
+			Mind
+			Control, when an Agent is given an action you may choose to
+			give one of
+			its combat values +1 until the beginning of your next
+			turn. If Oracle
+			is on your force, you may remove her from the
+			battlefield at the
+			beginning of the game and place her on this
+			card. At
+			the beginning of
+			any of your turns, you may assign a power
+			action to
+			any Agent with zero
+			or one action token and turn Oracle\'s
+			dial to any
+			click. The Agent
+			given the action may use any power
+			showing on
+			Oracle\'s dial until any
+			Agent with zero or one action
+			token is given a
+			power action to turn
+			Oracle\'s dial. If your last
+			Agent is
+			KOd while
+			Oracle is on this card, Oracle is also
+			KOd.</item>
+		<item>INDOMITABLE\n
+			Cost: 5\n
+			Prerequisite: Battle Fury or Willpower\n
+			Choose a character. When the character is the target of an
+			Incapacitate
+			or a Mind Control attack, it gets +2 to its defense
+			value.</item>
+		<item>INFILTRATE\n
+			Cost: 2\n
+			Prerequisite: Stealth or Shape Change\n
+			Choose a character. This character can ignore other characters for
+			movement purposes, but it must end its movement adjacent to an
+			opposing character.</item>
+		<item>INSIDE INFORMATION\n
+			Cost: 4\n
+			Prerequisite: The character must
+			have at least one keyword.
+			Choose a character. When the character
+			attacks
+			an opposing
+			character
+			that has any of the keywords possessed by
+			the
+			character,
+			modify the
+			character\'s attack value by +2.
+		</item>
+		<item>INSPIRING COMMAND\n
+			Cost: 15\n
+			Prerequisite: Leadership or
+			Mastermind\n
+			Choose a character. Characters with the same team symbol
+			as the
+			character and a lower point value than the character are not
+			dealt
+			pushing damage when a second token is placed upon them if they
+			are
+			adjacent to the character at the beginning of an action.</item>
+		<item>INVIGORATE\n
+			Cost: 10\n
+			Prerequisite: Support\n
+			Choose a character.
+			When the character uses Support, remove one action
+			token from adjacent
+			friendly characters (maximum three total
+			tokens removed.) Characters
+			that have action tokens removed from
+			them can\'t be given power
+			actions
+			the same turn this feat is used.
+					</item>
+		<item>KNOCKDOWN\n
+			Cost: 5\n
+			Prerequisite: Incapacitate\n
+			Choose a
+			character. Once per turn, after the character resolves a
+			successful
+			close combat action using Incapacitate, if the target
+			has only one
+			action token, as a free action the character can
+			immediately make a
+			second close combat attack against the target,
+			which gets +2 to its
+			defense value for the second attack. If the
+			attack succeeds, deal no
+			damage, instead, give the target a second
+			action token. If the
+			character loses Incapacitate before making
+			the second attack, it may
+			not make the second attack.</item>
+		<item>LARGE OBJECT\n
+			Cost: 3 per 100 points of the game\'s build
+			total\n
+			Prerequisite: Super Strength or Telekinesis\n
+			When any
+			character you
+			control uses an object as a weapon, you may
+			reduce the
+			damage increase
+			provided by the object, to a minimum of
+			1 damage. The
+			character gets
+			+1 to its attack value for that
+			attack for each 1 damage
+			reduced.
+		</item>
+		<item>
+			LAZARUS PIT\n
+			Cost: 20 (10 if Ra\'s Al Ghul)\n
+
+			Choose a
+			character.
+			When the character is
+			KOd, remove it from the battlefield,
+			place it on
+			this card on its
+			first
+			KOd click, and then place a Special
+			marker on the
+			square where
+			it was
+			KOd. At the beginning of each
+			player\'s turn, you
+			may either
+			heal the character of 1 damage or return
+			it to the
+			battlefield
+			on the square with the Special marker. If you
+			return the
+			character to the battlefield, remove this Lazarus Pit from
+			the
+			game;
+			roll a one six-sided die at the beginning of each of your
+			turns. On a
+			result of 5 or 6, remove the Special marker from
+			the
+			battlefield. As
+			long as the Special marker is on the
+			battlefield, the
+			character gains
+			Battle Fury, Toughness, and
+			Willpower; it may not use
+			any of its other
+			powers or its team
+			ability. When time expires, or if
+			all other members
+			of the
+			character\'s force are
+			KOd while the character
+			is on this card,
+			the character is
+			KOd. The character awards victory
+			points each time it
+			isKOd.</item>
+		<item>LIFE MODEL DECOY\n
+			Cost: 12\n
+			Choose a character. This character
+			may not be healed. Damage dealt
+			to this character is reduced by 1 if
+			it is not reduced or ignored by
+			any other effect.</item>
+		<item>LONER\n
+			Cost: 5\n
+			Prerequisite: Point value of 100 points or less.
+			Choose a character. If no other friendly character on the
+			battlefield
+			shares any of this character\'s keywords (or this
+			character has no
+			keywords), modify this character\'s defense
+			value by +1 when this
+			character has a clear line of fire to
+			an opposing character 6 or fewer
+			squares away. Only one
+			character on a force can be assigned this feat.
+		</item>
+		<item>
+			LOOK! UP IN THE SKY!\n
+			Cost: 9\n
+			Prerequisite: #flying#\n
+			Choose a
+			character. When the character is given a move action,
+			modify its speed
+			value by +2 until the action is resolved.
+			A character assigned this
+			feat cannot carry other
+			characters and automatically breaks away from
+			other soaring
+			characters.</item>
+		<item>LUCKY BREAK\n
+			Cost: 5\n
+			Prerequisite: #speed# or #swim#\n
+			Choose a
+			character. When you make an attack roll for the
+			character, if the
+			result on either of the two dice is a 1,
+			you may reroll one die before
+			determining the attack roll
+			result. You may reroll only once per
+			attack roll. If you
+			use this feat, remove this card from the game
+			after the
+			attack resolves.</item>
+		<item>LUNGE\n
+			Cost: 5\n
+			Prerequisite: Close Combat Expert or
+			Leap/Climb\n
+			Choose a character. When the character is given an
+			action, but
+			immediately before it makes a close combat attack, it can
+			break away automatically and move up to 2 squares.</item>
+		<item>MANEUVER\n
+			Cost: 8\n
+			Prerequisite: #speed#, Close Combat Expert or
+			Combat Reflexes\n
+			Choose a character. When the character makes a close
+			combat
+			attack against a single target opposing character, after
+			the
+			attack is resolved, put the target in any unoccupied
+			square adjacent
+			to the character.</item>
+		<item>MENTAL SHIELDS\n
+			Cost: 15\n
+			Prerequisite: Mind Control or
+			Willpower\n
+			Choose a character. The character is not affected by other
+			character\'s Mind Control. When the character uses Mind
+			Control, it
+			can target only a single opposing character;
+			the character takes no
+			damage due to the point value of the
+			target.</item>
+		<item>MERCENARY\n
+			Cost: 25 minus 5 for each friendly character with the
+			chosen
+			team ability, min 10\n
+			Prerequisite: No team symbol\n
+			Choose a
+			character. Before the beginning of the game\'s first
+			turn, choose a
+			team ability possessed by a friendly
+			character. The team ability
+			cannot be a wild card, must be
+			usable by wild cards and cannot be an
+			Additional Team
+			Ability. The character is a wild card that can only use
+			the
+			chosen team ability when adjacent to a friendly character
+			possessing that team ability and a higher point value.
+												</item>
+		<item>MONSTER HUNTER\n
+			Cost: 3\n
+			Prerequisite: #damage#\n
+			Choose a
+			character. Modify the character\'s attack value and
+			damage value by +1
+			when it is given a close combat or
+			ranged combat action targeting a
+			character with the #giant#
+			or #colossus# damage symbol or the Monster
+			keyword.</item>
+		<item>MOVETHROUGH\n
+			Cost: 8\n
+			Prerequisite: Charge\n
+			Choose a character.
+			The character ignores other characters for
+			movement purposes, but it
+			must still break away, as normal.
+												</item>
+		<item>NANOARMOR\n
+			Cost: 6\n
+			Prerequisite: #damage#\n
+			Choose a character.
+			The character ignores damage dealt by objects
+			as well as all modifiers
+			to damage dealt to or taken by
+			this character due to objects.</item>
+		<item>NANOBOTS\n
+			Cost: 10\n
+			Prerequisite: Damage value of 2 or less\n
+			Choose a character. When this character is the only character
+			adjacent to an object not being held by a character,
+			give the
+			character a free action and remove the object from
+			the game. Heal the
+			character of 2 damage.</item>
+		<item>NOT SO SPECIAL\n
+			Cost: 3\n
+			Prerequisite: None\n
+			Choose a character.
+			Whenever this character attacks an opposing
+			character possessing a
+			Special Power, if this character
+			currently possesses no Special Power
+			or Traits, modify this
+			character\'s attack value by +1.</item>
+		<item>NOVA BLAST\n
+			Cost: 10\n
+			Prerequisite: Pulse Wave\n
+			Choose a
+			character. When the character uses Pulse Wave, its
+			damage does not
+			become 1 for the attack. Use the
+			character\'s unmodified damage value
+			for the attack,
+			regardless of how many clear lines of fire can be
+			drawn.
+			After resolving this action, the character takes 2 pushing
+			damage that ignores Willpower and team abilities; remove
+			this Nova
+			Blast from the game.</item>
+		<item>OPPORTUNIST\n
+			Cost: 10\n
+			Prerequisite: Charge or Running Shot or
+			Willpower; point value of 50
+			points or more. \n
+			Choose a character. If
+			the character has zero action tokens at
+			the end of your turn (before
+			tokens are removed from
+			characters), put an opportunist token on this
+			card if there
+			are four or fewer opportunist tokens on this card. When
+			the
+			character or an adjacent friendly character makes an
+			attack, after
+			making the roll you can remove any number of
+			opportunist tokens from
+			this card and modify the result of
+			the attack roll by +1 for each
+			token removed. If
+			opportunist tokens are removed when another
+			character makes
+			an attack, deal the character 1 unavoidable damage
+			after
+			the action resolves.</item>
+		<item>OUTSMART\n
+			Cost: 10\n
+			Prerequisite: Mastermind or Outwit\n
+			Choose a
+			character. When a power possessed by the character or an
+			adjacent
+			friendly character would be countered by an
+			opposing character\'s
+			power or ability, you and the opposing
+			character\'s controller each
+			roll 2d6. If your result is
+			more, the power is not countered instead.
+		</item>
+		<item>PASSENGER\n
+			Cost: 5\n
+			Prerequisite: Leap/Climb or
+			Phasing/Teleport\n
+			Choose a character. When this character uses
+			Leap/Climb or
+			Phasing/Teleport, it may use the Carry ability. After
+			this
+			character resolves an action using Passenger, it takes 1
+			pushing
+			damage that ignores Willpower and team abilities.
+												</item>
+		<item>POINT BLANK\n
+			Cost: 4\n
+			Prerequisite: Ranged Combat Expert\n
+			Choose a character. Give the character a ranged combat action and
+			modify its attack value by +1 if the target of the attack
+			is 4 or
+			fewer squares away.</item>
+		<item>POUNCE\n
+			Cost: 15\n
+			Modifiers: #attack# +1 / #damage# +1\n
+			Prerequisite: Leap/Climb and damage value 1 or 2 \n
+			Choose a
+			character. Give this character a power action. Move the
+			character up
+			to its speed value and makes a close combat
+			attack as a free action.
+			After resolving the attack, the
+			character takes 1 unavoidable damage.
+		</item>
+		<item>POWER BARRAGE\n
+			Cost: 6\n
+			Prerequisite: #duoatck#\n
+			Choose a
+			character. If this character possesses
+			Blades/Claws/Fangs, Energy
+			Explosion, Pulse Wave, Quake,
+			Incapacitate, Penetrating/Psychic Blast
+			or Telekinesis and
+			uses it as an attack, after actions resolve, it may
+			make a
+			close or ranged combat attack as a free action, but
+			modifies its
+			attack and damage values by -1 for that
+			attack.</item>
+		<item>
+			PRECISION DEMOLITION\n
+			Cost: 5\n
+			Prerequisite: Close Combat Expert
+			or Super Strength\n
+			Choose a character. When the character destroys a
+			wall or
+			blocking terrain, do not place debris markers; instead
+			place
+			SPECIAL markers to indicate that the wall or blocking
+			terrain has been
+			destroyed.</item>
+		<item>PROTECTED\n
+			Cost: 8\n
+			
+			Choose a character. (Optional) If the
+			character does not already
+			have two action tokens on it, you may choose to ignore damage dealt
+			to the
+			character as a result of a single attack. If you do, after
+			that
+			action is resolved, give the character an action
+			token and remove this
+			feat from the game. If the character
+			already had one action token on
+			it, giving it a second
+			action token deals pushing damage normally.
+		</item>
+		<item>PUMMEL\n
+			Cost: 10\n
+			Prerequisite: Combat Reflexes or Close Combat
+			Expert or Super Senses \n
+			Choose a character. Once per turn, when the
+			character has
+			zero action tokens and is given a close combat action,
+			you
+			can ignore the result of one attack roll made for the
+			character and
+			reroll the dice to obtain a new result.
+													</item>
+		<item>PYM PARTICLES\n
+			Cost: 6\n
+			Prerequisite: #damage#,#tavengers#\n
+			Choose a character. Once per game, choose one – the character
+			has the
+			damage symbol; or the character modifies its
+			defense value by +1
+			against ranged combat attacks. The
+			chosen effect lasts until the end
+			of the game.</item>
+		<item>RECHARGE\n
+			Cost: 5\n
+			Prerequisite: Energy Explosion\n
+			Choose a
+			character. Whenever a total of 2 or more damage is
+			taken by opposing
+			characters while this character is using
+			Energy Explosion, heal this
+			character of 1 damage after
+			actions resolve.</item>
+		<item>REPULSOR\n
+			Cost: 10\n
+			Modifier: #attack# -1\n
+			Prerequisite: Force
+			Blast \n
+			Choose a character. When the character succeeds at a ranged
+			combat attack against a single target opposing character,
+			after the
+			action is resolve the target is knocked back.
+													</item>
+		<item>REPULSOR SHIELD\n
+			Cost: 25\n
+
+			Choose a character. The character
+			ignores other characters Force
+			Blast, Psychic Blast, and Ranged Combat
+			Expert.</item>
+		<item>RETALIATION\n
+			Cost: 5\n
+			Prerequisite: #damage#, Leap/Climb or
+			Blades/Claws/Fangs or Outwit or
+			Super Senses, point value of 60 or
+			greater \n
+			Choose a character. When the character takes damage but
+			isn\'t
+			defeated by a close combat attack made by an opposing
+			character, after the resolution of the attack you can roll
+			2d6. on a
+			result of 9-11, deal the attacker 1 damage; on a
+			result of 12, deal
+			the attacker 2 damage. After this feat
+			is used, remove it from the
+			game.</item>
+		<item>REVENGE\n
+			Cost: 2 per character on your force\n
+			Prerequisite:
+			Battle Fury or Willpower\n
+			Choose a character. When the character
+			makes a close or ranged
+			combat attack, modify its attack value by +1
+			for each
+			friendly character with a higher point value that has been
+			knocked out. After this feat is used, remove it from the
+			game.</item>
+		<item>RIP IT UP\n
+			Cost: 20\n
+			Prerequisite: Super Strength\n
+			Before a
+			target character begins a move as part of a move,
+			power, or free
+			action, give it a light object token from
+			outside of the game.</item>
+		<item>RUNNING START\n
+			Cost: 5\n
+			Prerequisite: Plasticity or Stealth\n
+			Choose a character. Do not halve the character\'s movement when
+			it
+			begins a move action in hindering terrain.</item>
+		<item>SABOTEUR\n
+			Cost: 20\n
+			Prerequisite: Any non-wild card team
+			ability.</item>
+		Choose a character. Opposing figures with wild card team
+		abilities may
+		only copy the team ability of this character
+		when copying team
+		abilities. If this feat is assigned to
+		two or more members of your
+		force, this feat is cancelled.
+		<item>
+			SCATTER!\n
+			Cost: 8\n
+			Prerequisite: Defend or Leadership
+			or Super
+			Senses\n
+			Choose a character. When the character is
+			the target of an
+			attack, immediately after the attack
+			resolves you can move up to three
+			friendly characters
+			adjacent to the character up to half their
+			unmodified
+			speed values. The moved characters must break away
+			normally
+			and can\'t end their movement adjacent to any
+			opposing character.
+		</item>
+		<item>SHAKE OFF\n
+			Cost: 10\n
+			Prerequisite: Transporter or giant
+			character\n
+			Choose a character. When the character successfully breaks
+			away,
+			it deals 1 damage to all adjacent opposing characters.
+													</item>
+		<item>SHELLHEAD\n
+			Cost: 10\n
+			Modifier: #defense# +2\n
+			Prerequisite:
+			Impervious, Invulnerability, or Toughness \n
+			Choose a character. The
+			ability modifier for Shellhead applies
+			only when the character has two
+			action tokens placed upon
+			it.</item>
+		<item>SHOCKWAVE\n
+			Cost: 8\n
+			Prerequisite: #attack#, Quake\n
+			Choose a
+			character. Give the character a power action. Make a
+			single attack
+			roll and compare the result to the defense
+			values of all adjacent
+			opposing characters. Characters
+			against which the attack succeeds are
+			dealt no damage, but
+			are knocked back 4 squares.</item>
+		<item>
+			SHOW OFF\n
+			Cost: 6\n
+			Prerequisite: #duoatc#\n
+			Choose a character.
+			When using the Duo Attack ability, if this
+			character
+			KO\'s an opposing
+			character with the first attack,
+			you may choose to not give this
+			character a free action
+			for the second attack. Instead, do not give
+			this
+			character an action token for the action, though the
+			action still
+			counts towards your available actions.
+														</item>
+		<item>SIDEKICK\n
+			Cost: 10\n
+
+			Choose two characters: The first character
+			must have a point
+			value at least twice that of the second character.
+			The
+			two characters must be adjacent in order to use this
+			feat. Neither
+			character may carry the other. (Optional)
+			The second character uses
+			the first character\'s
+			unmodified defense value instead of its own
+			when it is
+			attacked by an opposing character.</item>
+		<item>SIDESTEP\n
+			Cost: 10\n
+			Prerequisite: #duoatc#\n
+			Choose a character.
+			When using the Duo Attack special ability,
+			before making the second
+			attack the character can attempt
+			to move up to 4 squares (it must
+			still break away, if
+			necessary). If it moves, it must be able to
+			attempt the
+			second attack after the move.</item>
+		<item>SIPHON POWER\n
+			Cost: 20\n
+			Prerequisite: Wild card team ability\n
+			Choose a character. This character has the following team
+			ability
+			instead of any team ability for team symbols
+			printed on its base: Once
+			at the beginning of each
+			player\'s turn, this character may choose and
+			use on that
+			turn any team ability that any figure on the battlemap
+			possess. This team ability follows all other rules for
+			the wild card
+			team ability.</item>
+		<item>SKULLDUGGERY\n
+			Cost: 5\n
+			Prerequisite: Exploit Weakness or
+			Poison\n
+			Choose a character. Once per turn when the character deals
+			damage to a target opposing character you can roll 2d6;
+			on a result of
+			9-12, you can give an action token to the
+			target if it has zero action
+			tokens.</item>
+		<item>SLIPPERY\n
+			Cost: 15\n
+			Prerequisite: Combat Reflexes or Defend or
+			defense value greater than
+			17 \n
+			Choose a character. The character
+			ignores other characters\'
+			Plasticity, and it fails to break away only
+			on a result
+			of 1.</item>
+		<item>SNEAK\n
+			Cost: 5\n
+			Prerequisite: Stealth or Super Senses\n
+			Choose a
+			character. When the character is given a move action,
+			it is not
+			required to end its movement when it becomes
+			adjacent to an opposing
+			character. Otherwise it must
+			break away normally.</item>
+		<item>SPOTTER\n
+			Cost: 5\n
+			Prerequisite: Ranged Combat Expert\n
+			Choose a
+			character. When another friendly character makes a
+			ranged combat
+			attack against a target opposing figure,
+			modify the friendly
+			character\'s attack value by +1 if
+			this character has a clear line of
+			fire to the target and
+			the target is within this character\'s range.
+		</item>
+		<item>STARSTRUCK ADMIRER\n
+			Cost: 4\n
+			Prerequisite: Celebrity keyword.
+			Choose a character. The character can use
+			Incapacitate
+			with a range of
+			8, if it can\'t already. After this feat
+			is
+			used, remove it from the
+			game.
+		</item>
+		<item>
+			STREAK OF LUCK\n
+			Cost: 5\n
+			Prerequisite: #attack#, #damage#\n
+			Choose a character. Each time an attack roll fails against the
+			character, put a luck token on this card if there are
+			fewer than three
+			tokens on this card. If there are luck
+			tokens on this card when the
+			character makes a critical
+			miss, the character is not dealt
+			unavoidable damage; after
+			the attack is resolved, remove all luck
+			tokens from this
+			card. If there are luck tokens on this card when the
+			character makes a critical hit, modify the character\'s
+			damage value
+			by +X, where
+			X equals the number of luck tokens on this card;
+			after the
+			attack is resolved, remove all luck tokens from
+			this card.</item>
+		<item>STUNNING BLOW\n
+			Cost: 10\n
+			Prerequisite: Incapacitate\n
+			Choose a
+			character. When the character makes a
+			successful attack using
+			Incapacitate, in addition to the normal effect of
+			Incapacitate the
+			character may deal damage
+			equal to its unmodified damage value. The
+			attacker may
+			choose to divide damage dealt among the successfully hit
+			targets,.</item>
+		<item>SUBMERGED\n
+			Cost: 5\n
+			Prerequisite: #swim#\n
+			Choose a character.
+			When it is not your turn, if the character occupies
+			water terrain, lines of fire
+			drawn to it are blocked.
+														</item>
+		<item>SUNDER\n
+			Cost: 3\n
+			Prerequisite: Blades/Claws/Fangs\n
+			Choose a
+			character. When the character succeeds at a close
+			combat attack
+			targeting blocking terrain, a wall, or an
+			object, it deals 3 damage.
+		</item>
+		<item>SUPPRESSIVE FIRE\n
+			Cost: 5\n
+			Prerequisite: Enhancement or Ranged
+			Combat Expert or Sharpshooter \n
+			Choose a character. At the end of
+			your turn, you can
+			choose a target opposing character 8 or fewer
+			squares
+			away to which the character can draw a clear line of
+			fire; give
+			the chosen character a Suppression token.
+			Until the beginning of your
+			next turn, if the chosen
+			character would be given a ranged combat
+			action or make a
+			ranged combat attack, its controller must roll a d6;
+			on a
+			result of 1 or 2, the attack can\'t be made or the action
+			can\'t
+			be given (the action can still be given to another
+			character, if
+			possible). At the beginning of your next
+			turn after the character uses
+			this feat, remove all
+			Suppression tokens from opposing characters and
+			then
+			either remove this feat from the game or roll a d6; on a
+			result of
+			1–4 give an action token to this character (the
+			token deals pushing
+			damage normally).</item>
+		<item>SWINGLINE\n
+			Cost: 10\n
+			Modifier: #speed# +1 \n
+			Prerequisite:
+			#speed#\n
+			Choose a character. The character ignores hindering terrain
+			for
+			movement purposes. If the character succeeds at a ranged
+			combat
+			attack against a target opposing character with
+			the #flying# speed
+			symbol, the target gains Earthbound
+			until the beginning of its
+			controller\'s next turn.</item>
+		<item>TACTICS\n
+			Cost: 20\n
+			Prerequisite: Leadership and any team
+			symbol\n
+			Choose a character. When the character uses Leadership, on a
+			result of 3-6 add an extra action to the other action
+			granted by
+			Leadership to your available actions for the
+			turn. This extra action
+			can be used only by a friendly
+			character with the same team symbol as
+			the character.
+														</item>
+		<item>TAUNT\n
+			Cost: 15\n
+			Modifier: #attack# +1\n
+			Prerequisite: Range
+			value greater than 0 \n
+			Choose a character. Give this character a
+			power action; it
+			makes a ranged combat attack targeting a single
+			opposing
+			character to which it has a clear line of fire within 6
+			squares. If the attack succeeds, it deals no damage. The
+			target must
+			either attempt to move adjacent to or attack
+			this character next turn.
+		</item>
+		<item>TAKEDOWN\n
+			Cost: 6\n
+			Prerequisite: Incapacitate or Plasticity\n
+			Choose a character. If an opposing character makes an
+			unsuccessful
+			close combat attack against the character,
+			after the action is
+			resolved give the opposing character
+			an extra action token if it has
+			zero or one action token.
+			If the opposing character already has one
+			action token on
+			it, giving it a second action token deals pushing
+			damage
+			normally.</item>
+		<item>TELEKINETIC REACH\n
+			Cost: 12\n
+			Prerequisite: Telekinesis\n
+			Choose a
+			character.When using Telekinesis, if A is within 6
+			squares and is an object, B may be up to 10 squares from A. All other
+			rules
+			for Telekinesis apply normally.</item>
+		<item>TERRIFY\n
+			Cost: 6\n
+			Modifier: #attack# -1 \n
+			Prerequisite: Battle
+			Fury or Incapacitate or Mind Control\n
+			Choose a character. Give the
+			character a power action and make
+			a single close combat attack as a
+			free action (the attack
+			deals no damage). Compare the result to the
+			defense
+			values of all adjacent opposing target characters,
+			maximum four
+			targets. Each target against which the
+			attack succeeds is knocked back
+			a number of squares equal
+			to half its speed values (targets are not
+			dealt knock
+			back damage). If the attack roll is doubles and succeeds
+			against the target, also give an action token to the
+			target if it has
+			zero or one action token (the target is
+			not dealt pushing damage for
+			this token).</item>
+		<item>THUNDERING BLOW\n
+			Cost: 20\n
+			Prerequisite: #attack# attack value
+			11 or higher\n
+			Choose a character. After the resolution of a
+			successful attack
+			by the character that causes an opposing character
+			to
+			take 3 or more damage, the damage value of all friendly
+			characters
+			attacking that opposing character during that
+			turn is modified by +1
+			until an attack against that
+			opposing character is unsuccessful. If
+			this feat is
+			assigned to two or more characters on your force, this
+			feat is canceled.</item>
+		<item>THWART\n
+			Cost: 15\n
+			Prerequisite: Mastermind or Outwit\n
+			Choose a
+			character. Give the character a power action. Place a
+			thwart token on
+			a target feat card assigned to a
+			character that is 10 or fewer squares
+			from the character
+			and to which the character has a clear line of
+			fire. The
+			target feat is ignored until a character to which it is
+			assigned is given a power action specifically to remove
+			the thwart
+			token.</item>
+		<item>TOXIC BURST\n
+			Cost: 10\n
+			Prerequisite: Poison\n
+			Choose a character.
+			For purposes of resolving its Poison power,
+			the character is adjacent
+			to opposing characters up to
+			two squares away to which it has a clear
+			line of fire.
+			After dealing damage with Poison, using Toxic Burst, the
+			character is dealt 1 unavoidable damage.</item>
+		<item>TRIAGE\n
+			Cost: 10\n
+			Prerequisite: Support\n
+			Choose a character.
+			When the character succeeds at the attack
+			roll for Support, the
+			resulting healing can be divided
+			among the target and any other
+			friendly characters (none
+			of which may be adjacent to an opposing
+			character) to
+			which the character is adjacent and that the attack roll
+			would hit (ignore all combat value modifiers). The target
+			must be
+			healed of at least 1 damage.</item>
+		<item>TRICK SHOT\n
+			Cost: 20\n
+			Prerequisite: Plasticity or Ranged Combat
+			Expert\n
+			Choose a character. When making an attack from a square that
+			is
+			not adjacent to an opposing character, the character
+			ignores Stealth
+			and team abilities that duplicate the
+			effects of Stealth, and it
+			ignores characters and
+			hindering terrain for line of fire purposes.
+		</item>
+		<item>UNSTOPPABLE\n
+			Cost: 5\n
+			Prerequisite: Super Strength\n
+			Choose a
+			character. The character ignores the effects of
+			hindering terrain for
+			movement purposes. Once when given
+			a move action, the character can
+			make a close combat
+			attack targeting blocking terrain or a wall as a
+			free
+			action. If the attack succeeds, the character can
+			continue the
+			rest of its movement, if any, after making
+			the attack.</item>
+		<item>VAMPIRISM\n
+			Cost: 12\n
+			Prerequisite: Blades/Claws/Fangs\n
+			Choose a
+			character. The character can use Steal Energy if it
+			can\'t already.
+		</item>
+		<item>VAULT\n
+			Cost: 3\n
+			Prerequisite: Combat Reflexes or Leap/Climb\n
+			Choose a character. After the character resolves a close combat
+			action, it may be placed in any square in which it may
+			legally be
+			placed adjacent to a target of the action at
+			the same elevation as the
+			target.</item>
+		<item>VENDETTA\n
+			Cost: 6\n
+			Prerequisite: #attackk# and #defense# and
+			#damage#\n
+			Choose a character. At the beginning of your first turn,
+			choose
+			an opposing character with a point value greater than
+			this
+			character. Modify the attack value of this character
+			by +1 when it is
+			making a close or ranged combat attack
+			against the chosen character.
+			If this character defeats
+			the chosen character, you score additional
+			victory points
+			equal to half the chosen character\'s point value. If
+			the
+			chosen character defeats this character, the chosen
+			character\'s
+			controller scores additional victory points
+			equal to half this
+			character\'s point value.</item>
+		<item>
+			WARBOUND\n
+			Cost: 5 per character on your force with the chosen
+			keyword\n
+			Prerequisite:
+			<item>A single, common keyword.</item>
+			Choose a character. Choose a keyword. All characters on
+			your force
+			that have the keyword are assigned this feat.
+			When a target friendly
+			character assigned this feat is
+			given an action, instead of giving it
+			an action token,
+			you can give the action token for the action to an
+			adjacent friendly character that has the chosen keyword,
+			has zero
+			action tokens, and has a point value equal to at
+			least half of the
+			target\'s point value.
+		</item>
+		<item>WHIRLWIND\n
+			Cost: 6\n
+			Prerequisite: Force Blast\n
+			Choose a
+			character. When the character uses Force Blast, the
+			result of the
+			six-sided die roll can be split among
+			multiple target adjacent
+			opposing characters. The targets
+			are otherwise affected normally by
+			Force Blast.</item>
+	</string-array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="unlisted_keywords_names">
+		<item>Infinity Challenge</item>
+		<item>Hypertime</item>
+		<item>Clobberin\' Time</item>
+		<item>Xplosion</item>
+		<item>Indy</item>
+		<item>Cosmic Justice</item>
+		<item>Critical Mass</item>
+		<item>Universe</item>
+		<item>Unleashed</item>
+		<item>Ultimates</item>
+		<item>Mutant Mayhem</item>
+		<item>City of Heroes</item>
+		<item>Legacy</item>
+		<item>Fantastic Forces</item>
+		<item>City of Villains</item>
+		<item>Icons</item>
+		<item>Armor Wars</item>
+		<item>Collateral Damage</item>
+		<item>Sinister</item>
+		<item>Danger Room</item>
+		<item>Giants</item>
+		<item>Invincible</item>
+		<item>Green Lantern Corps</item>
+		<item>Days of Future Past</item>
+		<item>Supernova</item>
+		<item>2099</item>
+		<item>Origin</item>
+		<item>B.P.R.D.</item>
+	</string-array>
+</resources>

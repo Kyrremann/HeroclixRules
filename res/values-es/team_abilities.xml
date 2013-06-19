@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="team_abilities">
+        <item>2000 AD\n
+			At any time during the game, you may declare an
+			opposing team ability
+			or character as your target. Once the character
+			or team ability is
+			chosen, it may not be changed. All characters using
+			the 2000 AD team
+			ability increase their attack value by 1 when
+			attacking the chosen
+			character or a character possessing the chosen
+			team ability.</item>
+        <item>ARACHNOS\n
+			When a character using the Arachnos team ability takes
+			damage from an
+			attack, the attacker is dealt 1 unavoidable damage.
+			This damage is
+			not an attack.</item>
+        <item>ASSASSINS\n
+		    Characters with this team ability can use Stealth. When a 
+		    close combat attack by an opposing character misses this 
+		    character and the attack roll is doubles, you may place an 
+		    action token on this character and deal the attacker 1 damage.</item>
+        <item>AVENGERS\n
+			When you give a character using the Avengers team
+			ability a move action,
+			it does not count toward your available actions
+			for the turn.
+			\n\n
+			Cuando le das una acción de movimiento a un personaje que usa la habilidad de equipo Avengers no cuenta para el total de
+acciones que tienes disponibles este turno.</item>
+        <item>AVENGERS INITIATIVE\n
+			Characters using the Avengers Initiative team
+			ability treat hindering terrain as clear terrain for movement and line of fire
+			purposes.
+			\n\n
+			Los personajes que usan la habilidad de equipo Avengers Initiative tratan el terreno obstaculizado como terreno
+limpio para movimiento y líneas de fuego.</item>
+        <item>BATMAN ALLY\n
+			A character using the Batman Ally team ability may
+			use Stealth (though
+			they do not possess the Stealth power).
+			\n\n
+			Un personaje que usa la habilidad de equipo Batman Ally puede usar Stealth.</item>
+        <item>BATMAN ENEMY\n
+			Characters using the Batman Enemy team ability can
+			replace their attack value
+			with the unmodified attack value of an
+			adjacent friendly character
+			using the Batman Enemy team ability.
+			\n\n
+			Los personajes que usan la habilidad de equipo Batman Enemy pueden reemplazar su valor de ataque con el valor de
+			ataque sin modificar de un personaje amigo adyacente que usa la habilidad de equipo Batman Enemy.</item>
+        <item>BROTHERHOOD OF MUTANTS\n
+			When you give a character using the
+			Brotherhood of Mutants team ability a
+			move action, it does not count
+			toward your available actions for the
+			turn.
+			\n\n
+			Cuando le das una acción de movimiento a un personaje que usa la habilidad de equipo Brotherhoof of
+Mutants no cuenta para el total de acciones que tienes disponibles este turno.</item>
+        <item>BUREAU OF PARANORMAL RESEARCH AND DEFENSE\n
+			Characters using the B.P.R.D. team ability are wild cards. </item>
+        <item>CALCULATOR\n
+			Characters using the Calculator team ability are wild cards.
+			\n\n
+			Los miembros del equipo Calculator son comodines.</item>
+        <item>COALITION OF ORDERED GOVERNMENTS (COG)\n
+			When this character makes a ranged combat attack, after
+			actions resolve it may move up to 3 squares as a free action
+			if they end the move occupying hindering terrain or adjacent
+			to blocking terrain or a wall. Uncopyable.</item>
+        <item>COVENANT EMPIRE\n When a character using this team ability is given a move
+			action, it can use the Carry ability, but only to carry
+			characters using this team ability. It can carry up to two
+			characters if both also have a lower point value.
+			Uncopyable.</item>
+        <item>CRIME SYNDICATE\n
+			Characters using the Crime Syndicate team
+			ability may use Probability Control.
+			When a roll is ignored because of
+			this team ability an action token
+			must be placed on a friendly
+			character on the battlefield or the roll
+			is not ignored. Uncopyable.
+			\n\n
+			Los personajes que usan la habilidad de equipo Crime Syndicate pueden usar Probability Control. Cuando se ignora
+			una tirada debido a esta habilidad de equipo, se debe colocar un token de acción en un personaje amigo en el campo de batalla o la tirada
+			no se ignora. No copiable.</item>
+        <item>CROSSGEN\n
+			When a character using the CrossGen team ability takes
+			damage from an
+			attack, the attacker is dealt 1 unavoidable damage.
+			This damage is
+			not an attack.</item>
+        <item>CRUSADE\n
+			All attack rolls made by characters using the Crusade
+			team ability that
+			result in doubles (except two 1s) cause knock back
+			equal to the
+			attacking character\'s damage value.</item>
+        <item>DANGER GIRL\n
+			This character can use Shape Change, but only
+			succeeds on a roll of 6.
+			Using Shape Change in this way does not
+			prevent the character from
+			using Shape Change through another game
+			effect.</item>
+        <item>DEFENDERS\n
+			Characters using the Defenders team ability may
+			replace their defense value
+			with the unmodified defense value of an
+			adjacent friendly character
+			using the Defenders team ability.
+			\n\n
+			Los personajes que usan la habilidad de equipo Defenders pueden reemplazar su valor de defensa con el valor de defensa
+sin modificar de un personaje amigo adyacente que use la habilidad de equipo Defenders.</item>
+        <item>DOMINION\n
+		    When a ship using this team ability is knocked out, one
+			friendly ship that shares a keyword or team ability with the
+			KO\'d ship may deal 1 penetrating damage to an opposing
+			ship within 2 squares.</item>
+        <item>FANTASTIC FOUR\n
+			When a character using the Fantastic Four team
+			ability is KO\'d, each
+			other friendly character using the Fantastic
+			Four team ability may be
+			healed of 1 damage. If all remaining
+			characters using the team
+			ability are KO\'d as part of the same
+			action, this team ability can\'t
+			be used.
+			\n\n
+			Cuando un personaje que usa la habilidad Fantastic Four es derrotado, cada uno de los personajes amigos que usan
+la habilidad Fantastic Four se cura 1 daño. Si todos los personajes que usan esta habilidad son derrotados como parte de la misma acción
+esta habilidad no puede ser usada.</item>
+        <item>FEDERATION\n
+            When this ship is attacked by a ship marked with one or more action tokens, modify this ship\'s  defense value by +1. Uncopyable.</item>
+        <item>FEDERATION AWAY TEAM\n
+		    Once per game per character, when this character occupies your starting area, you may give another character with the Federation keyword a power action and place this character within 12 squares of its current square. Uncopyable.</item>
+        <item>FEDERATION SUPPORT TEAM\n
+		    Once during each of your turns, you may give a character that can use this team ability a power action to use Perplex, but only to target a character with the Federation keyword. This Perplex may be used in addition to other uses of Perplex by this character.</item>
+        <item>FOUNDERS\n
+		    At the beginning of your turn, choose a single opposing character within line of fire of any one character that can usethis team ability;
+		    ll friendly characters using this team ability modify their attack value by +1 when attacking the chosen target this turn. Uncopyable</item>
+        <item>FREEDOM PHALANX\n
+			Characters using the Freedom Phalanx team ability are wild cards.</item>
+        <item>GREEN LANTERN CORPS\n
+			When using the Carry ability, characters
+			using theGreen Lantern Corps
+			team ability may carry up to 8 friendly
+			characters.
+			\n\n
+			Los personajes que usan la habilidad de equipo Green Lantern Corps pueden llevar hasta 8 personajes
+			amigos cuando usan la habilidad Carry.</item>
+        <item>GUARDIANS OF THE GLOBE\n
+			When a character uses this team ability
+			rolls doubles on the dice on a
+			successful attack roll, the target is
+			not knocked back. The attack
+			deals damage normally. If the target has
+			zero or one action token
+			after the attack has been resolved, give the
+			target an action token.</item>
+        <item>HYDRA\n
+			When this character is adjacent to a friendly character making a ranged combat attack, modify the target\’s defense value by -1 if the target is within line of fire of this character.
+			\n\n
+			Cuando un personaje que usa la habilidad de equipo Hydra está adyacente a un personaje amigo que hace un ataque a distancia,
+modifica el valor de defensa del objetivo en -1 si el objetivo esta dentro de la línea de fuego de este personaje.</item>
+        <item>HYPERTIME\n
+			Whenever an opposing character given an action
+			attempts to move from a
+			non-adjacent square into a square that is
+			adjacent to a character
+			using the Hypertime team ability, it must roll
+			a d6. On a result of
+			1-2, the opposing character cannot move to any
+			square adjacent to the
+			character using this team ability that turn.
+			Characters using this
+			team ability ignore it on opposing characters.
+			\n\n
+			Siempre que un personaje opuesto al que se le dio una acción intente moverse desde un casillero no adyacente a uno
+			adyacente a un personaje que usa la habilidad de equipo Hypertime, debe tirar un D6. Con un resultado de 1 a 2 el personaje oponente no
+			puede moverse a ningún casillero adyacente al personaje que usa esta habilidad de equipo durante este turno. Los personajes que usan
+			esta habilidad de equipo la ignoran en personajes opuestos.</item>
+        <item>INJUSTICE LEAGUE\n
+			Whenever a character using the Injustice
+			League team ability attacks an
+			opposing character that was attacked by
+			another character using the
+			Injustice League team ability this turn,
+			the action does not count
+			toward your available actions for the turn.
+			\n\n
+			Siempre que un personaje que usa la habilidad de equipo Injustice League ataca un personaje opuesto que fue
+atacado este turno por otro personaje que usa la habilidad de equipo Injustice League, la acción no cuenta para el total de acciones que
+tienes disponibles este turno.</item>
+        <item>JUSTICE LEAGUE\n
+			When you give a character using the Justice
+			League team ability a move
+			action, it does not count toward your
+			available actions for the turn.
+			\n\n
+			Cuando le das una acción de movimiento a un personaje que usa la habilidad de equipo Justice League no cuenta
+para el total de acciones que tienes disponibles este turno.</item>
+        <item>JUSTICE SOCIETY\n
+			Characters using the Justice Society team
+			ability can replace their defense
+			value with the unmodified defense
+			value of an adjacent friendly
+			character using the Justice Society team
+			ability.
+			\n\n
+			Los personajes que usan la habilidad de equipo Justice Society pueden reemplazar su valor de defensa con el valor
+de defensa sin modificar de un personaje amigo adyacente que use la habilidad de equipo Justice Society.</item>
+        <item>KABUKI\n
+			A character using the Kabuki team ability may use
+			Stealth.</item>
+        <item>KINGDOM COME\n
+			Whenever an opposing character given an action
+			attempts to move from a non-adjacent square into a square that is
+			adjacent to a character using the Kingdom Come team ability, it must
+			roll a d6. On a result of 1-2, the opposing character cannot move to
+			any square adjacent to the character using this team ability that
+			turn. Characters using this team ability ignore it on opposing
+			characters.</item>
+        <item>KLINGON EMPIRE\n
+		    When any opposing ship defeats any ship with this team ability, modify your attack value by +1 when targeting that opposing ship until the end of your next turn.</item>
+        <item>LEGION OF SUPER HEROES\n
+			Characters using the Legion of Super Heroes team ability  are
+			wild cards.
+			\n\n
+			Los miembros del equipo Legion Of Super Heroes son comodines.</item>
+        <item>LOCUST HORDE\n
+			This character can use Phasing/Teleport. When it does, after
+actions resolve you may knock back one adjacent opposing
+character 1 square. Uncopyable.</item>
+        <item>MASTERS OF EVIL\n
+			When a character using the Masters of Evil team
+			ability has two action
+			tokens on it, it can still be given a non-free
+			action. If you do,
+			deal it one unavoidable damage after the action
+			resolves. At the end
+			of your turn, do not remove action tokens from a
+			character
+			that used this team ability this turn.
+			\n\n
+			Cuando un personaje que usa la habilidad de equipo Masters of Evil tiene dos tokens de acción asignados, se le
+puede dar una acción no gratuita. Si lo haces, se le hace 1 daño inevitable después de resolver la acción. Al final de tu turno, no remuevas
+tokens de acción de un personaje que ha usado esta habilidad este turno.</item>
+        <item>MINIONS OF DOOM\n
+			Characters using the Minions of Doom team ability are wild cards.
+			\n\n
+			Los miembros del equipo Minions of Doom son comodines.</item>
+        <item>MORLOCKS\n
+			See the Additional Team Ability section.
+			\n\n
+			Ver sección de Habilidades de Equipo Adicionales en</item>
+        <item>MYSTICS\n
+			When a character using the Mystics team ability takes
+			damage from an
+			attack, the attacker is dealt 1 unavoidable damage.
+			This damage is
+			not an attack.
+			\n\n
+			Cuando un personaje que usa la habilidad de equipo Mystics toma daño por un ataque, se hace al agresor 1 daño inevitable.
+Este daño no es un ataque.</item>
+        <item>OUTSIDERS\n
+			Give a character using the Outsiders team ability a free
+action to choose a character (including itself) within 10 squares and line of
+fire. Until the beginning of your nex turn, the chosen character’s combat
+values can’t be modified. Uncopyable.
+\n\n
+Dale una accion gratuita a un personaje que usa la habilidad de equipo Outsiders para elegir un personaje (incluyendo ellos
+mismos) dentro de las 10 casillas de distancia y a la cual tengan línea de fuego. Hasta el comienzo de tu próximo turno, los valores de
+combate del objetivo no pueden ser modificados. No copiable.</item>
+        <item>POLICE\n
+			When this character is adjacent to a friendly character making a ranged combat attack, modify the target\’s defense value by -1 if the target is within line of fire of this character.
+			\n\n
+			Cuando un personaje que usa la habilidad de equipo Police está adyacente a un personaje amigo que hace un ataque a distancia,
+modifica el valor de defensa del objetivo en -1 si el objetivo esta dentro de la línea de fuego de este personaje.</item>
+        <item>POWER COSMIC\n
+			Characters using the Power Cosmic team ability can
+use Willpower and their powers cannot be countered. Uncopyable.
+\n\n
+Los personajes que usan la habilidad de equipo Power Cosmic pueden usar Willpower y sus poderes no pueden ser
+contrarrestados. No copiable.</item>
+        <item>QUINTESSENCE\n
+			Characters using the Quintessence team ability can
+			use Willpower and their powers cannot be countered. Uncopyable.
+			\n\n
+			Los personajes que usan la habilidad de equipo Quintessence pueden usar Willpower y sus poderes no pueden ser
+contrarrestados. No copiable.</item>
+        <item>ROMULAN STAR EMPIRE\n
+			Before the beginning of the first turn, choose a keyword
+    possessed by an opposing ship for all friendly ships with this
+    team ability; damage dealt by ships using this team ability to
+    ships with the chosen keyword can’t be reduced to less than
+    1. Uncopyable.</item>
+        <item>S.H.I.E.L.D.\n
+			Adjacent friendly characters modify their range values by
+			+1. Give this character a power action and choose an
+			adjacent friendly character. The chosen character modifies
+			its damage value by +1 while adjacent to this character and
+			making ranged combat attacks this turn.
+			\n\n
+			Personajes amigos adyacentes modifican su valor de rango en +1. Dale a este personaje una acción de poder y elige un
+personaje amigo adyacente. El personaje elegido modifica su valor de daño en +1 mientras este adyacente a este personaje y haga
+ataques a distancia este turno.</item>
+        <item>SERPENT SOCIETY\n
+			See the Additional Team Ability section.
+			\n\n
+			Ver sección de Habilidades de Equipo Adicionales en</item>
+        <item>SINISTER SYNDICATE\n
+			Characters using the Sinister Syndicate team
+			ability may replace their attack
+			value with the unmodified attack
+			value of an adjacent friendly
+			character using the Sinister Syndicate
+			team ability.
+			\n\n
+			Los personajes que usan la habilidad de equipo Sinister Syndicate pueden reemplazar su valor de ataque con el
+valor de ataque sin modificar de un personaje amigo adyacente que usa la habilidad de equipo Sinister Syndicate.</item>
+        <item>SKRULLS\n
+			This character can use Shape Change, but only
+			succeeds
+			on a roll of 6. Using Shape Change in this
+			way does not prevent the
+			character from using Shape
+			Change through another game effect.
+			\n\n
+			Este personaje puede usar Shape Change, pero la tirada solo tiene éxito con un 6. Usar Shape Change de esta manera no
+previene que el personaje use Shape Change a través de otro efecto de juego.</item>
+        <item>SPIDER-MAN\n
+			Characters using the Spider-Man team ability are wild cards.
+			\n\n
+			Los miembros del equipo Spider-Man son comodines.</item>
+        <item>STREET FIGHTER\n
+			Give this character a power action to move up to 3 squares
+and then make a close combat attack. Uncopyable.</item>
+        <item>SUICIDE SQUAD\n
+			When a friendly character adjacent to a character
+			using the Suicide Squad
+			team ability is KO\'d, roll a d6 and subtract
+			2 from the result,
+			minimum result 1. After the action is resolved, if
+			this character is
+			not KO\'d, , you may heal it of damage equal to the
+			result.
+			\n\n
+			Cuando un personaje amigo adyacente a un personaje que usa la habilidad de equipo Suicide Squad es derrotado, tira
+un D6 y resta 2 al resultado, resultado mínimo 1. Después que se resuelve la acción, si este personaje no fue derrotado, cura daño igual al
+resultado.</item>
+        <item>SUPERMAN ALLY\n
+			Characters using the Superman Ally team ability
+			treat hindering terrain as
+			clear terrain for movement and line of fire
+			purposes.
+			\n\n
+			Los personajes que usan la habilidad de equipo Superman Ally tratan el terreno obstaculizado como terreno limpio
+para movimiento y líneas de fuego.</item>
+        <item>SUPERMAN ENEMY\n
+			When two friendly characters that can use the Superman
+			Enemy team ability are
+			adjacent to each other, the character with the
+			higher point value may
+			be given a free action to immediately use Outwit. That
+			character can use Outwit
+			until the beginning of your next turn, if it
+			cannot use Outwit
+			already and continues to use this ability. If the
+			two characters have
+			the same point value, their controller chooses
+			which is treated as
+			the higher point character this turn.
+			\n\n
+			Cuando dos personajes amigos que pueden usar la habilidad de equipo Superman Enemy están adyacentes, se le
+puede dar una acción gratuita al personaje de mayor puntaje para usar inmediatamente Outwit. Ese personaje puede usar Outwit hasta el
+comienzo de tu próximo turno, si es que ya no puede usar Outwit y continúa usando esta habilidad. Si los dos personajes tienen el mismo
+valor de puntaje, quien los controla elige cual de los dos será tratado como el de mayor puntaje este turno.</item>
+        <item>TEMPLARS\n
+            When this character has one or more action tokens at the 
+            beginning of your turn, as a free action they can modify the 
+            attack or defense value of an adjacent friendly character by 
+            +1 until your next turn.</item>
+        <item>TITANS\n
+			When two friendly characters that can use the Titans team ability
+			are adjacent to
+			each other, give one of them a power action and roll a
+			d6. Heal the
+			other character of 1 damage. If the result was 1-4, deal
+			the
+			character given the power action 1 unavoidable damage.
+			\n\n
+			Cuando dos personajes amigos que pueden usar la habilidad de equipo Titans están adyacentes, dale a uno de ellos una acción
+de poder y tira un D6. Cura al segundo personaje 1 de daño. Si el resultado fue 1 a 4 haz 1 daño inevitable al personaje al que diste la
+acción de poder.</item>
+        <item>TOP COW\n
+			When you give a character using the Top Cow team
+			ability a move action,
+			it does not count toward your available actions
+			for the turn.</item>
+        <item>ULTIMATES\n
+			Characters using the Ultimates team ability treat
+			hindering terrain as clear
+			terrain for movement and line of fire
+			purposes.
+			\n\n
+			Los personajes que usan la habilidad de equipo Ultimates tratan el terreno obstaculizado como terreno limpio para
+movimiento y líneas de fuego.</item>
+        <item>ULTIMATE X-MEN\n
+			Once per game per character, a character using
+			the Ultimate X-Men team
+			ability may choose one opposing character or
+			all characters
+			possessing a single chosen team ability; this choice
+			can be made only
+			once per game even if the character has used another
+			team ability.
+			When this character attacks a chosen team, modify the
+			chosen
+			character\'s defense value by -1.
+			\n\n
+			Una vez por juego y por personaje, un personaje que usa la habilidad Ultimate X-Men puede elegir un personaje
+opuesto o todos los personajes que posean una sola habilidad de equipo elegida; esta elección se puede hacer solo una vez por juego
+incluso si este personaje ha usado otra habilidad de equipo. Cuando este personaje ataca un personaje elegido, modifica la defensa del
+personaje elegido en -1.</item>
+        <item>UNDERWORLD\n
+			When a character using the Underworld team ability
+			is given a move
+			action, it can use the Carry ability, but can only
+			carry characters
+			using the Underworld team ability; it can carry two
+			friendly
+			characters, if both also have a lower point value.
+			\n\n
+			Cuando se le da una acción de movimiento a un personaje que usa la habilidad Underworld, puede usar la habilidad
+Carry, pero solo puede llevar personajes que usan la habilidad Underworld; puede llevar hasta dos personajes amigos si ambos tienen un
+valor de puntaje menor.</item>
+        <item>UNITED NATIONS SPACE COMMAND (UNSC)\n Adjacent friendly characters modify their range values by
++1. Give this character a power action and choose an
+adjacent friendly character. The chosen character modifies
+its damage value by +1 while adjacent to this character and
+making ranged combat attacks this turn. Uncopyable.</item>
+        <item>VOX POPULI\n
+		    When a character using this team ability is marked with an action tokenand makes an attack, 
+		    any attack roll of doubles (other then critical miss) is considered a hit.</item>
+        <item>WATCHMEN\n
+			The combat values of characters using the Watchmen
+			team ability can\'t be
+			modified by opposing characters.
+			\n\n
+			Los valores de combate de personajes que usan la habilidad Watchmen no pueden ser modificados por personajes
+			opuestos.</item>
+        <item>X-MEN\n
+			When two friendly characters that can use the X-Men team ability
+			are adjacent to each other, give
+			one of them a power action and roll a d6. Heal the
+			other character of
+			1 damage. If the result was 1-4, deal the character
+			given the power
+			action 1 unavoidable damage.\n\n
+			Cuando dos personajes amigos que pueden usar la habilidad de equipo X-Men están adyacentes, dale a uno de ellos una acción
+de poder y tira un D6. Cura al segundo personaje 1 de daño. Si el resultado fue 1 a 4 hace 1 daño inevitable al personaje al que diste la
+acción de poder.</item>
+    </string-array>
+
+</resources>

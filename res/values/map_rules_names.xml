@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string-array name="map_rules_names">
+    <item>BLOCKING TERRAIN</item>
+    <item>CLEAR, HINDERED, OR BLOCKED</item>
+    <item>CLEAR TERRAIN</item>
+    <item>DEBRIS MARKERS</item>
+    <item>DESTROYING BLOCKING TERRAIN</item>
+    <item>DESTROYING WALLS</item>
+    <item>ELEVATED TERRAIN</item>
+    <item>HINDERING TERRAIN</item>
+    <item>LINE OF FIRE</item>
+    <item>LINE OF FIRE ACROSS INTERSECTION POINTS</item>
+    <item>LINE OF FIRE: THE RIM</item>
+    <item>MAPS</item>
+    <item>MOVEMENT THROUGH INTERSECTION POINTS</item>
+    <item>MOVEMENT: STAIRS AND LADDERS</item>
+    <item>TERRAIN TYPES</item>
+    <item>WALLS</item>
+    <item>WATER TERRAIN</item>
+    <item>AIRPORT TERMINAL</item>
+    <item>BATCAVE, THE</item>
+    <item>BLACKEST NIGHT STARTER</item>
+    <item>BLACKGATE PRISON</item>
+    <item>BLACKGATE PRISON: POST-CATACLYSM</item>
+    <item>CASTLE DOOM GARDENS</item>
+    <item>CENTRAL PORT</item>
+    <item>CRATER, THE</item>
+    <item>DAWN OF MAN</item>
+    <item>DEEP SPACE</item>
+    <item>DEEP SPACE NINE</item>
+    <item>FOUNTAIN OF ASGARD</item>
+    <item>GOTHAM CITY CLOCKTOWER</item>
+    <item>GOTHAM CITY WATERFRONT: POST-CATACLYSM</item>
+    <item>GRAVEYARD</item>
+    <item>HAWKWORLD</item>
+    <item>HELM\'S DEEP</item>
+    <item>KARNAK</item>
+    <item>KILLER CROC SEWER LAIR</item>
+    <item>KRAKOA</item>
+    <item>LAZARUS PIT</item>
+    <item>MARS</item>
+    <item>MINAS TIRITH</item>
+    <item>MUSPELHEIM</item>
+    <item>THE MUTARA NEBULA</item>
+    <item>N.O.W.H.E.R.E.: THE CRUCIBLE</item>
+    <item>NEGATIVE ZONE PRISON</item>
+    <item>NEXUS OF REALITY</item>
+    <item>ROOFTOPS</item>
+    <item>ROOFTOPS OF GOTHAM CITY</item>
+    <item>PELENNOR FIELDS</item>
+    <item>QO\´NOS</item>
+    <item>SHADOWLAND FORTRESS</item>
+    <item>S.H.I.E.LD. HELICARRIER BOW (S-1)</item>
+    <item>S.H.I.E.LD. HELICARRIER MIDSECTION (S-2)</item>
+    <item>S.H.I.E.LD. HELICARRIER STERN (S-3)</item>
+    <item>S.H.I.E.LD. Helicarrier Below Decks (S-4)</item>
+    <item>SPACE RACETRACK</item>
+    <item>STARK TOWER</item>
+    <item>STREETS OF GOTHAM CITY</item>
+    <item>WAYNE MANOR</item>
+  </string-array>
+
+</resources>

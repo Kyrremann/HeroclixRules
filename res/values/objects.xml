@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="objects">
+        <item>OBJECTS\nObjects are either light (yellow-ringed object tokens),
+    heavy (red-ringed object tokens), or immobile (blue-ringed object
+    tokens). Objects without special effects are called standard objects
+    and follow all rules in this section normally. Special Objects follow
+    normal object rules but also have special effects that can impact
+    nearby terrain and characters, or characters that hold
+    them.\n\nOBJECTS
+    IN YOUR FORCE\n
+    You may bring up to three objects as
+    part of your force
+    to a game. The
+    first two objects added to your force
+    must be different
+    types (heavy,
+    light, or immobile), and the third
+    object can be any
+    type, though you
+    must have at least one heavy and one
+    light among your
+    three objects.
+    Any or all of these objects may be
+    special objects, but
+    each special
+    object must not have the same name as
+    any other special
+    object on
+    your force.
+    Standard objects cost 0 points
+    to add to your
+    force, but special objects may
+    have a point value listed
+    on their
+    associated card, and cost that
+    many
+    points to add to your
+    force.\n\nPLACING OBJECTS\n
+    Between Steps 2 and 3 in the “Preparing
+    For
+    Battle” section (see p. 5), players can place
+    objects. Starting
+    with
+    the first player, each player
+    takes turns placing one of their
+    objects. Objects
+    must be placed in clear terrain outside of any
+    player’s starting area. Special objects must also be
+    placed 5 or more
+    squares away from any player’s
+    starting area.\n\n
+    OBJECTS AS TERRAIN\n
+    A
+    square containing an object not held by a
+    character is hindering
+    terrain.\n\nIMMOBILE OBJECTS\n
+    Immobile objects can’t be picked up,
+    moved
+    or
+    placed using any game effect.</item>
+        <item>DESTROYING OBJECTS\nObjects can be destroyed using the rules for
+    destroying a square of blocking terrain (see p. 13).
+    A character in
+    the same square as an object does
+    not take damage when the object is
+    destroyed.
+    An attacker can’t target both a character and an
+    object with
+    the same attack. A destroyed object
+    is removed from the game and does
+    not cause a
+    debris marker to be placed.</item>
+        <item>SPECIAL OBJECTS
+    Special objects are objects (either tokens or
+    3-D
+    objects) marked with the symbol. They
+    represent items on the
+    battlefield that create
+    special effects or grant characters holding or
+    using
+    them special abilities. Regardless of which player
+    places a
+    special object, any player can use its
+    abilities, and all players are
+    subject to its effects.
+    The abilities of the special object continue
+    whether
+    the object is being held or occupying a square,
+    though some
+    objects may specify that their effects
+    are ignored when they are held.</item>
+        <item>USING OBJECTS AS WEAPONS\n
+    Some powers and abilities (such as
+    Super
+    Strength) allow a character to pick up and hold an
+    object, and
+    then use it in close combat and ranged
+    combat attacks. An object is
+    removed from the
+    game once it is used in an attack, even if the attack
+    fails or is evaded.</item>
+        <item>PICKING UP AN OBJECT\n
+    While a character using
+    Super Strength is
+    moving
+    due to its own action, it can pick up an
+    object. The
+    object must
+    be in either a square the character
+    occupies or
+    a square adjacent to
+    one the character
+    moves through. A character can
+    pick up an object
+    even
+    if another character occupies the same square
+    as the object.
+    Immediately place the object token
+    someplace that
+    indicates the
+    character using Super
+    Strength is holding the object. If
+    entering that
+    square
+    requires that the character end its movement, it
+    cannot pick up
+    an object
+    adjacent to that square
+    (the object must be in
+    either a square
+    the character
+    occupies or in an adjacent square). If a
+    character
+    is not
+    holding an object and is given an action that
+    requires the character
+    to not be holding an object
+    during that action,
+    then the character
+    cannot pick up
+    an object during that
+    action.</item>
+        <item>HOLDING AN OBJECT\n
+    A character can hold only one object at
+    a
+    time.
+    A character can’t drop an object once it is held.
+    An object held
+    by a character can’t normally
+    be targeted, destroyed, or taken away
+    from the
+    holding character. To dispose of a held object, the
+    character
+    must use it in an attack. If, however, a
+    character holding an object
+    is defeated or loses
+    the ability to use Super Strength, the character
+    automatically drops the object, which stays in
+    the square the
+    character occupied when it was
+    defeated or the power was lost. If
+    there is already
+    an object in the square when an object is dropped,
+    the dropped object is removed from the game.</item>
+        <item>THE INFINITY GAUNTLET\n
+    Cost: Infinity Gauntlet costs 10 points, plus 5 points for each Gem attached to it. At least one Gem must be attached to the gauntlet to activate it. You can\'t attach more than one of the same type of Gem. (15-40)\n
+    \n
+    Assign: Infinity Gauntlet is assigned to a character when you reveal your force and only that character can use its effects. When assigned character is KO\'d, opponent scores the Infinity Gauntlet. \n
+    \n
+    Setup: Infinity Gauntlet dial begins on the green line, but does not have a KO click; the dial may rotate past the starting line. You can not add special objects to your force if Infinity Gauntlet is part of it. \n
+    \n
+    Turning the Dial: At the end of your turn, if assigned character was given a non-free action this turn, choose one: 1) deal assigned character 1 unavoidable damage; or 2) roll a d6 that can\'t be rerolled and turn the Infinity Gauntlet dial to the right that many times; or 3) if Infinity Gauntlet dial has a special power visible, you may choose to do nothing.\n
+    \n
+    Using Effects: When a Gem, a standard power or a special power is revealed on the dial, assigned character can use the effects associated with that if they can\'t already. You may only use the Gem effects if that Gem is attached. \n
+    \n
+    #soulgem# Soul Gem: Character can use Steal Energy. When character KO\'s an opposing character, heal character of 2 damage. \n
+    #powergem# Power Gem: If character\'s printed range value is 4 or less, character can use Close Combat Expert. If character\'s printed range value is 5 or more, character can use Ranged Combat Expert. \n
+    #timegem# Time Gem: Character can use Incapacitate and Super Senses.\n
+    #spacegem# Space Gem: Character can use Phasing/Teleport and the Carry ability. Modify character\'s speed value by +2.\n
+    #realitygem# Reality Gem: Character can use Probability Control, but only during character\'s turn. \n
+    #mindgem# Mind Gem: Character can use Mind Control and Telekinesis.\n
+    #trait#The Gauntlet Complete: If all six Gems are attached, character\'s powers and combat abilities can\'t be countered and character can use Willpower. \n
+    #fancy1# Beyond Mortal Limits: At the beginning of your turn, choose an attached gem that you did not choose during your last turn. Character can use the effects of that gem until the beginning of your next turn as long as this power is showing. \n
+    #fancy2# Apotheosis Approaching: Modify character\'s combat values by +1. At the beginning of your turn, choose a standard power character can\'t already use. Character can use that power until your next turn. \n
+    #fancy3# Ultimate Godhood Attained: Modify character\'s combat values by +2 and character can use the effects of every attached gem. At the beginning of your turn, choose a standard power character can\'t already use. Character can use that power until your next turn. </item>
+        <item>USING OBJECTS IN CLOSE COMBAT ATTACKS\n
+    A character holding an
+    object and making a close
+    combat attack against a single character
+    must use
+    the object in the attack,
+    unless the
+    character is using a power
+    that will deal
+    no damage. If a character is
+    using a light object in a
+    close combat attack, modify the character’s
+    Damage
+    Value by +1 for the
+    attack; if using a heavy object;
+    modify the
+    character’s Damage Value by
+    +2 for the
+    attack; if using a ultra-heavy object; modify the character\'s Damage Value by +3 for the attack;.</item>
+        <item>USING OBJECTS IN RANGED COMBAT ATTACKS\n
+    A
+    character holding an
+    object may throw it at a
+    single
+    opposing
+    character;
+    a character holding
+    an
+    object does not have to
+    attack with
+    the object when given a ranged
+    combat
+    action. To throw an object, give
+    the character a
+    ranged combat
+    action and make a ranged combat
+    attack,
+    even if its range value is 0.
+    Regardless of the
+    attacker’s Range Value,
+    light objects can be thrown
+    8
+    squares; heavy objects, 6 squares; ultra-heavy objects, can\'t be thrown.
+    Regardless of
+    the attacker’s
+    Damage
+    Value, a successful ranged
+    combat
+    attack with an object deals
+    Object
+    Damage.
+    Object Damage means a light
+    object deals 2
+    damage; and a
+    heavy
+    object deals 3 damage.</item>
+        <item>UTILITY BELT\n
+    Cost: Utility Belt costs 7 points, plus 1 point if the Costume slot is
+    active, plus 1 point for each Utility Belt Item slot that will be active
+    this game (other slots are inactive). At least one Utility Belt Item
+    slot must be active.(8-14)\n
+    Assign: Utility Belt is assigned to a character when you build your
+    force and only that character can use its effects. When the assigned
+    character is KO\'d, opponent scores Utility Belt.\n
+    Setup: Utility Belt begins the game on the green line. After forces
+    are revealed, attach up to one Utility Belt Costume #sos#
+    if the
+    Costume slot is active and as many Utility Belt Items #utilityBelt#
+    as
+    there are active slots (no more than three of any specific Utility
+    Belt Item). The Utility Belt has no KO click and may rotate past the
+    starting line.\n
+    Turning the Dial: At the end of your turn, if the assigned character
+    was given a non-free action, roll a d6 that can\'t be rerolled and
+    turn the Utility Belt to the right that many times. If a special power
+    is revealed while turning the dial, immediately stop turning the
+    dial.\n
+    Using Effects: All Costumes and Items grant the character powers
+    and abilities that can be used as directed by their Resource Cards.
+    Once a Utility Belt Item has been used, it is removed from the
+    Utility Belt.\n
+    #trait# Battle Plan: If three or more Utility Belt Items are attached,
+    assigned character can use Indomitable. If five or more Utility Belt
+    Items are attached, you may give the assigned character a free
+    action and select an opposing character within 10 squares and line
+    of fire; that opposing character can\'t use team abilities until the
+    beginning of your next turn.\n
+    #fancy1# Prep Time: Give the assigned character a double power action
+    and turn the Utility Belt to any click that does not have a special
+    power. Do not otherwise turn the dial at the end of your turn.\n
+    #fancy2# Shared Resources: Give the assigned character a power action.
+    Remove a Utility Belt Item from the Utility Belt and place it in an
+    adjacent square. Flip that item\'s Resource Card; that item is now a
+    Relic assigned to your force.\n
+    #fancy3# Hidden Cache: At the beginning of your turn, you may activate
+    an inactive slot. In addition, you may replace or attach any one
+    Utility Belt Item or Costume to the Utility Belt. At the end of the
+    turn, roll a d6 to turn the dial as described above even if the
+    character does not take a non-free action.\n
+    #fancy4# Quick Swap: Give the assigned character a power action and
+    replace any number of attached Utility Belt Items with different
+    Utility Belt Items.\n
+    #utilityBelt#: When a number is revealed, if a Utility Belt Item in that
+    slot is used this turn, it is not removed from the Utility Belt.\n
+    #paraBox#: When a number is revealed, if that slot is active but empty, at
+    the beginning of your turn, you may attach any Utility Belt Item to
+    this slot.\n
+    x2: When numbers are revealed, if the character uses a Utility
+    Belt Item in one of the indicated slots, it may use an Item in the
+    other slot as a free action as long as the two items are not the same. Alternatively, a power and a modifier may be revealed; the
+    character can use the power showing and modifies all of its
+    combat values by the amount displayed.\n
+    Availability: No Man\’s Land #R100</item>
+        <item>UTILITY BELT ATTACHMENTS\n
+    #utilityBelt# BATARANGS: Give this character a ranged combat
+    action to use Incapacitate to target all opposing characters within
+    6 squares and line of fire; this character can use #imptar# #chara# 
+    for this
+    attack. You may give this character an additional action token and
+    if you do, hit characters are given an additional action token.\n
+    Availability: No Man\'s Land #R102\n
+    #utilityBelt# GAS PELLETS/SMOKE GRENADE: Give this
+    character a power action to use Smoke Cloud until your next turn
+    as a free action. When the hindering terrain markers are removed,
+    deal 1 penetrating damage to each opposing character occupying
+    or adjacent to any of the removed hindering terrain markers.\n
+    Availability: No Man\'s Land #R101\n
+    #utilityBelt# RADAR MONITOR: Give this character a power action
+    and choose an opposing team ability (even if it is Uncopyable).
+    This character possesses the chosen team ability for the rest of the
+    game.\n
+    Availability: Streets of Gotham #R102\n
+    #utilityBelt# SONIC TRANSMITTER: Character can be given a
+    double power action and each Flock of Bats may be given a move
+    action and a close combat action, each as a free action.\n
+    Availability: Batman #R102\n
+    #sos# SUIT OF SORROWS: This character can use Battle Fury and
+    Super Strength.\n
+    Availability: Batman #R101</item>
+        <item>AERIAL BAFFLER\n
+    Light: Any character with the #flight# or
+    #transFlight# speed mode that
+    is 3 or fewer squares from this object
+    gains Earthbound. Any
+    character it carries takes no damage and is
+    placed in the
+    nearest square it can occupy. This object has no effect
+    when
+    held.</item>
+        <item>BAT SIGNAL\n
+    Cost: 2\n
+    Heavy: Give a character adjacent to this object a power action 
+    and choose another friendly character that is not within 8 squares of 
+    this object. Place the chosen character adjacent to this character 
+    and this object.</item>
+        <item>BATARANGS
+    Cost: 10\n
+    Relic: 4-6\n
+    Character can use Incapacitate, the Sharpshooter ability and 
+    possesses one additional #lighting#.</item>
+        <item>BATMAN COWL\n
+    Cost: 5\n
+    Relic: 4-6\n
+    This character possesses the Batman symbol. If character already possesses the Batman symbol
+    and is adjacent to a wall or square of a higher elevated terrain, 
+    lines of fire drawn to it are blocked when it is not your turn.</item>
+        <item>BLACK LANTERN\n
+    Light: During your turn, whenever an
+    opposing character within 4
+    squares of this object is KOd, you may
+    heal 1 damage on a single
+    friendly character within 4 squares of this
+    object.</item>
+        <item>BLUE LANTERN\n
+    Cost: 5\n
+    Light: Characters within 4
+    squares
+    of this object that can use
+    Barrier or Telekinesis modify their
+    range
+    values by +2 and can use
+    Telekinesis for 10 squares instead of 8
+    (for
+    all limitations of
+    Telekinesis) if they can already use
+    Telekinesis.</item>
+        <item>BOOKCASE\n
+    Light: Increase the attacker’s attack value
+    by 1 when used in an
+    attack.</item>
+        <item>BROKEN DRONE\n
+    Light: While a character is holding
+    this
+    object, you may choose
+    to either (1) use this object normally in
+    an
+    attack, or (2) give this
+    character a ranged combat action (treating
+    the character’s range
+    value as 4) and make a ranged combat attack
+    against a single target
+    opposing character. An attack using option 2
+    deals 1 damage but does
+    not destroy this object.</item>
+        <item>BUCKET OF WATER\n
+    Light: When not held, a square containing
+    this
+    object is not considered
+    hindering terrain because of this object,
+    it
+    is considered water
+    terrain instead.</item>
+        <item>CAPTAIN AMERICA\'S SHIELD\n
+    Light: Continual.</item>
+        <item>COM DISH\n
+    Heavy: When this object is used in an
+    attack,
+    modify the
+    attacker’s damage value by +1 for the attack.</item>
+        <item>COMPUTER\n
+    Heavy: Increases the attacker’s attack
+    value
+    by 1 when used in
+    an attack.</item>
+        <item>COSMIC CUBE\nCost: 12\nRelic: 4-6.\n
+    Immobile: Character can use Perplex and Probability Control. Each time a character uses one of these powers, after actions resolve, roll a d6 that can’t be rerolled. On a roll of 1-2, place the Cosmic Cube in the square that character occupies.</item>
+        <item>CRATE\n
+    Light: A character may throw this object 10
+    squares.</item>
+        <item>CRIMSON GEM OF CYTTORAK\n
+    Cost: 5\n
+    Immobile: This object can’t be
+    destroyed.
+    Once per game per
+    character, give a
+    character occupying this
+    square a
+    power action and
+    roll a d6 that
+    can’t be rerolled. On a roll
+    of
+    5 or
+    6, place this object
+    on that
+    character’s card. Modify that
+    character’s
+    damage value by +1 and
+    that
+    character can use Charge, Super
+    Strength,
+    and Toughness.
+    (Characters
+    can’t use more than one damage
+    reduction
+    power.) When that
+    character
+    is defeated, place this object in
+    the
+    square they last
+    occupied. At
+    the end of the game, if an opponent’s
+    character has this
+    object on
+    their card or all of your characters have
+    been defeated, your
+    opponent scores this object.</item>
+        <item>DARK CAULDRON\n
+    Immobile: Characters 4 or fewer squares from this
+    object can’t be healed.</item>
+        <item>DR. OCTOPUS ARMS\n
+    Cost: 8\n
+    Relic: 5-6\n
+    A character with Dr. Octopus Arms on its character card has a
+    minimum range value of 4, has #lightning# #lightning# #lightning#, and can
+    use Perplex twice during your turn, but only to target itself.</item>
+        <item>DUMPSTER\n
+    Heavy: This object is not destroyed when used in an
+    attack. The attacker
+    places it in any square adjacent to the target
+    after use.</item>
+        <item>DYNAMOSTAT\n
+    Heavy: This object is considered to be blocking
+    terrain until it is
+    destroyed, but it may be picked up and moved
+    normally.</item>
+        <item>ELEHA\'AL VINE\n
+    Light: Give a character occupying the same
+    square
+    as this object a power
+    action. Roll a d6 and subtract 4 from the
+    result, minimum result 1.
+    Heal the character of damage equal to the
+    result.</item>
+        <item>FLASH GRENADE\n
+    Cost: 5\n
+    Relic: 4-6\n
+    Character can use the Throw a Grenade ability using Flashbang 
+    Grenades and has a Grenade Pool: +3</item>
+        <item>FOOM FINGER\n
+    Heavy: Continual.</item>
+        <item>FORCE FIELD GENERATOR\n
+    Immobile: This object allows an adjacent
+    character to use Barrier as if the
+    character had a range value of 0.
+    If this object is destroyed, any
+    barrier terrain markers placed using
+    Barrier granted by this object
+    are removed from the game. This object
+    has no effect when held.</item>
+        <item>FUEL TANK\n
+    Heavy: A character may throw this object
+    up
+    to 6 squares. If
+    this object is used as part of a successful attack,
+    also deal 1
+    damage to all figures adjacent to the target.</item>
+        <item>Gamma Bomb\n
+    Cost: 5\n
+    Immobile. The Gamma Bomb can\'t be destroyed and begins on the green starting line. At the beginning of each player\'s turn, if it\'s not disarmed, click the dial once to the right. Once per game per character, a character occupying this square can be given a free action to roll a d6. On a result of 4 or 5, click the dial 4 clicks to the left (12 is the maximum), and on a result of 6, disarm it. When the red line is crossed, deal 3 damage to each character and destroy each object, wall, and square of blocking terrain within 8 squares and then remove this object from the map.</item>
+        <item>GAS PELLETS/SMOKE GRENADE\n
+    Cost: 3\n
+    Relic: 4–6\n
+    Immobile: Character can use Smoke Cloud. When it does, after
+    actions resolve it can be given a move action as a free action with a
+    speed value of 4.</item>
+        <item>GENERATOR\n
+    Heavy: This object is not destroyed when
+    used in an attack.
+    After the Generator is used as part of an attack,
+    the attacker places
+    it in any square adjacent to the target after the
+    attack resolves.</item>
+        <item>Globe of Ultimate Knowledge\n
+    Relic 6.\n
+    Immobile: Character can use Outwit.\n</item>
+        <item>GREEN KRYPTONITE\n
+    Cost: 5\n
+    Characters within 4 squares modify their attack values by -1 and
+    can\'t use the Flight ability Characters within 4 squares that possess
+    the Superman Ally team ability or the Kryptonian keyword can\'t
+    have damage dealt to them reduced below 1.\n
+    Availability: Superman S101</item>
+        <item>GOLD KRYPTONITE\nCost: 5\n
+    Characters within 4 squares can\'t use Exploit Weakness,
+    Penetrating/Psychic Blast, Pulse Wave, or Telekinesis. A character
+    holding this object can\'t use any powers except Super Strength.\n
+    Availability: Superman S104</item>
+        <item>GRAPNEL GUN\n
+    Cost: 4\n
+    Relic: 4-6\n
+    Character can use #impmov# #ignbt# and the Carry ability.</item>
+        <item>GREEN LANTERN\n
+    Cost: 5\n
+    Light: Characters within 4
+    squares of this object that can use
+    Indomitable or Willpower modify
+    their defense values by +3 when they
+    are the target of an attack using
+    Incapacitate or Mind Control.</item>
+        <item>HANDCUFFS\n
+    Cost: 5\n
+    Relic: 4-6\n
+    Character can use Plasticity. Opposing characters adjacent to this
+    character modify their attack values by -1.</item>
+        <item>HARVEST STAFF\n
+    Cost: 15\n
+    Relic: 6\n
+    This character can use Incapcitate and Outwit. When you use
+    Outwit and actions resolve, if this character targets the same
+    opposing character with Incapacitate, modify this character’s attack 
+    value by +1. Give this character a power action and choose a 
+    power; that power is countered on all opposing characters within 5 
+    squares. Give this character a double power action and choose a 
+    character within 10 squares and line of fire; deal that character 1 
+    unavoidable damage and all of its powers and abilities are 
+    countered until your next turn.</item>
+        <item>INDIGO LANTERN\n
+    Cost: 5\n
+    Light: Characters within 4
+    squares of this object that can use
+    Support or Regeneration only
+    subtract 1 from their die roll instead
+    of 2 when using those powers.</item>
+        <item>IRON MAN BRIEFCASE ARMOR\n
+    Cost: 12\n
+    Relic: 5-6.\n
+    Immobile: This character can use Force Blast and Invulnerability.</item>
+        <item>JEWEL KRYPTONITE\n
+    Cost: 5\n
+    Light: Characters within 4 squares can use Mind Control and Smoke
+    Cloud if they can\'t already. Characters using Mind Control in this
+    way can only target characters of a lower Cost. All characters
+    within 4 squares using Mind Control and Smoke Cloud have a
+    minimum range value of 6 when using those powers.\n
+    Availability: Superman S103</item>
+        <item>KINETIC ABSORBER\n
+    Light: All clear and water terrain 2 or fewer
+    squares from this object is
+    hindering terrain for movement purposes.
+    This object has no effect when held.</item>
+        <item>KINETIC ACCELERATOR\n
+    Immobile: When a character occupying the
+    same
+    square as this object is given a
+    move or power action, roll a d6
+    and
+    replace the character\'s speed
+    value with its speed value plus the
+    result; on a result of 5 or 6,
+    remove this object from the game after
+    the action resolves. If the
+    roll does not allow the given action to be
+    performed against any
+    targets, the action ends immediately. This
+    object is not considered
+    hindering terrain for movement purposes.</item>
+        <item>KUURTH\'S HAMMER
+    Cost: 8\n
+    Relic: 5-6\n
+    This character can use Charge, #impmov# #igndmg# #ignht#, and Toughness. This 
+    character modifies its attack value by +2.</item>
+        <item>LASER TURRET\n
+    Heavy: (optional) Once during your turn (but not
+    during another action)
+    when a character friendly to you occupies this
+    object\'s square, give
+    this object a free action to make a ranged
+    combat attack
+    (#attack#8,#damage#2,#lightning#4 ) against any opposing
+    figure.</item>
+        <item>LIGHT POST\n
+    Heavy: A target with 0 or 1 action tokens
+    that is successfully
+    hit with this object also receives an action
+    token, which can result
+    in pushing damage.</item>
+        <item>MAILBOX\n
+    Light: Increases the attacker\'s damage
+    dealt
+    by 1 when used in
+    an attack.</item>
+        <item>MASS-ABSORBER\n
+    Light: If a character using this
+    object
+    as part of a close
+    combat attack is 3 or fewer squares from
+    blocking
+    terrain, modify the
+    character\'s damage value by +2 (instead
+    of +1).</item>
+        <item>METEORITE\n
+    Heavy: When this object is used in a
+    successful close combat
+    attack, roll one six-sided die and subtract 2
+    from the result,
+    minimum result 1. add the result to the attacker\'s
+    unmodified damage
+    value for the attack. The damage value is locked, and the damage dealt can\'t
+    otherwise be modified.</item>
+        <item>MIND GEM\n
+    Cost: 5\n
+    Character can use Mind Control and Telekinesis.\n
+    This 5 point version is only to be used when attached to the Infinity Gauntlet.</item>
+        <item>MIND GEM (relic)\n
+    Cost: 10\n
+    Relic: 5-6
+    Immobile: Character can use Mind Control and Telekinesis.</item>
+        <item>MJOLNIR\n
+    Relic: 6 \n
+    Immobile: Modify the characters\' attack and
+    damage values by +2, and
+    the character can use Quake, Energy
+    Explosion, and the Flight
+    ability.</item>
+        <item>MR. FREEZE\'S GUN
+    Cost: 5\n
+    Relic: 5-6.\n 
+    Immobile: Character can use Barrier. When it does, it can use 
+    Incapacitate as a free action targeting all opposing characters 
+    adjacent to a terrain marker placed by this character.</item>
+        <item>NOVA HELMET\n
+    Cost: 6\n
+    Relic: 5-6.\n
+    Immobile: This character can use Charge and the Flight ability and possesses the Nova Corps keyword.</item>
+        <item>NEWSBOT\n
+    Light: When you give a character an action
+    to
+    attack using this
+    object, it does not count toward your available
+    actions for the turn.</item>
+        <item>OFFICE DESK\n
+    Light: When a character holding this object is attacked, you may 
+    modify the holding character’s defense value by +2. If you do, the 
+    object is destroyed after the attack resolves.</item>
+        <item>THE ONE RING\n
+    Cost: 15\n
+    Owner: Frodo, Frodo and Sam, Gollum, Mr. Underhill, Ringbearer, Sauron (Owners automatically roll a 6 when rolling to pick up The One Ring.)\n
+    Relic: 6\n
+    Immobile: The character controlling The One Ring can use Leadership, Probability Control and Stealth. At the end of each turn of the character controlling The One Ring, roll a d6 that can\’t be rerolled. On a roll of 1, the character places The One Ring in its square and is dealt 1 unavoidable damage.</item>
+        <item>OPENED HYDRANT\n
+    Immobile: Clear grounded terrain 3 or fewer
+    squares from this object is water
+    terrain. This object has no effect
+    when held.</item>
+        <item>ORANGE LANTERN\n
+    Cost: 5\n
+    Light: When a character uses
+    Poison within 4 squares of this
+    object, that character is considered
+    to be adjacent to opposing
+    characters up to two squares away to which
+    is has a clear line of
+    fire.</item>
+        <item>ORCRIST\n
+    Cost: 5
+    Relic: 5-6.\n
+    Immobile: Character can use Exploit Weakness, but only to target
+    characters with the Monster keyword.</item>
+        <item>POWER GEM\n
+    Cost: 5\n
+    If character\'s printed range value is 4 or less, character can use Close Combat Expert. If character\'s range value is 5 or more, character can use Ranged Combat Expert.
+    This 5 point version is only to be used when attached to the Infinity Gauntlet.</item>
+        <item>POWER GEM (relic)\n
+    Cost: 10\n
+    Relic: 5-6\n
+    Immobile: If character\'s printed range value is 4 or less, character can use Close Combat Expert. If character\'s printed range value is 5 or more, character can use Ranged Combat Expert.</item>
+        <item>RADAR MONITOR\n
+    Cost: 10\n
+    Relic: 5–6\n
+    Immobile: This character is a wild card, but can use opposing team
+    abilities instead of friendly team abilities.</item>
+        <item>REALITY GEM\n
+    Cost: 5\n
+    Character can use Probability Control, but only during character\'s turn.\n
+    This 5 point version is only to be used when attached to the Infinity Gauntlet.</item>
+        <item>REALITY GEM (relic)\n
+    Cost: 10\n
+    Relic: 5-6\n
+    Immobile: Character can use Probability Control, but only during character\'s turn. </item>
+        <item>REBREATHER\n
+    Cost: 6\n
+    Relic: 4-6\n
+    When this character occupies water terrain, it can use Willpower.
+    This character ignores opposing characters’ Poison.</item>
+        <item>RED KRYPTONITE\n
+    Cost: 5\n
+    Light: Characters within 4 squares must roll a d6 immediately before they
+    are given a non-free action. On a roll of 1-2, the character is given an action token and cannot be given any non-free actions this turn, but can use Perplex until your
+    next turn if they can\'t already use it.\n
+    Availability: Superman S102</item>
+        <item>RED LANTERN\n
+    Cost: 5\n
+    Light: Characters within 4
+    squares
+    of this object that can use
+    Battle Fury modify their damage
+    value by
+    +1.</item>
+        <item>ROBIN UNIFORM\n
+    Cost: 5\n
+    Relic: 4-6\n
+    This character possesses Teen Titans symbol. If this character already has the Teen Titans symbol, it can use the team ability as a free action.</item>
+        <item>SATELLITE\n
+    Light: Give a character holding this
+    object
+    a power action.
+    Remove this object from the game and place a
+    debris
+    token in the
+    square occupied by the character and in any two
+    adjacent,
+    unoccupied
+    squares.</item>
+        <item>SCORPIO KEY\n
+    Cost: 4\n
+    Relic: 5-6\n
+    Immobile. Modify the
+    character\'s range value by +2 and that character can use
+    Penetrating/Psychic Blast. When the character is defeated,
+    place this
+    object in the square that character last occupied.</item>
+        <item>SEPARATION FIELD GENERATOR\n
+    Immobile: A character holding an
+    object or
+    carrying a character immediately drops it into an adjacent
+    square when 3 or fewer squares from this object. The
+    carrying or
+    holding character may continue its move. Objects
+    can not be picked up
+    by characters that are 3 or fewer
+    squares from this object.</item>
+        <item>SHIELD DISRUPTOR\n
+    Light: Damage dealt to characters 4 or fewer
+    squares from this object can\'t
+    be reduced. This object has no effect
+    when
+    held.</item>
+        <item>SKADI\'S HAMMER\n
+    Cost: 8\n
+    Relic: 5-6\n
+    This character can use Charge, Exploit Weakness, and Toughness.
+    This character modifies its attack value by +2.</item>
+        <item>SILVER MJOLNIR\n
+    Heavy: Continual.</item>
+        <item>SODA MACHINE\n
+    Heavy: Increase the attacker\'s damage
+    dealt by 1 when used in an
+    attack.</item>
+        <item>SONIC TRANSMITTER\n
+    Cost: 7\n
+    Relic: 4-6.\n
+    Immobile: Give this character a power action. Each friendly Flock
+    of Bats may be given a move action as a free action; halve its speed
+    value for the action.</item>
+        <item>SOUL GEM\n
+    Cost: 5\n
+    Character can use Steal Energy. When character KO\'s an opposing character, heal character of 2 damage.\n
+    This 5 point version is only to be used when attached to the Infinity Gauntlet.</item>
+        <item>SOUL GEM (relic)\n
+    Cost: 10\n
+    Relic: 5-6\n
+    Immobile: Character can use Steal Energy. When character KO\'s an opposing character, heal character of 2 damage.</item>
+        <item>SPACE GEM\n
+    Cost: 5\n
+    Character can use Phasing/Teleport and the Carry ability. Modify character\'s speed value by +2.\n
+    This 5 point version is only to be used when attached to the Infinity Gauntlet.</item>
+        <item>SPACE GEM (relic)\n
+    Cost: 10\n
+    Relic: 5-6\n
+    Immobile: Character can use Phasing/Teleport and the Carry ability. Modify character\'s speed value by +2. </item>
+        <item>STATUE\n
+    Light: This object deals 3 damage when thrown
+    as part of an
+    attack targeting terrain or a wall.</item>
+        <item>STEPLADDER\n
+    Light: When this object occupies a square adjacent
+    to a
+    square of higher elevation, the squares
+    are
+    connected by a ladder.
+    This object is not hindering terrain for
+    movement purposes.</item>
+        <item>STING\n
+    Cost: 5\n
+    Relic: 5-6.\n
+    Immobile: Character can use Blades/Claws/Fangs. When it is given
+    a close combat action, it may modify its attack value by +2; if it
+    does and hits, it must roll for Blades/Claws/Fangs and the result is a
+    maximum of 3.</item>
+        <item>STRUCTURAL INTEGRITY FIELD\n
+    Heavy: Blocking terrain (but not
+    blocking terrain markers) and walls 6 or
+    fewer squares from this
+    object can\'t be destroyed. This object has no effect when
+    held.</item>
+        <item>SUIT OF SORROWS\n
+    Cost: 5\n
+    Relic: 4-6.\n
+    Immobile: This character can use Battle Fury and Super Strength.</item>
+        <item>TANK TURRET
+    Cost: 2\n
+    Ultra Heavy: When used in a close combat attack, modify the attacker’s damage value by +3 instead of +2. This object can’t be thrown.
+    Characters less than 100 points can’t hold this object. This object can’t be the target of Telekinesis.
+    This object can’t be destroyed by an attack targeting it for 3 damage; it requires 4 or more.\n
+    Availability: Chaos War S102</item>
+        <item>TELEPHONE BOOTH\n
+    Light: Once per turn per character, a character
+    occupying the same square
+    as this object can be dealt 1 unavoidable
+    damage as a free action. This object has no effect when
+    held.</item>
+        <item>TELEPORT PAD\n
+    Immobile: (optional) If a character friendly to
+    you
+    is adjacent to this
+    object, give the character a power action and
+    move
+    it up to 6
+    squares, ignoring characters and terrain features for
+    movement
+    purposes.</item>
+        <item>TIME GEM\n
+    Cost: 5\n
+    Character can use Incapacitate and Super Senses.\n
+    This 5 point version is only to be used when attached to the Infinity Gauntlet.</item>
+        <item>TIME GEM (relic)\n
+    Cost: 10\n
+    Relic: 5-6\n
+    Immobile: Character can use Incapacitate and Super Senses.</item>
+        <item>TOMBSTONE\n
+    Heavy: The defense value of a character
+    holding a Tombstone is
+    modified by +2. After the resolution of an
+    unsuccessful attack
+    against a character holding a Tombstone, remove
+    Tombstone from the
+    game.</item>
+        <item>TRAPPED DUMPSTER\n
+    Heavy: When this object is picked
+    up,
+    roll a d6. On a result of
+    1, deal the character that picked up this
+    object 1 damage immediately
+    after the action resolves (even if the
+    character no longer holds the
+    object).</item>
+        <item>VIOLET LANTERN\n
+    Cost: 5\n
+    Light: Characters within 4
+    squares of this object that can use
+    Mind Control modify their range
+    value for that attack by +2 (figures
+    with a range of 0 replace their
+    range with 6 instead of 4 for that
+    attack), and if that attack is
+    successful, each character
+    successfully hit modifies its damage value
+    by +1 until its free
+    action granted by Mind Control is resolved.</item>
+        <item>WHITE KRYPTONITE\n
+    Cost: 5\n
+    Other squares within 4 squares become clear terrain instead of
+    hindering terrain. This has no effect on objects or water terrain.\n
+    Availability: Superman S105</item>
+        <item>WHITE LANTERN\n
+    Cost: 5\n
+    Immobile: Characters within 4 squares of
+    this object that can use Support or
+    Regeneration can\'t have those
+    powers, or special powers that allow
+    their use, countered.</item>
+        <item>WONDER GIRL LASSO\n
+    Cost: 5\n
+    Relic: 5-6\n
+    This character can use Steal Energy, but is also healed when its
+    ranged combat attack causes an opposing character to take damage.</item>
+        <item>X-KRYPTONITE\n
+    Cost: 5\n
+    Light: Characters within 4 squares that are 75 points or less can use the
+    Flight ability for as long as they are within 4 squares.\n
+    Availability: Superman S106</item>
+        <item>YELLOW LANTERN\n
+    Cost: 5\n
+    Light: Characters within 4
+    squares of this object
+    that can use Exploit Weakness or
+    Penetrating/Psychic Blast
+    modify their attack value by +1.</item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

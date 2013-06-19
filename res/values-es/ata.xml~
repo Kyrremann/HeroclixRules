@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ata">
+        <item>ALL-STAR SQUADRON\nKeyword(s): All-Star Squadron\nCost:
+			2\nCharacters using this team ability modify their attack value by +1
+			when making
+			a close combat attack against a character at least twice
+			its point
+			value.
+			\n\n
+			Los personajes usando este ATA 
+			modiﬁcan su valor de ataque en +1 
+			cuando hacen un ataque cuerpo a 
+			cuerpo contra un personaje de al 
+			menos el doble de su valor de 
+			puntos.</item>
+        <item>ALPHA FLIGHT\nKeyword(s): Alpha Flight\nCost: 4\nOnce during
+			each game, choose any team ability or opposing character.
+			Each
+			friendly character using this team ability modifies its attack
+			value
+			by +1 when attacking the chosen character or a character
+			possessing
+			the chosen team ability.
+			\n\n
+            Cada vez que un personaje usando 
+			este ATA sufre 2 o más daños por un 
+			ataque del oponente, coloca un 
+			contador de Hermandad en esta 
+			carta. Antes de realizar una acción no 
+			gratuita, una ﬁgura aliada que use 
+			este ATA puede retirar cualquier 
+			número de contadores de Hermandad 
+			para añadir +1 a su movimiento, 
+			ataque o rango, hasta ﬁnal de acción.</item>
+        <item>AMAZON\nKeyword(s): Amazon\nCost: 4\nWhenever a character using
+			this team ability takes 2 or more damage from an
+			opponent\'s attack,
+			put a Sisterhood token on this card. Before being
+			given a non-free
+			action, a friendly character using this team ability
+			may remove any
+			number of Sisterhood tokens from this card. Modify
+			that character\'s
+			speed, attack, or range value by +1 for each token
+			removed until that
+			action is resolved.
+			\n\n
+            Cada vez que un personaje usando 
+			este ATA sufre 2 o más daños por un 
+			ataque del oponente, coloca un 
+			contador de Hermandad en esta 
+			carta. Antes de realizar una acción no 
+			gratuita, una ﬁgura aliada que use 
+			este ATA puede retirar cualquier 
+			número de contadores de Hermandad 
+			para añadir +1 a su movimiento, 
+			ataque o rango, hasta ﬁnal de acción.</item>
+        <item>ANIMAL\n
+		    Keyword(s): Animal\n
+		    Cost: 4\n
+		    At the beginning of your turn, roll a d6. On a result of 5-6 all friendly characters using this team ability ignore Shape Change and Stealth this turn.</item>
+        <item>ANNIHILATORS\nKeyword(s): Annihilators\nCost: 4\n
+			When a character using this team ability KO\'s an opposing character of a higher point value with an attack, remove an action token from each friendly character using this team ability that\'s less points than the KO\'d character.
+			\n\n
+			Cuando un personaje usando este 
+			ATA hace KO (con un ataque) a un 
+			personaje opuesto de mayor 
+			puntuación, rera un contador de 
+			acción de cada ﬁgura aliada usando 
+			este ATA que sea de menor puntuación 
+			que la ﬁgura KO.</item>
+        <item>ASGARDIAN\n
+		    Keyword(s): Asgardian\n
+			Cost: 5\n
+			A character using this team ability can\'t have its Willpower or Indomitable countered. A character using this team ability can use Willpower on its first click.
+			\n\n
+			A un personaje utilizando esta 
+			habilidad de equipo no se le puede 
+			cancelar ni Fuerza de Voluntad ni 
+			Indominable.
+			Un personaje usando esta habilidad 
+			de equipo puede usar Fuerza de 
+			Voluntad en su primer click.</item>
+        <item>ATLANTIS\nKeyword(s): Atlantis\nCost: 2\nWhenever a character
+			using this team ability occupies water terrain, modify
+			its defense
+			value by +1 against ranged combat attacks.
+			\n\n
+            Cada vez que un personaje usando 
+			este ATA ocupa terreno acuático, 
+			modiﬁca su valor de defensa en +1 
+			contra ataques a distancia.</item>
+        <item>AVENGERS (HEROIC AGE)\n
+			Keyword(s): Avengers\n
+			Cost: 2\n
+			When a character using this team ability is given a move action, after actions resolve roll a d6 that can’t be rerolled. On a roll of 6, remove an action token from that character.
+			\n\n
+			Cuando a un personaje usando este 
+			ATA se le da una acción de movimiento, 
+			después de que se resuelva tira 
+			1d6 que no puede ser repetido. En 
+			un resultado de 6, retira un contador 
+			de acción de ese personaje.</item>
+        <item>AVENGERS RESPONSE UNIT\n
+			Keyword(s): Avengers\n
+			Cost: 3\n
+			When one or more characters using this team ability is adjacent to a friendly character making a close combat attack, modify the characters attack value by +1.
+			\n\n
+			Cuando uno o más personajes 
+			usando esta habilidad de equipo se 
+			encuentre adyacente a un personaje 
+			aliado haciendo un ataque cuerpo a 
+			cuerpo, modiﬁca el valor de ataque 
+			del personaje en +1.</item>
+	<item>BATMAN FAMILY\n
+    Keyword(s): Batman Family\n
+    Cost: 4\n
+    Characters using this team ability within 8 squares of a friendly
+    character named "Batman" or "Bruce Wayne" can use Willpower.
+    When not within 8 squares of a friendly character named
+    "Batman" or "Bruce Wayne", characters using this team ability
+    modify their speed and range values by +1.
+    </item>
+    <item>BATMAN INC\n
+    Keyword(s): Batman Inc\n
+    Cost: 3\n
+    At the beginning of the game, choose an opposing character for all
+    characters using this team ability. While any character using this
+    team ability is on the map, whenever the sum of all modifiers
+    applied to that opposing character\'s combat values is greater than
+    +1, the sum of all modifiers is instead +1.</item>
+    <item>BIRDS OF PREY\n
+    Keyword(s): Birds of Prey\n
+    Cost: 1\n
+    Once per turn, one friendly character using this team ability can
+    use Support as a free action. When it does, it may only target a
+    character with whom it shares a keyword and it subtracts 3 from
+    the d6 roll instead of 2.</item>
+        <item>BLACK LANTERN CORPS\n
+       Cost: 1\n
+       Keyword(s): Black Lantern Corps\n
+       When a character using this
+                  team ability uses Regeneration, its minimum result is 1.\n
+                 Uncopyable</item>
+        <item>CHECKMATE\nKeyword(s): Checkmate\nCost: 6\nMinion: Kings and
+			Queens and Bishops\nWhen another friendly character using
+			this team
+			ability and with a point value greater than 50 is within 8
+			squares,
+			this character can be given a power action to use Perplex if
+			it can\'t
+			already use Perplex.
+			\n\nSiervos: Reyes, reinas y alfiles\n
+            Cuando otra ﬁgura aliada usando 
+			este ATA y con valor en puntos por 
+			encima de 50 está a 8 casillas, este 
+			personaje puede realizar una acción 
+			de poder para usar Perplex si no 
+			podía ulizarlo previamente.</item>
+        <item>DARK AVENGERS\nKeyword(s): Dark Avengers\nCost: 4\nWhenever an
+			opposing character takes damage from an attack by a character
+			using
+			this team ability, modify that opposing character\'s defense
+			value by
+			-1 until the end of the turn. Each opposing character can\'t
+			have this
+			modifier applied more than once per turn.
+			\n\n
+            Cada vez que una ﬁgura opuesta 
+			reciba daño de un ataque de un 
+			personaje usando este ATA, modiﬁca 
+			el valor de defensa de la ﬁgura 
+			opuesta en -1 hasta el ﬁnal del 
+			turno. Cada personaje opuesto no 
+			puede tener este modiﬁcador 
+			aplicado más de una vez por turno.</item>
+<item>DEFENDERS\n
+    Keyword(s): Defenders\n
+    Cost: 4\n
+    Characters using this team ability may replace their attack value
+    with the unmodified attack value of an adjacent friendly character
+    using this team ability.</item>
+        <item>ELDERS OF THE UNIVERSE\n
+			Keyword(s):Elders of the Universe\n
+			Cost: 5\n
+			Opposing characters can’t attempt a relic roll while at least two friendly characters can use this team ability.
+			\n\n
+			Los personajes opuestos no pueden 
+			intentar hacer una tirada para 
+			conseguir una reliquia mientras al 
+			menos dos personajes aliados usen 
+			esta habilidad de equipo.</item>
+        <item>FANTASTIC FORCE\nKeyword(s): Fantastic Four\nCost: 5\nCharacters
+			using this team ability may replace their defense value with the
+			unmodified defense value of an adjacent friendly character using this
+			team ability.
+			\n\n
+            Los personajes usando esta ATA 
+			pueden reemplazar su valor de 
+			defensa con el valor de defensa sin 
+			modiﬁcar de un personaje aliado 
+			adyacente que esté usando también 
+			esta ATA.
+			\n\n
+			Cuando un personaje usando este 
+			ATA hace KO a un personaje enemigo, 
+			ese personaje puede curar 1 daño a 
+			cualquier personaje usando este ATA.</item>
+        <item>FF\n
+			Keyword(s): Fantastic Four\n
+			Cost: 3\n
+			When a character using this team ability KO’s an opposing character, that character may heal any character using this team ability of 1 damage.</item>
+        <item>FLASHPOINT\n
+			Keyword(s): Flashpoint\n
+			Cost: 4\n
+			Once per game per character using this team ability, it may use Probability Control during an adjacent friendly character\'s attack. When they do, you may reroll only one die and keep the other. Uncopyable.
+			\n\n
+			Una vez por juego y por personaje 
+			usando este ATA, puede usar Control 
+			de Probabilidad durante el ataque 
+			de una ﬁgura aliada adyacente. 
+			Cuando lo hace, puede repetir 
+			unicamente un dado y mantener el 
+			otro. ATA no copiable.</item>
+    <item>GCPD\n
+    Keyword(s): Gotham City and Police (both keywords)\n
+    Cost: 2\n
+    At the beginning of your turn, characters using this team ability
+    that have no action tokens may be given a move action as a free
+    action, with a speed value of 4.</item>
+    <item>GEN13\n
+    Keyword(s): Gen13\n
+    At the beginning of the game, choose a keyword for all characters
+    using this team ability. All opposing characters with that keyword
+    modify their attack value by -1 when a character using this team
+    ability is targeted.</item>
+        <item>GREAT LAKES AVENGERS\nKeyword(s): Great Lakes Avengers\nCost: 3\n
+			During an attack made by a character using this team ability,
+			opposing characters cannot use Probability Control unless a
+			friendly character has already used Probability Control during
+			this attack. Uncopyable.
+			\n\n
+			Durante un ataque hecho por un 
+			personaje usando este ATA, los 
+			personajes opuestos no pueden usar 
+			Control de Probabilidad a menos que 
+			una ﬁgura aliada lo haya utilizado 
+			durante este ataque. No puede ser 
+			usada por comodines.</item>
+        <item>GREEN LANTERN HONOR GUARD\nKeyword(s): Green Lantern
+			Corps\nCost: 5\nWhenever a character using this team ability attacks,
+			modify their attack
+			value by +1 for each other friendly character that
+			attacked the same
+			target this turn while using this team ability.
+			\n\n
+			Cuando un personaje usando este 
+			ATA realiza un ataque, modiﬁca su 
+			valor de ATK en +1 por cada otra 
+			ﬁgura aliada que haya atacado al 
+			mismo objetivo este turno, que 
+			también estuviera usando este ATA.</item>
+        <item>GUARDIANS OF THE GALAXY\nKeyword(s): Guardians of the
+			Galaxy\nCost: 4\nPowers possessed by characters using this team
+			ability can\'t be countered.
+			This team ability can\'t be used by wild
+			cards.
+			\n\n
+			Los poderes poseídos por los personajes 
+			que utilicen este ATA no 
+			pueden ser cancelados. Esta ATA no 
+			puede ser usada por comodines.</item>
+        <item>GUARDIANS OF THE GALAXY (SILVER AGE)\nKeyword(s): Guardians of the Galaxy\nCost: 1\nCharacters using this team ability are wild cards, but don\'t possess any other team abilities. Uncopyable.
+            \n\n
+            Los personajes usando este ATA se 
+			consideran comodines, pero no 
+			poseen ningún otra habilidad de 
+			equipo. No copiable.</item>
+        <item>THE HAND\n
+			Keyword(s): The Hand\n
+			Cost: 7\n
+			When it is not your turn, lines of fire to a character using this team ability are blocked if this character is adjacent to a wall or blocking terrain.
+			\n\n
+			Fuera de tu turno, las lineas de visión 
+			marcadas a un personaje usando 
+			este ATA se consideran bloqueadas si 
+			se encuentra adyacente a un muro o 
+			a terreno bloqueado.</item>
+        <item>HELLIONS\nKeyword(s): Hellions\nCost: 5\nWhen a friendly
+			character using this team ability is KO\'d during an
+			opponent\'s turn,
+			remove an action token from another friendly
+			character with higher
+			point value that\'s using this team ability.
+			\n\n
+            Cuando un personaje aliado usando 
+			este ATA es KO durante el turno del 
+			oponente, retira un contador de 
+			acción de otro personaje aliado con 
+			mayor puntuación y que esté 
+			utilizando este ATA.</item>
+<item>HEROES FOR HIRE\n
+    Keyword(s): Heroes for Hire\n
+    Cost: 8\n
+    At the beginning of the game, place a number of HIRED tokens on
+    this card equal to the number of characters using this team ability.
+    Once per turn, you may remove a HIRED token from this card and
+    give a character using this team ability one action as a free action.
+    Uncopyable.</item>
+        <item>HORSEMEN OF APOCALYPSE\nKeyword(s): Horsemen of
+			Apocalypse\nCost: 1\nAs long as you control exactly 4 characters
+			using this team ability,
+			modify this character\'s attack value by +1.
+			Uncopyable.
+			\n\n
+			Siempre y cuando controles cuatro 
+			personajes usando este ATA, 
+			modiﬁca el valor de ataque de este 
+			personaje en +1. No puede ser 
+			usada por Comodines.</item>
+        <item>HOWLING COMMANDOS\n
+			Keyword(s): Howling Commandos\n
+			Cost: 3\n
+			Friendly characters can use Support if they can\'t already, but only to target a character using this team ability that took 2 or more damage from a single opponent’s attack since your last turn.
+			\n\n
+			Los personajes aliados pueden usar 
+			Soporte si no lo tenían ya, pero 
+			solamente para hacer objetivo a un 
+			personaje que tenga esta ATA y que 
+			haya recibido 2 o más daños de un 
+			único ataque enemigo desde tu 
+			último turno.</item>
+        <item>HULKBUSTERS\n
+    		Keyword(s): Hulkbusters\n
+    		Cost: 2\n
+    		When there are more friendly characters using this team ability on the map than the total number of opposing characters, and a character using this team ability targets an opposing character with a higher point value, modify that opposing character\'s defense value by -1 for this attack.
+    		\n\n
+    		Cuando haya más personajes aliados 
+			usando este ATA en el mapa que el 
+			total de ﬁguras opuestas, y un 
+			personaje usando este ATA esté 
+			haciendo objetivo a un personaje 
+			opuesto de mayor puntuación, 
+			modiﬁca el valor de defensa del 
+			objetivo en -1 para este ataque.</item>
+        <item>HULKED-OUT HEROES\n
+   			Keyword(s): Hulked-Out Heroes\n
+    		Cost: 5\n
+    		Characters using this team ability can use Super Strength if they are not on click #1. Uncopyable.
+    		\n\n
+    		Los personajes usando este ATA 
+			pueden usar Super Fuerza si no 
+			están en el click #1. No puede ser 
+			usado por comodines.</item>
+        <item>HYDRA DEEP SCIENCE DIVISION\n
+			Cost: 3\n
+			Keyword(s): HYDRA\n
+			The maximum number of squares between an opposing character and its target when using Outwit, Perplex, or Probability Control is reduced by 1 for each friendly character using this team ability, to a minimum of 4 squares.
+			\n\n
+			El número máximo de casillas entre un 
+			personaje enemigo y su objetivo cuando 
+			usa Outwit, Perplex o Control de 
+			Probabilidad se reduce en 1 por cada 
+			personaje aliado usando esta habilidad 
+			de equipo, con un mínimo de 4 casillas.</item>
+        <item>INFINITY WATCH\n
+            Keyword(s): Infinity Watch\n
+            Cost: 2\n
+			When a character using this team ability rolls for a relic with the #relic# set symbol, it succeeds on a roll of 3-6. Uncopyable.
+			\n\n
+            Cuando un personaje usando este 
+			ATA tira el dado para coger una 
+			reliquia con símbolo #relic#, tiene 
+			éxito con una tirada de 3-6. No 
+			copiable.</item>
+        <item>INHUMANS\n
+			Keyword(s): Inhumans\n
+			Cost: 4\n
+			Characters using this team ability may use the Carry ability, but only to carry characters that can also use this team ability, and may carry those characters regardless of their combat symbols. Uncopyable.
+			\n\n
+			Los personajes usando este ATA 
+			pueden usar la habilidad de transporte, 
+			pero solo para llevar personajes 
+			que también usen este ATA, 
+			pudiendo llevarlos sin importar sus 
+			símbolos de combate. No copiable.</item>
+        <item>INTELLIGENCIA\n
+    		Keyword(s): Intelligencia \n
+    		Cost: 3 \n
+		    If no friendly character is affected by an opponent\'s Outwit and/or Perplex, friendly characters that can use Outwit and/or Perplex may use them to target characters within 12 squares instead of 10 squares and all characters using this team ability modify their range values by +2.
+		    \n\n
+		    Si ningún personaje aliado está 
+			afectado por Outwit y/o Perplex del 
+			enemigo, los personajes aliados que 
+			puedan usar Outwit y/o Perplex 
+			pueden hacerlo a 12 casillas en lugar 
+			de 10 y todos los personajes usando 
+			este ATA modiﬁcan su valor de rango 
+			en +2.</item>
+ <item>JUSTICE LEAGUE\n
+    Keyword(s): Justice League\n
+    Cost: 1\n
+    A character using this team ability modifies its defense value by +1
+    when attacked by a character possessing
+    #flight#, #sharpshooter#, #indomitable#, or #giant# combat symbols.</item>
+        <item>JUSTICE LEAGUE (SILVER AGE)\n
+   		 	Keyword(s): JLA, Justice League, Justice League of America \n
+    		Cost: 4 \n
+    		Once during each game, choose any team ability or opposing character. Each friendly character using this team ability modifies its attack value by +1 when attacking the chosen character or a character possessing the chosen team ability.
+    		\n\n
+    		Una vez por juego, elige una habilidad 
+			de equipo o ﬁgura oponente. 
+			Cada personaje aliado usando este 
+			ATA modiﬁca su valor de ataque en 
+			+1 cuando ataca al personaje elegido 
+			o uno que posea la habilidad de 
+			equipo escogida.</item>
+<item>JUSTICE LEAGUE: GENERATION LOST\n
+    Keyword(s): Justice League International\n
+    Cost: 3\n
+    At the beginning of the game, choose an opposing character for all
+    characters using this team ability. Characters using this team
+    ability ignore hindering terrain when drawing a line of fire to that
+    character.</item>
+        <item>JUSTICE LEAGUE: NEW 52\n
+		    Keyword(s): Justice League\n
+		    Cost: 3\n
+		    When a character using this team ability is adjacent to a friendly character using Leadership, add 1 to the result of the die rill, maximum 6, if not already modified by this effect.</item>
+        <item>JUSTICE LEAGUE DARK\n
+		    Keyword(s): Justice League\n
+		    Cost: 2\n
+		    When a character using this team ability is adjacent to a friendly character using this team ability, opposing characters modify their range values by -2 if not already modified by this effect. Uncopyable.</item>
+        <item>JUSTICE LEAGUE INTERNATIONAL\n
+            Keyword(s): Justice League Antarctica, Justice League Europe, or Justice League	International\n
+			Cost: 3\n
+			Whenever a character using this team ability
+			would be dealt damage, you can
+			choose to reduce damage dealt by 1 if
+			you deal 1 unavoidable damage
+			to a friendly character using this team
+			ability that is adjacent to
+			this character. (This can only be used
+			once per damage dealt).
+			\n\n
+			Cada vez que un personaje usando 
+			este ATA fuera a recibir daño, puedes 
+			elegir reducir el daño hecho en 1 si 
+			haces 1 daño inevitable a una ﬁgura 
+			aliada que use este ATA y esté 
+			adyacente a este personaje  (Sólo 
+			puede ser usado una vez por daño 
+			sufrido).</item>
+        <item>KRYPTONIAN\n
+    		Keyword(s): Kryptonian \n
+   			Cost: 2 \n
+    		When characters using this team ability occupy the highest level of clear, outdoor terrain and is not adjacent to blocking or hindering terrain, modify their attack values by +1.
+    		\n\n
+    		Cuando personajes usando este ATA 
+			ocupan una casilla de terreno 
+			exterior, no adyacente a terreno 
+			bloqueante u obstaculizado, en la 
+			más alta posición del mapa, modiﬁca 
+			sus valores de ataque en +1</item>
+        <item>LEAGUE OF ASSASSINS\n
+            Keyword(s): League of Assassins\n
+            Cost: 7\n
+            When it is not your turn, lines of fire to a character using this team ability are blocked
+			if this
+			character is adjacent to a wall or blocking terrain.
+			\n\n
+            Las lineas de visión hacía una ﬁgura 
+			usando este ATA se consideran 
+			bloqueadas si el personaje se 
+			encuentra adyacente a un muro o 
+			terreno bloqueante.</item>
+        <item>LEGION LOST\n
+			Keyword(s): Legion of Super Heroes, Legion of Super Villains \n
+			Cost: 4 \n
+			Once at the beginning of the game, if no character on your force possesses a team ability that isn\'t a wild card team ability, choose any one DC team ability other than an additional team ability, a wild card team ability, or a team ability that can\'t be used by wild cards. Characters using this team ability are not wild cards and can use the chosen team ability if they can\'t already.
+			\n\n
+			Al comienzo del juego, si ninguna ﬁgura 
+			de tu equipo posee una habilidad de 
+			equipo que no sea comodín, elige una 
+			habilidad de equipo de DC (excepto 
+			comodín, ATAs o habilidades no 
+			copiables). Los personajes usando este 
+			ATA no son comodines y pueden usar la 
+			habilidad elegida si no podían hacerlo 
+			previamente.</item>
+<item>LEGION OF MONSTERS\n
+    Keyword(s): Legion of Monsters\n
+    Cost: 5\n
+    Characters using this team ability can use Plasticity unless
+    adjacent to an opposing character with the Legion of Monsters or
+    Monster keyword.</item>
+        <item>LEGIONNAIRES\n
+            Keyword(s): Legion of Super Heroes\n
+            Cost: 2\n
+            Whenever the friendly character with the highest point value
+			that\'s using
+			this team ability is KO\'d, remove one action token from
+			each other
+			friendly character using this team ability.
+			\n\n
+            Cada vez que una ﬁgura aliada con 
+			mayor puntos que la ﬁgura que usa 
+			este ATA sea KO, retira un contador 
+			de acción de cada otra ﬁgura aliada 
+			que use este ATA.</item>
+        <item>MARVEL KNIGHTS\n
+		    Keyword(s): Marvel Knights \n
+		    Cost: 10 \n
+		    Characters using this team ability can use Stealth.
+		    \n\n
+		    Los personajes usando este ATA 
+			pueden usar Sigilo.</item>
+<item>MAXIMUM CARNAGE\n
+    Keyword(s): Maximum Carnage\n
+    Cost: 4\n
+    When a single opposing character takes damage from an attack by
+    a character using this team ability, after actions resolve, choose
+    another opposing character adjacent to the first. That other
+    character is dealt damage equal to the amount of damage taken.
+    Uncopyable.</item>
+    <item>MIDNIGHT SONS\n
+    Keyword(s): Midnight Sons\n
+    Cost: 4\n
+    Characters using this team ability can use Stealth on their starting 
+    click. If that character can already use Stealth on their starting click, lines of fire may not be drawn to that character by opposing
+    characters while on that click.</item>
+        <item>THE MIGHTY\n
+		    Keyword(s): The Mighty\n
+		    Cost: 1\n
+		    When a character using this team ability hits an opposing character and the attack roll is double, 
+		    place 1 Mighty token on this card for each 100 points of game\'s build total. Before any attack roll
+		    , you may remove one Mighty token from this card and modify the attacking character\'s attack value 
+		    by -1 for this attack.\n\n
+		    A character using this team ability modifies their attack value by +1 when attacking a character 
+		    using The Worthy additional team ability or posessing The Worthy keyword.</item>
+        <item>MIGHTY AVENGERS\n
+			Keyword(s): Avengers\n
+			Cost: 4\n
+			When a character using this team ability destroys a square of blocking terrain, roll a d6 after actions resolve. On a roll of 5, you may place a standard light object in that square. On a roll of 6, you may place a standard heavy object in that square.
+			\n\n
+			Cuando un personaje usando esta 
+			ATA destruye una casilla de terreno 
+			bloqueante, tira 1d6 después de que 
+			se resuelva la acción. En un resultado 
+			de 5, puedes colocar un objeto ligero 
+			en esa casilla. En un resultado de 6, 
+			puedes colocar un objeto pesado en 
+			esa casilla.</item>
+ <item>THE MOB\n
+    Keyword(s): Gotham City Underworld\n
+    Cost: 2
+    The highest point friendly character using this team ability can use
+    Mastermind, but may only transfer damage to a friendly character
+    using this team ability.</item>
+        <item>MODOK\'S 11\n
+			Keyword(s): MODOK’s 11\n
+			Cost: 2\n
+			Give a character using this team ability a free action to remove
+			one object from the game. This object must be a light or heavy
+			object in the character’s square or a square adjacent to the
+			character.
+			\n\n
+			Dale una acción gratuita a un personaje 
+			usando este ATA para retirar un 
+			objeto del juego. Este objeto debe 
+			ser ligero o pesado y estar en la 
+			casilla del personaje o adyacente a él.</item>
+        <item>MONSTER SOCIETY OF EVIL\nKeyword(s): Injustice Society or
+			Monster Society of Evil\n
+			Cost: 5\nAt the end of your turn, you may
+			roll a d6 for each friendly character
+			using this team ability. On a
+			result of 5 or 6, deal 1 damage to each
+			opposing character adjacent to
+			that character that hasn\'t already
+			been dealt damage by this team
+			ability this turn.
+			\n\n
+			Al ﬁnal de tu turno, puedes tirar 1d6 
+			por cada ﬁgura aliada que use este 
+			ATA. En un resultado de 5-6, haz 1 
+			daño a cada ﬁgura oponente que 
+			esté adyacente a este personaje y 
+			que no haya recibido daño por este 
+			ATA durante este turno.</item>
+        <item>MORLOCKS\nKeyword(s): Gene Nation or Morlocks\nCost: 2* (0 if
+			the character possesses the Morlocks team symbol)\nWhenever a
+			character using this team ability makes a close combat
+			attack, modify
+			its attack value by +1 for each other character using
+			this team
+			ability adjacent to both this character and the target.
+			\n\n
+			Cada vez que un personaje que use 
+			este ATA haga un ataque cuerpo a 
+			cuerpo, modiﬁca su valor de ataque 
+			en +1 por cada otro personaje 
+			usando este ATA que esté adyacente 
+			tanto al atacante como a su objetivo.\n\n
+			* El ATA cuesta 0 si la ﬁgura posee el 
+			símbolo de equipo Morlock</item>
+        <item>N.O.W.H.E.R.E.\n
+    Keyword(s): N.O.W.H.E.R.E.\n
+    Cost: 2\n
+    Characters using this team ability that have no action tokens can use #impmov# #ignht#, #ignbt# during move actions.
+    </item>
+    <item>NEGATIVE ZONE\nKeyword(s): Negative Zone\nCost: 2\n
+			A character using this team ability may ignore one wall or square of blocking terrain for movement purposes when it uses Charge or Running Shot. If it does and misses all target opposing characters deal this character 1 unavoidable damage after actions resolve.
+			\n\n
+			Un personaje usando este ATA 
+			puede ignorar un muro o casilla de 
+			terreno bloqueado a efectos de 
+			movimiento cuando use Carga o 
+			Disparo a la carrera. Si lo hace y falla 
+			el ataque, el personaje recibe 1 daño 
+			inevitable después de resolver la 
+			acción.</item>
+        <item>NEW MUTANTS\nKeyword(s): Generation X, New Mutants\nCost: 4\n
+			Whenever a character using this team ability would be dealt damage,
+			you may
+			give an action token to an adjacent friendly character using
+			this
+			team ability. If you do, deal all of the damage to that character
+			instead.
+			\n\n
+			Cada vez que un personaje usando 
+			este ATA fuera a recibir daño, 
+			puedes poner un contador de acción 
+			en una ﬁgura aliada adyacente que 
+			use este ATA. Si lo hace, haz todo el 
+			daño a dicha ﬁgura en lugar de a la 
+			que fuera a recibir el daño.</item>
+        <item>NEW TEEN TITANS\n
+    Keyword(s): Teen Titans\n
+    Cost: 3\n
+    The highest-point friendly character using this team ability can use 
+    Leadership, but may only remove action tokens from friendly 
+    characters using this team ability.</item>
+    <item>NEWER FANTASTIC FOUR\nKeyword(s): Fantastic Four\nCost: 1\n
+			A character using this team ability modifies its attack value by +1 when attacking characters possessing #indomitable#, #giant#, or #colossus#.
+			\n\n
+			Un personaje usando este ATA 
+			modiﬁca su valor de ataque en +1 
+			cuando ataca a ﬁguras que posean 
+			alguno de estos símbolos: #indomitable#, #giant#, or #colossus#.</item>
+        <item>NEXTWAVE\nKeyword(s): Nextwave\nCost 5\nWhen a character using
+			this team ability KO\'s an opposing character of a
+			higher point value
+			with an attack, place this character anywhere on
+			the map.
+			\n\n
+            Cuando un personaje usando este 
+			ATA hace KO a una ﬁgura opuesta de 
+			mayor puntuación con un ataque, 
+			coloca a este personaje en cualquier 
+			lugar del mapa.</item>
+        <item>NOVA CORPS\nKeyword(s): Nova Corps\nCost: -10*\n
+			Friendly characters ignore traits named \"Share Through the Worldmind\" possessed by friendly characters. *(0 if the character dosen\'t possess the trait named \"Share Through the Worldmind.\")
+			\n\n
+			Los personajes aliados ignoran las 
+			habilidades llamadas “Vínculados a 
+			través del mundo mente” poseidas 
+			por otros personajes aliados.\n\n
+			*0 si el personaje no posee la habilidad 
+			llamada “Vinculado a través del mundo 
+			mente”.</item>
+        <item>OFFENDERS\n
+    Keyword(s): Offenders\n
+    Cost: 4\n
+    When a character using this team ability attacks a single
+    character, replace that character\'s defense value with the lowest
+    printed defense value among all characters adjacent to that
+    character. Uncopyable.</item>
+    <item>THE ORDER\nKeyword(s): Defenders\nCost: 3\n
+			Character using this team ability cannot be targeted by an opposing character using one of the listed powers if any character using this team ability was already hit by an opposing character using that power this turn.\n
+			Flurry				Incapacitate\n
+			Charge				Penetrating/Psychic Blast\n
+			Hypersonic Speed	Ranged Combat Expert\n
+			Running Shot		Exploit Weakness\n
+			Blades/Claws/Fangs	Close Combat Expert
+			\n\n
+			Los personajes usando este ATA no pueden ser 
+			objetivos de ﬁguras oponentes que usen 
+			algunos de los siguientes poderes si cualquier 
+			ﬁgura usando este ATA fue impactada por una 
+			ﬁgura oponente usando ese poder durante 
+			este turno.\n\n
+			Flurry · Incapacitar \n 
+			Carga · Golpe Psíquico \n 
+			Velocidad hipersónica · Experto en combate a distancia \n
+			Disparo a la carrera · Explotar debilidad \n
+			Garras · Experto en combate cuerpo a cuerpo.</item>
+        <item>ORIGINAL SINISTER SIX\n
+    Keyword(s): Sinister Syndicate\n
+    Cost: 3\n
+    When a character using this team ability hits an opposing
+    character, mark that character with a Sinister Six token. When a
+    character using this team ability attacks an opposing character
+    marked with one or more Sinister Six tokens, modify their attack
+    value by +1 for each token.
+    When attacking a single target with one or more Sinister Six tokens,
+    if the target\'s name Spider-Man or possesses the Spider-Man
+    Family keyword or the Spider-Man symbol, modify this character\'s damage 
+    value by +1.</item>
+    <item>OUTLAWS\nKeyword(s): Outlaws\nCost: 1\nWhen a character using
+			this team ability is given a move action, modify
+			that character\'s
+			speed values by +1 for each adjacent character using
+			this team ability
+			at the beginning of the move action.
+			\n\n
+            Cada vez que un personaje usando 
+			este ATA realiza una acción de 
+			movimiento, modiﬁca el valor de 
+			velocidad en +1 por cada ﬁgura 
+			adyacente que este usando esta ATA 
+			al comienzo de la acción.</item>
+        <item>OUTSIDERS\n
+    Keyword(s): Outsiders
+    Cost: 3\n
+    At the beginning of your turn, roll a d6 for all friendly characters
+    using this team ability. If the result is equal to or less than the
+    number of friendly characters that can use this team ability, you
+    may immediately give one of those characters a close combat
+    attack as a free action, using its printed combat values.
+    Uncopyable.</item>
+    <item>PHANTOM ZONE\n
+			    Keyword(s): Phantom Zone\n
+			    Cost: 4\nOnce per game per character using this team ability, when they would take 4 or more damage from an attack, you may roll a d6. On a result of 4-6, ignore the damage and place this character in your starting area.
+			    \n\n
+			Una vez por juego y por ﬁgura 
+			usando este ATA, cuando reciba 4 o 
+			más daños de un ataque, puedes 
+			tirar 1d6. En un resultado de 4-6, 
+			ignora el daño y coloca este personaje 
+			en tu área de inicio.</item>
+        <item>PRIME\'S TITANS\n
+    Keyword(s): Prime\'s Titans\n
+    Cost: 6\n
+    When a character using this team ability KO’s an opposing
+    character, remove an action token from each other friendly
+    character using this team ability. Uncopyable.</item>
+    <item>RAVAGERS\n
+    Keyword(s): Ravagers\n
+    Cost: 4\n
+    Characters using this team ability automatically break away.
+    Uncopyable.</item>
+    <item>REAVERS\nKeyword(s): Reavers\nCost: 8\nWhen a character using
+			this team ability has two action tokens, it can be
+			given a non-free
+			action. If you do, after actions resolve deal the
+			character 1
+			unavoidable damage and do not clear action tokens from it
+			at the end
+			of the turn.
+			\n\n
+            Cuando un personaje utilizando este 
+			ATA tiene dos contadores de acción, 
+			puede realizar una acción no 
+			gratuita. Si lo hace, tras resolver la 
+			acción hazle 1 daño inevitable y no 
+			retires los contadores de acción al 
+			ﬁnal del turno.</item>
+        <item>RED HOOD AND THE OUTLAWS\n
+    Keyword(s): Outlaws\n
+    Cost: 6\n
+    Opposing characters with the highest point value on their force 
+    can\'t draw lines of fire to characters using this team ability. 
+    Uncopyable.</item>
+    <item>ROGUES\n
+			    Keyword(s): Rogues \n
+			    Cost: 6 \n
+			    Characters using this team ability can use Outwit, but only to counter Hypersonic Speed, the Move and Attack ability, or a special power that specifically allows that character to use Hypersonic Speed or the Move and Attack ability. Uncopyable.
+			    \n\n
+			Los personajes usando este ATA 
+			pueden usar Outwit, pero solamente 
+			para cancelar Velocidad Hipersónica, 
+			Mover y Atacar o un poder especial 
+			que permita usar alguno de estos 
+			dos poderes. Este ATA no puede ser 
+			copiada.</item>
+        <item>RUNAWAYS\nKeyword(s): Runaways\nCost: 3\nWhenever a character
+			using this team ability attacks, modify their attack
+			value by +1 for
+			each other friendly character that dealt damage to an
+			opposing
+			character this turn while using this team ability.
+			\n\n
+            Cada vez que un personaje que use 
+			este ATA ataque, modiﬁca su valor 
+			de ataque en +1 por cada otro 
+			personaje aliado que haya dañado a 
+			un personaje opuesto este turno 
+			que estuviera usando este ATA.</item>
+        <item>SAVAGE LAND\n
+			    Keyword(s): Savage Land\n
+			    Cost: 3\n
+			    Once per game per character using this team ability, when they roll a d6 for Blades/Claws/Fangs, if the result is a 1 that character may reroll the d6.
+			    \n\n
+			Una vez por juego y por personaje 
+			usando este ATA, cuando tire 1d6 a 
+			causa de Cuchillo/Garras/Colmillos, 
+			si es resultado es 1 puede volver a 
+			tirar el dado.</item>
+        <item>SECRET AVENGERS\n
+			Keyword(s): Avengers\n
+			Cost: 5\n
+			Characters using this team ability can’t be the target of an opponent’s Outwit or Perplex unless they’ve been targeted with an attack previously in the same turn.
+			\n\n
+			Los personajes usando este ATA no 
+			pueden ser objetivo de Outwit o 
+			Perplex del oponente amenos que 
+			hayan sido objetivos de un ataque 
+			anteriormente en el mismo turno.</item>
+        <item>SECRET INVASION\n
+        Cost: 2\n
+Keyword(s): Skrulls\n
+When a character using this team ability is targeted with an attack
+by an opposing character with which it shares a keyword, modify
+this character’s defense value by +1.</item>
+        <item>SECRET SIX\nKeyword(s): Secret Six\nCost: 3\nWhenever a
+			character using this team ability is KO\'d, you may roll a d6 and
+			subtract 2 (minimum 1). Deal that much damage, divided as you choose,
+			among any number of opposing characters adjacent to the square the
+			KO\'d character occupied.
+			\n\n
+            Cada vez que un personaje usando 
+			este ATA es KO, puedes tirar 1d6 y 
+			restar 2 (mínimo 1). Haz esa 
+			cantidad de daño, dividido como tu 
+			quieras, entre cualquier número de 
+			ﬁguras opuestas que estén adyacentes 
+			a la casilla ocupada por el 
+			personaje KO.</item>
+        <item>SECRET WARRIORS\n
+			Keyword(s): Secret Warriors\n
+			Cost: 1\n
+			When you build your force, choose the H.A.M.M.E.R., HYDRA,
+			or S.H.I.E.L.D. keyword. Characters using this team ability also
+			possess the chosen keyword. Uncopyable.
+			\n\n
+			Antes de revelar tu equipo, elige una 
+			de las tres claves: HAMMER, HYDRA 
+			o SHIELD. Los personajes que usen 
+			este ATA poseen la clave elegida. No 
+			puede ser usada por comodines.</item>
+        <item>SERPENT SOCIETY\n
+            Keyword(s): Serpent Society or Serpent Squad\n
+			Cost: 6* (0 if the character possesses the Serpent Society
+			team symbol)\n
+			Characters using this team ability can use
+			Phasing/Teleport.
+			\n 
+			Los personajes usando este ATA 
+			pueden usar Fase / Teleportar.\n\n
+			* El ATA cuesta 0 si el personaje 
+			posee el símbolo de equipo Serpent 
+			Society.</item>
+        <item>SHADOWPACT\n
+            Keyword(s): Shadowpact\n
+            Cost: 1\n
+This character ignores the Mystics team ability.
+\n\n
+			Este personaje ignora la habilidad de 
+			equipo Místico.</item>
+        <item>SINISTER TWELVE\n
+    Keyword(s): Sinister Syndicate\n
+    Cost: 4\n
+    When you have more characters on the map than each opponent,
+    modify the attack value of each character using this team ability by
+    +1.</item>
+    <item>THE SOCIETY\n
+            Keyword(s): Secret Society of Super Villains or
+			Society\n
+			Cost: 3\n
+			Whenever a character using this team ability is
+			targeted by Outwit, you roll
+			a d6. On a result of 4-6, the opposing
+			character that targeted your
+			character cannot use Outwit to target
+			that character this turn. This
+			team ability cannot be used by wild
+			cards.
+			\n\n
+			Cuando un personaje usando este 
+			ATA es objevo de un Outwit, puedes 
+			tirar 1d6. En un resultado de 4-6, el 
+			personaje opuesto que hizo Outwit 
+			no puede usarlo sobre este personaje 
+			durante este turno. Este ATA no 
+			puede ser copiada.</item>
+        <item>SPIDER-MAN FAMILY\n
+    Keyword(s): Spider-Man Family\n
+    Cost: 10* (3 if the character the Spider-Man symbol)\n
+    Characters using this team ability possess the Spider-Man team
+    ability if they don\'t already, and may use the Spider-Man team
+    ability to copy the team abilities of opposing characters as if they
+    were friendly. Uncopyable.</item>
+    <item>SQUADRON SUPREME\n
+            Keyword(s): Squadron Sinister or Squadron
+			Supreme\n
+			Cost: 5\n
+			While at least two friendly characters using this
+			team ability are
+			adjacent, one of them of your choice can use Mind
+			Control. This team
+			ability cannot be used by wild cards.
+			\n\n
+			Cuando el menos dos ﬁguras aliadas 
+			usando este ATA están adyacentes, 
+			una de ellas puede usar Control 
+			Mental. Esta ATA no puede ser usada 
+			por Comodines.</item>
+        <item>STRATEGIC HOMELAND INTERVENTION, ENFORCEMENT AND LOGISTICS DIVISION\n
+			Keyword(s): S.H.I.E.L.D.\n
+			Cost: 3\n
+			When a friendly character using this team ability uses Outwit,
+    Perplex, or Probability Control, modify its range value and the
+    minimum range value for the power by +1 for each other friendly
+    character using this team ability.
+			\n\n</item>
+        <item>THUNDERBOLTS\n
+            Keyword(s): Thunderbolts\n
+            Cost: 8\n
+            Once at the
+			beginning of the game, choose any one Marvel team ability
+			other than
+			an Additional team ability, a wild card team ability, or a
+			team ability
+			that can\'t be used by wild cards. Characters using this
+			team ability
+			can use the chosen team ability if they can\'t already.
+			\n\n
+            Al comienzo del juego, elige 
+			cualquier habilidad de equipo Marvel 
+			(Que no sea ATA, Comodin o 
+			cualquier habilidad de equipo que no 
+			pueda ser utilizada por comodines). 
+			Los personajes usando este ATA 
+			pueden usar la habilidad de equipo 
+			elegida si no la tenían ya.</item>
+        <item>U-FOES\nKeyword(s): U-Foes\nCost: 3\nWhen a character using this
+			team ability hits an opposing character with
+			a printed damage value of 4 or
+			more, increase the damage dealt to that
+			character by 1.
+			\n\n
+            Cuando un personaje usando este 
+			ATA golpea a una ﬁgura oponente 
+			con un valor de daño impreso de 4 o 
+			más, incrementa el daño hecho a ese 
+			personaje en 1.</item>
+        <item>UNIVERSAL CHURCH OF TRUTH\nKeyword(s): Universal Chruch of Truth\nCost: 4\n
+			When an opposing character targets a character using this team ability with an attack and misses, modify the defense value of all character using this team ability by +1 until the end of the turn.
+			\n\n
+			Cuando una ﬁgura opuesta ataque y 
+			falle a un personaje que este usando 
+			este ATA, modiﬁca el valor de 
+			defensa de todos los personajes 
+			usando esta habilidad de equipo en 
+			+1 hasta el ﬁnal del turno.</item>
+        <item>VILLAINS FOR HIRE\n
+    Keyword(s): Villains for Hire\n
+    Cost: 6\n
+    Choose a copyable team ability an opposing character possesses; 
+    characters using this team ability can use that team ability for the 
+    entire game.</item><item>WHITE LANTERN CORPS\nKeyword(s): White Lantern Corps\nCost:
+			3\nPlace a number of tokens on this card equal to the number of
+			characters
+			with the White Lantern Corps keyword with which you begin
+			the game.
+			Immediately before any attack roll, you may remove one token
+			to
+			modify a friendly character\'s defense value by +1.
+			\n\n
+            Coloca un número de contadores en 
+			esta carta igual al número de ﬁguras 
+			con la clave White Lantern Corps con 
+			las que empiezas el juego. Inmediatamente 
+			antes de cualquier tirada de 
+			ataque, puedes retirar un contador 
+			para modiﬁcar la defensa de un 
+			personaje aliado en +1.</item>
+<item>WILDC.A.T.S\n
+    Keyword(s): Wild.C.A.T.s\n
+    Cost: 1\n
+    Once per turn, when a character using this team ability makes
+    an attack roll and one of the dice is a 1, you may reroll 
+    that die. Uncopyable.</item>
+        <item>WINTER GUARD\n
+Keyword(s): Soviet Super-Soldiers, Winter Guard\n
+Cost: 1\n
+Each character using this team ability may be given a power
+action once per game to be dealt 1 unavoidable damage. If you do,
+after actions resolve roll a d6 and heal the character of half the
+result.
+\n\n
+			Cada personaje usando esta ATA 
+			puede realizar una acción de poder 
+			una vez por juego para recibir 1 daño 
+			inevitable. Si lo haces, tras resolver la 
+			acción tira 1d6 y cura al personaje la 
+			mitad del resultado.</item>
+        <item>X-FORCE\nKeyword(s): X-Force\nCost: 3\nCharacters using this
+			team ability ignore the effects of hindering terrain on
+			their
+			movement.
+			\n\n
+            Los personajes que usen esta habilidad 
+			de equipo  ignoran los efectos 
+			del terreno obstaculizado durante su 
+			movimiento.</item>
+<item>YOUNG JUSTICE\n
+    Keyword(s): Young Justice\n
+    Cost: 4\n
+    When a character using this team ability would be KO’d, you may
+    instead turn this character to its last click but only if you deal 1
+    unavoidable damage to an adjacent friendly character using this
+    team ability.</item>
+    </string-array>
+
+</resources>

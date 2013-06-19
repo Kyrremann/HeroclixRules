@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="speed_abilities_names">
+        <item>FLURRY</item>
+        <item>LEAP/CLIMB</item>
+        <item>PHASING/TELEPORT</item>
+        <item>EARTHBOUND/NEUTRALIZED</item>
+        <item>CHARGE</item>
+        <item>MIND CONTROL</item>
+        <item>PLASTICITY</item>
+        <item>FORCE BLAST</item>
+        <item>SIDESTEP</item>
+        <item>HYPERSONIC SPEED</item>
+        <item>STEALTH</item>
+        <item>RUNNING SHOT</item>
+    </string-array>
+    <string-array name="speed_abilities">
+        <item>FLURRY\nGive this character a close combat action. After the close combat attack 
+            resolves, it may make a second close combat attack as a free action.</item>
+        <item>LEAP/CLIMB\nGive this character a move action and move it up to its speed value; 
+            during this movement, this character adds 2 to its d6 roll when breaking away and can use 
+            #impmov#, #ignet#, #ignht#, #ignobt#, #doubleoarr#. 
+            When you give this character a close
+			combat action, it may target a character regardless of the target’s elevation.</item>
+        <item>PHASING/TELEPORT\nGive this character a move action and move it
+			up
+			to its speed value; this character can use #impmov#, #ignet#, #ignht#, #ignbt#, #chara# during this movement.</item>
+        <item>EARTHBOUND/NEUTRALIZED\nThis character possesses #speed#, #attack#, #defense#, #damage# instead
+			of its combat symbols. This power can’t be countered or ignored.</item>
+        <item>CHARGE\nGive this character a power action; halve its speed
+			value for the action.
+			Move this character up to its speed value and
+			then it may be given a
+			close combat
+			action as a free action. A
+			character using this power ignores knock back.</item>
+        <item>MIND CONTROL\nGive this character a close or ranged combat action (minimum
+			range value 4) that deals no damage. A successfully hit target becomes friendly to
+			your force. Each target hit may be assigned one action as a free action, immediately
+			after which the target becomes an opposing character again. Deal this character 1
+			unavoidable damage if the successfully hit targets’ combined point value is 150 points
+ 			or more.
+		</item>
+        <item>PLASTICITY\nThis character adds 2 to its d6 roll when breaking away. Opposing
+			characters can’t automatically break away from this character and subtract 2 from
+			their d6 roll when breaking away from this character. Opposing characters entering a
+			square adjacent to this character must end their movement, even if they would not
+			have to do so normally.</item>
+        <item>FORCE BLAST\nGive this character a power action and roll a d6; a single adjacent 
+			opposing character is knocked back from this character a number of squares equal to 
+			the result. When this character hits with an attack, you may choose that it generates 
+			knock back if it doesn’t already. 
+		</item>
+        <item>SIDESTEP\nGive this character a free action; it can move with a locked speed 
+			value of 2.</item>
+        <item>HYPERSONIC SPEED\nGive this character a power action and move it up to 
+			its speed value. It adds 2 to its d6 roll when breaking away and can use 
+ 			#impmov# #doubleo#.
+			During its move, this character may, as a free action, make one close combat or ranged 
+			combat attack with its range value halved for the attack. This character must be in a 
+			square where it could legally end its move in order to make the attack. 
+		</item>
+        <item>STEALTH\nWhen it is not your turn, hindered lines of fire drawn
+			to this character
+			are blocked.</item>
+        <item>RUNNING SHOT\nGive this character a power action; halve its
+			speed value for
+			the action. Move this character up to its speed value
+			and it may be
+			given a ranged
+			combat action as a free action.</item>
+    </string-array>
+    <string-array name="attack_abilities_names">
+        <item>BLADES/CLAWS/FANGS</item>
+        <item>ENERGY EXPLOSION</item>
+        <item>PULSE WAVE</item>
+        <item>QUAKE</item>
+        <item>SUPER STRENGTH</item>
+        <item>INCAPACITATE</item>
+        <item>PENETRATING/PSYCHIC BLAST</item>
+        <item>SMOKE CLOUD</item>
+        <item>PRECISION STRIKE</item>
+        <item>POISON</item>
+        <item>STEAL ENERGY</item>
+        <item>TELEKINESIS</item>
+    </string-array>
+    <string-array name="attack_abilities">
+        <item>BLADES/CLAWS/FANGS\nWhen this character is given a close combat
+			action, you
+			may roll a d6 after making a successful attack roll. The
+			result replaces
+			this character’s
+			damage value, then that damage value
+			is locked.</item>
+        <item>ENERGY EXPLOSION\nWhen this character is given a ranged combat action
+			and deals damage, an area of effect may include all untargeted characters that are
+			adjacent to one or more hit targets. Hit targets are dealt damage normally, other
+			hit characters are dealt 1 damage for each #lightning#
+			printed on this character’s base.
+		</item>
+        <item>PULSE WAVE\nGive this character a ranged combat action even if it is adjacent
+			to an opposing character; the area of effect for this attack is half the character’s
+ 			range. Draw lines of fire to all other characters within the area of effect, including
+			at least one opposing character; these lines of fire ignore all game effects except
+			for walls, blocking and elevated terrain. Game effects possessed or used by
+			characters with a line of fire drawn to them are ignored until the action has been
+			resolved. If a line of fire is drawn to more than 1 character, this character’s damage
+ 			value becomes 1 and is locked. Each character hit is dealt damage.
+		</item>
+        <item>QUAKE\nGive this character a close combat action; this character’s damage value
+			becomes 2 and is locked. Make a close combat attack that targets all opposing
+			characters this character can attack with a close combat attack. Each hit character is
+			knocked back 2 squares.</item>
+        <item>SUPER STRENGTH\nWhen this character moves due to its own action, it may 
+			either pick up an object or place an object it is holding. The object must be picked up 
+			from or placed in either a square the character occupies or an adjacent square. If this 
+			power is lost or countered while this character is holding an object, immediately place 
+			the object in the square this character occupies. 
+		</item>
+        <item>INCAPACITATE\nGive this character a close combat or ranged combat action to 
+			make an attack that deals no damage. If the attack hits, give the target an action token; 
+			if the target already has 2 action tokens, deal the target 1 penetrating damage. 
+		</item>
+        <item>PENETRATING/PSYCHIC BLAST\nGive this character a ranged combat
+			action.
+			Damage from the attack is penetrating damage.</item>
+        <item>SMOKE CLOUD\nGive this character a power action; place up to 6 hindering terrain
+			markers in distinct, adjacent squares that are all within this character’s range (minimum range
+			value 4). At least one of the terrain markers must be within line of fire when it is placed. The
+			terrain markers remain until the beginning of your next turn. Characters that occupy these
+			terrain markers modify their attack value by -1 unless they can use Smoke Cloud or ignore
+			hindering terrain for line of fire purposes.</item>
+        <item>PRECISION STRIKE\nWhen this character makes an attack, it can’t be evaded, and the
+ 			damage dealt can’t be reduced below 1 or transferred.</item>
+        <item>POISON\nAt the beginning of your turn, give this character a
+			free action and deal 1
+			damage to each adjacent opposing character.</item>
+        <item>STEAL ENERGY\nEach time an opposing character takes damage from
+			a close combat
+			attack made by this character, heal this character of 1
+			damage.</item>
+        <item>TELEKINESIS\nGive this character a power action and designate a
+			target
+			character or object (A) and a destination square (B). This
+			character, A, and B
+			must all be within 8 squares and line of fire of
+			each other. Place A
+			in B. If A is a
+			character, it must be a single base
+			character and possess #tiny# or #damage# the symbols.
+			If A is an
+			opposing
+			character, make a close or ranged combat attack that deals no damage
+			against A, and only place the character in B if the target is hit. If
+			A is an object and
+			B is occupied by an opposing character, this
+			character may make a
+			ranged combat
+			attack against B, dealing object
+			damage and destroying the object. A character that has been placed by Telekinesis this turn can’t use Telekinesis this turn.</item>
+    </string-array>
+    <string-array name="defense_abilities_names">
+        <item>SUPER SENSES</item>
+        <item>TOUGHNESS</item>
+        <item>DEFEND</item>
+        <item>COMBAT REFLEXES</item>
+        <item>ENERGY SHIELD/DEFLECTION</item>
+        <item>BARRIER</item>
+        <item>MASTERMIND</item>
+        <item>WILLPOWER</item>
+        <item>INVINCIBLE</item>
+        <item>IMPERVIOUS</item>
+        <item>REGENERATION</item>
+        <item>INVULNERABILITY</item>
+    </string-array>
+    <string-array name="defense_abilities">
+        <item>SUPER SENSES\nWhen this character is hit by an attack, you may
+			roll a d6 before
+			damage is dealt. On a result of 5 or 6, this
+			character evades the attack.</item>
+        <item>TOUGHNESS\nDamage dealt to this character is reduced by 1.</item>
+        <item>DEFEND\nAny adjacent friendly character may replace its defense
+			value with this
+			character’s unmodified defense value.</item>
+        <item>COMBAT REFLEXES\nModify this character’s defense value by +2 against close 
+			combat attacks. This character ignores knock back.
+		</item>
+        <item>ENERGY SHIELD/DEFLECTION\nModify this character’s defense value
+			by +2
+			against ranged combat attacks.</item>
+        <item>BARRIER\nGive this character a power action; place up to 4 blocking terrain
+			markers in distinct, adjacent squares of clear terrain that are all within this character’s
+ 			range (minimum range value 4). At least one of the terrain markers must be within
+			line of fire when it is placed. The terrain markers remain until the beginning of your
+			next turn.
+		</item>
+        <item>MASTERMIND\nWhen this character would be dealt damage, you may
+			instead
+			choose to have all the damage be dealt to a single adjacent
+			friendly
+			character with
+			a point value less than this character’s. Any
+			additional effects of
+			the damage dealt
+			(knock back, penetrating damage,
+			etc.) are applied to the character taking
+			the damage.
+			Damage dealt by
+			this power is not an attack.</item>
+        <item>WILLPOWER\nThis character may ignore pushing damage.</item>
+        <item>INVINCIBLE\nHalf of damage dealt to this character is ignored.</item>
+        <item>IMPERVIOUS\nWhen this character is dealt damage, roll a d6. On a
+			result of 5 or 6,
+			the damage dealt is reduced to 0. On a result of
+			1–4, the damage dealt
+			is reduced by
+			2.</item>
+        <item>REGENERATION\nGive this character a power action. Roll a d6 and
+			subtract 2
+			from the result, minimum result 0. Heal this character of
+			damage equal to
+			the result.</item>
+        <item>INVULNERABILITY\nDamage dealt to this character is reduced by 2.</item>
+    </string-array>
+    <string-array name="damage_abilities_names">
+        <item>RANGED COMBAT EXPERT</item>
+        <item>BATTLE FURY</item>
+        <item>SUPPORT</item>
+        <item>EXPLOIT WEAKNESS</item>
+        <item>ENHANCEMENT</item>
+        <item>PROBABILITY CONTROL</item>
+        <item>SHAPE CHANGE</item>
+        <item>CLOSE COMBAT EXPERT</item>
+        <item>EMPOWER</item>
+        <item>PERPLEX</item>
+        <item>OUTWIT</item>
+        <item>LEADERSHIP</item>
+    </string-array>
+    <string-array name="damage_abilities">
+        <item>RANGED COMBAT EXPERT\nGive this character a power action. It makes a
+			ranged combat attack against a single target character; before making the attack, you
+			may modify its attack value by +2, its damage value by +2, or both combat values by
+			+1.
+		</item>
+        <item>BATTLE FURY\nThis character ignores Shape Change, can’t make
+			ranged combat
+			attacks, can’t be targeted by Mind Control or
+			Incapacitate, and can’t be
+			carried.</item>
+        <item>SUPPORT\nGive this character a power action and make an attack
+			roll (that is not
+			an attack) against an adjacent friendly character as
+			though making a
+			close combat
+			attack. When using this power, neither
+			this character nor the target can be
+			adjacent
+			to an opposing character;
+			ignore all combat value modifiers for this
+			action. If the
+			attack roll
+			succeeds, roll a d6 and subtract 2 from the result, minimum
+			result 1.
+			The
+			target is healed of damage equal to the result.</item>
+        <item>EXPLOIT WEAKNESS\nGive this character a close combat action.
+			Damage from
+			the attack is penetrating damage.</item>
+        <item>ENHANCEMENT\nWhen an adjacent friendly character makes a ranged
+			combat
+			attack, this character modifies the adjacent friendly
+			character’s damage
+			value by +1.</item>
+        <item>PROBABILITY CONTROL\nOnce during your turn, this character allows you to
+			reroll one of your rolls, ignoring the original roll. A character using this power must be within
+			range (minimum range 6) and line of fire to the character for which the original roll was
+			made. Using the same rules, once per round during an opponent’s turn, this character allows
+ 			you to force that opponent to reroll one of their rolls, ignoring the original roll.
+		</item>
+        <item>SHAPE CHANGE\nWhen this character is chosen as the target of an
+			attack, you may
+			roll a d6. On a result of 5 or 6, the attacker can’t
+			target this
+			character with an attack this
+			turn and the attacker may
+			choose another target character instead. The
+			attacker then
+			makes the
+			attack unless there are no targets, in which case the action
+			resolves
+			without an
+			attack.</item>
+        <item>CLOSE COMBAT EXPERT\nGive this character a power action. It makes a close
+			combat attack against a single opposing target character; before making the attack you may
+			modify its attack value by +2, its damage value by + 2, or both combat values by +1.
+		</item>
+        <item>EMPOWER\nWhen an adjacent friendly character makes a close combat attack, this
+			character modifies that adjacent friendly character’s damage value by +1.</item>
+        <item>PERPLEX\nGive this character a free action to modify by +1 or –1 any combat value of
+			 a target character until the beginning of your next turn. A character using this power must
+			be within range (minimum range 6) and line of fire to the target. If a target character is
+			damaged or healed, the effect of Perplex on that character ends immediately.
+		</item>
+        <item>OUTWIT\nGive this character a free action to counter a power or a combat ability
+			possessed by a single target opposing character until the beginning of your next turn.
+			Any game effects with a duration specified by the countered power or combat ability
+			are removed. A character using this power must be within range (minimum range 6)
+			and line of fire to the target.
+		</item>
+        <item>LEADERSHIP\nAt the beginning of your turn, give this character a
+			free action and
+			roll a d6. On a result of 5–6, add one action to your
+			action total for
+			that turn and this
+			character may remove an action
+			token from an adjacent friendly character with
+			a
+			lower point value.</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="glossary">
+        <item>3-D OBJECT\n
+			A three-dimensional sculpture marked with the #3d#
+			symbol.</item>
+        <item>ABILITY\n
+			A capability possessed by a character, indicated by a
+			symbol on its
+			base and/or explained on its character card.</item>
+        <item>ACTION\n
+			A character’s attack, move, or use of a power or
+			ability.</item>
+        <item>ACTION TOKEN\n
+			A coin, bead, or some other item used to indicate
+			that a character has
+			been given an action (other than a free action)
+			and how many actions
+			(other than free actions) that character has been
+			given since it last
+			cleared.</item>
+        <item>ACTION TOTAL\n
+			The number of actions a player has available to
+			give to his or her
+			characters on each of that player’s turns.</item>
+        <item>ACTIVATE\n
+			To initiate the use of a power or ability. A power or
+			ability can be
+			activated by an action given to a character.</item>
+        <item>ACTIVE PLAYER\n
+			The player whose turn it is.</item>
+        <item>ADJACENT SQUARES\n
+			All squares on the battlefield that touch a
+			given square, including
+			those on the diagonal. Terrain effects can
+			cause 2 squares that share
+			a border to not be adjacent.</item>
+        <item>ATTACK\n
+			Part of an action that includes an attack roll to
+			determine whether one
+			character hits another.</item>
+        <item>ATTACK ROLL\n
+			The result of rolling 2d6 when a character makes a
+			close combat or
+			ranged combat attack.</item>
+        <item>ATTACK TOTAL\n
+			The combined result when an attack roll is added
+			to an Attack Value,
+			including all game effects.</item>
+        <item>ATTACK VALUE\n
+			A number that represents a character’s ability to
+			successfully hit a
+			target in combat.</item>
+        <item>ATTACKER\n
+			The character initiating an attack.</item>
+        <item>BASE\n
+			The piece of plastic on which a figure is mounted.</item>
+        <item>BASED\n
+			A character that has an opposing character occupying an
+			adjacent
+			square.</item>
+        <item>BATTLEFIELD\n
+			The map where a HeroClix game takes place.</item>
+        <item>BLOCKING TERRAIN\n
+			Terrain that prevents movement and an attacker
+			from drawing a clear line of
+			fire. Squares within a brown border are
+			blocking terrain.</item>
+        <item>BOUNDARY LINE\n
+			The colored line indicating the type and
+			outermost squares of an area of
+			terrain.</item>
+        <item>BREAK AWAY\n
+			To move away from adjacent opposing characters.
+		</item>
+        <item>BUILD TOTAL\n
+			The maximum value allowed when the point values of
+			all elements of a
+			player’s force for a game are added together.</item>
+        <item>BYSTANDER TOKEN\n
+			A disc with a graphical representation of a
+			character on it, rather
+			than a figure, that can be included as part of
+			your force.</item>
+        <item>CHARACTER\n
+			The playing piece that represents a personality in
+			the game.</item>
+        <item>CHARACTER CARD\n
+			A card specific to a particular HeroClix
+			character that is printed
+			with information relevant to that character,
+			such as powers,
+			character background, first appearance, and so on.
+		</item>
+        <item>CLEAR TERRAIN\n
+			Areas of the battlefield where a character can
+			move or make a ranged
+			combat attack without penalty.</item>
+        <item>CLEARING\n
+			Removing action tokens from a character at the end of
+			your turn.</item>
+        <item>CLICK\n
+			A single turn of the combat dial resulting in a “click”
+			that can be
+			felt and heard.</item>
+        <item>CLICK NUMBER\n
+			A number that represents the sequence number of
+			each portion of the
+			character’s dial.</item>
+        <item>CLOSE COMBAT ACTION\n
+			An action given to a character that allows
+			it to make a close combat
+			attack.</item>
+        <item>CLOSE COMBAT ATTACK\n
+			A melee or hand-to-hand attack.</item>
+        <item>COLLECTOR’S NUMBER\n
+			An identifying number specific to a
+			particular character in a set.
+		</item>
+        <item>COLOSSAL CHARACTER\n
+			A character with the Colossal Stamina
+			ability and Great Size ability,
+			usually indicated by the #colossal#
+			damage symbol on its base.</item>
+        <item>COMBAT DIAL\n
+			The piece of plastic under a character’s base, upon
+			which the
+			character’s powers and combat values are printed.</item>
+        <item>COMBAT VALUES\n
+			The four numbers visible through the stat slot on
+			a character’s combat
+			dial, and the number next to the lightning
+			bolt(s) on a character’s
+			base.</item>
+        <item>COPY\n
+			A multiple of a game element. For example, a force can
+			contain more
+			than one copy of a non-Unique character.</item>
+        <item>COUNTER\n
+			A game effect that causes another power, ability, or
+			effect to no
+			longer be possessed by a character.</item>
+        <item>CONTINUAL\n
+			The special ability of a special object with the
+			Continual keyword is not
+			ignored while being held or moved</item>
+        <item>CRITICAL HIT\n
+			Any roll of the dice that results in two 6s
+			showing.</item>
+        <item>CRITICAL MISS\n
+			Any roll of the dice that results in two 1s
+			showing.</item>
+        <item>D6 (OR 2D6)\n
+			An abbreviation for “six-sided die” (or “two
+			six-sided dice”).</item>
+        <item>DAMAGE\n
+			A change in a character’s condition that brings it
+			closer to being
+			defeated, causing a player to click the combat dial of
+			the character
+			in a clockwise direction.</item>
+        <item>DAMAGE DEALT\n
+			The number of clicks an attacking character deals
+			to a target.</item>
+        <item>DAMAGE TAKEN\n
+			The number of clockwise clicks applied to a target
+			after damage is
+			dealt.</item>
+        <item>DAMAGE VALUE\n
+			A number that represents the number of clicks of
+			damage a character
+			can deal with a successful attack.</item>
+        <item>DEFEATED\n
+			A character that is knocked out and removed from the
+			game.</item>
+        <item>DEFENSE VALUE\n
+			A number that represents a character’s ability to
+			avoid being hit.
+		</item>
+        <item>DOUBLES\n
+			The result of rolling the same number on 2d6 (such as
+			two 4s).</item>
+        <item>DUO CHARACTER\n
+			A character with the Duo Attack ability, usually
+			indicated by the
+			#duo# attack symbol.</item>
+        <item>EDGE\n
+			One of the outermost boundaries of a map or an area of
+			terrain.</item>
+        <item>EFFECT\n
+			A power, ability, or other rule than can affect a game.
+		</item>
+        <item>ELEVATED\n
+			On a square of elevated terrain.</item>
+        <item>ELEVATED TERRAIN\n
+			Terrain on the map that is located above
+			another level of the map. Squares
+			inside the boundary of a red line
+			are elevated terrain.</item>
+        <item>ELEVATION LEVEL\n
+			The relative height that a square of elevated
+			terrain is located in
+			comparison to other squares on the map.</item>
+        <item>EVADE\n
+			To avoid being hit by an attack that would normally be
+			successful.
+		</item>
+        <item>EVENT DIAL\n
+			A dial used to create a dynamically changing
+			scenario during a game.\n
+			Event Dials with a point cost added to your force build are subject only to the rules
+of the event and the judge’s discretion.
+		</item>
+        <item>FEAT\n
+			Special training or abilities that can be possessed by a
+			qualifying
+			character, represented by a card assigned to the character.
+		</item>
+        <item>FIGURE\n
+			The sculptural representation of a character that is
+			mounted on its
+			base.</item>
+        <item>FIRST PLAYER\n
+			The person who takes the first turn in a game.
+		</item>
+        <item>FLIER\n
+			A character using the Flight ability, usually indicated
+			by the
+			#flight# or #transFlight# speed symbols.</item>
+        <item>FORCE\n
+			The team of characters controlled by a player.</item>
+        <item>FORMAT\n
+			The set of rules that will be in effect during a
+			HeroClix game.</item>
+        <item>FREE ACTION\n
+			An action that doesn’t give an action token to a
+			character and does not
+			affect the action total for this turn.</item>
+        <item>FRIENDLY CHARACTERS\n
+			Characters that you control, and characters
+			controlled by an allied teammate.
+		</item>
+        <item>GAME EFFECT\n
+			See “EFFECT”</item>
+        <item>GENERIC KEYWORDS\n
+			• Animal\n
+			• Armor\n
+			• Brute\n
+			• Celebrity\n
+			• Cosmic\n
+			• Deity\n
+			• Detective\n
+			• Future\n
+			• Herald\n
+			• Kid\n
+			• Martial
+			• Artist\n
+			• Monster\n
+			• Mutant\n
+			• Mystical\n
+			• Past\n
+			• Police\n
+			• Politician\n
+			• Psychic\n
+			• Reporter\n
+			• Robot\n
+			• Ruler\n
+			• Scientist\n
+			• Soldier\n
+			• Spy\n
+			• Teen\n
+			• Vehicle\n
+			• Warrior</item>
+        <item>GIANT\n
+			A character with the Giant Reach ability and Great Size
+			ability,
+			usually indicated by damage symbol.</item>
+        <item>GOLDEN AGE\n
+			Golden Age events have no restrictions on the
+			player’s force other than
+			standard HeroClix rules. Between the event
+			format (see below) and
+			special rules (established in
+			the event
+			description), other rules may be applied to the force
+			construction.
+		</item>
+        <item>GRENADE POOL\n
+			Number of grenades a character starts with.</item>
+        <item>GRENADE TYPE(S)\n
+			The different types of grenades usable. Frag,
+			Ink, Smoke, Thermite,
+			Plasma and Flashbang.</item>
+        <item>GROUNDED\n
+			Characters, objects, and terrain that are not
+			elevated. Also known as elevation
+			level 1.</item>
+        <item>HEALING\n
+			Restoring health that has been reduced by damage by
+			clicking the combat dial
+			of a character in a counterclockwise
+			direction.</item>
+        <item>HEAVY OBJECT\n
+			An object that can be carried or moved and
+			modifies a character’s
+			Damage Value by +2 when used in a close combat
+			attack or deals 3
+			damage when used in a ranged combat attack. Heavy
+			object tokens
+			have a red border.</item>
+        <item>HINDERING TERRAIN\n
+			An area containing trees, furniture, debris,
+			objects, and other
+			similar items that might obstruct a character’s
+			actions. Squares
+			inside the border of a green line are hindering
+			terrain.</item>
+        <item>HIT\n
+			When the result of 2d6 and the attacker’s Attack Value is
+			equal to or
+			greater than the Defense Value of the target and the
+			target does
+			not evade the attack.</item>
+        <item>IGNORES\n
+			Is not affected by or treats the stated property or
+			effect as if it
+			didn’t exist or happen.</item>
+        <item>IMMOBILE OBJECT\n
+			An object that can’t be carried, placed, or
+			moved by any game effect.
+			Immobile object tokens have a blue border.
+		</item>
+        <item>INDOMITABLE\n
+			A character using the Indomitable ability usually
+			indicated by the
+			#indomitable# defense symbol.</item>
+        <item>
+			INDOORS\n
+			Anywhere on a battle map labeled “Indoor” or “Indoors”
+			or
+			inside a yellow
+			boundary line on a map labeled “Indoor/Outdoor.”
+		</item>
+        <item>INTERSECTION\n
+			Squares that meet a given square at that square’s
+			corners are considered
+			diagonal from the given square.</item>
+        <item>KEYWORD\n
+			A special trait of a character. Players create themed
+			teams based
+			on character keywords.</item>
+        <item>KNOCK BACK\n
+			Movement away from an attacker due to the force of
+			its attack.</item>
+        <item>KNOCK BACK DAMAGE\n
+			Damage dealt to a character when its knock
+			back path intersects with a
+			wall, the edge of the map, the boundary
+			of
+			elevated terrain, or
+			the boundary of blocking terrain.</item>
+        <item>KNOCK BACK PATH\n
+			The line of squares a knocked back character
+			passes through if
+			otherwise uninterrupted.</item>
+        <item>KNOCKED OUT\n
+			A character with KO symbols showing on its combat
+			dial; such a
+			character is defeated.</item>
+        <item>KO’D\n
+			Knocked out or defeated.</item>
+        <item>LIGHT OBJECT\n
+			An object that can be carried or moved and
+			modifies a character’s
+			Damage Value by +1 when used in a close combat
+			attack, or deals 2
+			damage when used in a ranged combat attack. Light
+			object tokens
+			have a yellow border.</item>
+        <item>LINE OF FIRE\n
+			The path between a character using a game effect
+			(such as a ranged
+			combat attack) and the target, square, object,
+			terrain, or other
+			game effect.</item>
+        <item>LOST POWER\n
+			When a power is no longer showing on a character’s
+			combat dial after
+			the character takes damage or is healed.</item>
+		<item>LOST ABILITY\nWhen an ability is no longer possessed by a
+			character after a character’s combat symbols, team symbols,
+			or trait symbols have been modified.</item>
+        <item>MAP\n
+			A gridded space representing the area in which a HeroClix
+			game
+			takes place.</item>
+        <item>MODERN AGE\n
+			Modern Age events restrict the player’s force to
+			being made up of only
+			characters and possibly objects. All characters
+			must be from the
+			Modern Age sets. The following HeroClix sets comprise the Modern Age. Any sets
+not included on this list are considered to be Golden Age: Brightest Day, DC 75th
+Anniversary, Giant-Size X-Men, Green Lantern, Green Lantern Corps Fast Forces, WizKids
+2011 Exclusives, Street Fighter, Crimebusters Fast Forces, Captain America, Warriors of
+Asgard Fast Forces, Superman, Battle for Smallville Fast Forces, The Incredible Hulk, Smash
+Fast Forces, Infinity Gauntlet, Galactic Guardians, Annihilators Fast Forces, The Avengers
+Movie, The Avengers Movie Starter, Dark Knight Rises, Giant-Size X-Men Fast Forces, War
+of Light Fast Forces, Chaos War, Chaos War Fast Forces, WizKids 2012 Exclusives, Star Trek
+Tactics: Away Team, Justice League New 52, Justice League New 52 Fast Forces, DC
+HeroClix - 10th Anniversary, Marvel HeroClix - 10th Anniversary, TabApp, Batman, Batman
+Fast Forces, No Man’s Land, Sreets of Gotham, Streets of Gotham Fast Forces and any
+ Marvel, DC or Street Fighter sets released after any Modern Age set.
+			Objects must either be standard
+			objects or special objects from the
+			Modern Age sets.
+			Alternate Team
+			Ability cards are permitted in Modern Age events regardless of
+			the set
+			they were
+			originally printed. Between the event format and special
+			rules, other rules may
+			be applied to the force construction.\n
+			At present the ships of Star Trek: Tactics are NOT part of any HeroClix Ages. Characters from these
+sets are not ships and are considered Golden Age.
+			</item>
+        <item>MODIFIER\n
+			A number that increases or decreases a combat value,
+			damage dealt,
+			or damage taken.</item>
+        <item>MOVE\n
+			What a character does when traveling between 2 squares
+			and
+			each square
+			in between is identified as being traveled through.
+			</item>
+        <item>MOVE ACTION\n
+			An action given to a character that allows it to
+			move up to its
+			speed value in squares and/or make a break away
+			attempt.</item>
+        <item>NAMED POWER\n
+			A power with a character-specific label in capital
+			letters,
+			followed by the name of a standard power in parentheses.
+		</item>
+        <item>NO DAMAGE\n
+			An attack that deals no damage can’t have the damage
+			modified by
+			powers or team abilities.</item>
+        <item>OBJECT TOKENS\n
+			Round pieces of cardboard that represent objects
+			on the map.</item>
+        <item>OPPOSING CHARACTERS\n
+			Characters controlled by an opponent.
+		</item>
+        <item>
+			OUTDOORS\n
+			Anywhere on a battle map labeled “Outdoor” or
+			“Outdoors” or not inside a
+			yellow boundary line on a map labeled
+			“Indoor/Outdoor”.</item>
+        <item>PENETRATING DAMAGE\n
+			Damage dealt that can’t be reduced.</item>
+        <item>PLACE (OR PUT)\n
+			To place (or put) a character or other game
+			element in a position
+			on the map; a character that previously
+			occupied
+			another position
+			on the map is not considered to have moved
+			if it was
+			placed.
+						</item>
+        <item>POSSESS\n
+			To directly have a power, ability, or effect printed
+			on
+			a card or
+			dial—not simply used via another power, ability, or
+			effect.
+		</item>
+        <item>POWER ACTION\n
+			An action given to a character that allows it to
+			use a power,
+			ability, or feat.</item>
+        <item>POWERS\n
+			A character’s special abilities. Powers are represented
+			on a
+			character’s combat dial by colored squares surrounding the
+			character’s combat values and by similarly colored circles on a
+			character’s character card.</item>
+		<item>PRIME\nA character rank represented by a green ring
+			around the outer edge of a character’s base. Only one Prime
+			character can be added to a given force.</item>
+        <item>PUSH\n
+			To give a character a second action token before the
+			first
+			action
+			token is removed.</item>
+        <item>PUSHED\n
+			A character that has been given a second action token.
+		</item>
+        <item>PUSHING DAMAGE\n
+			Damage dealt (typically when a character
+			receives a second action
+			token) that can’t be evaded, reduced,
+			ignored, or transferred
+			unless a game effect specifically says so.
+		</item>
+        <item>RANGE\n
+			The distance (in squares) between a character and a
+			target square,
+			counting from the center of one square to the target
+			square.</item>
+        <item>RANGE VALUE\n
+			The maximum distance (in squares) at which the
+			character can use a
+			ranged combat attack to attack a target.</item>
+        <item>RANGED COMBAT ACTION\n
+			An action given to a character that
+			allows
+			it to make a ranged
+			combat attack.</item>
+        <item>RANGED COMBAT ATTACK\n
+			An attack that requires an unblocked line
+			of fire to a target up to
+			the character’s range value away in
+			squares.
+		</item>
+		<item>RELIC\nA special object that is Immobile and can’t be
+			destroyed. Characters occupying a square containing a relic
+			may be given a power action and then roll a d6 that can’t be
+			rerolled. On a result matching the relic value noted on the
+			object, the relic is placed on the character’s card.</item>
+        <item>REMOVED FROM THE BATTLEFIELD\n
+			A character, object, or other
+			game
+			piece that is removed from the
+			map, but still eligible to return
+			to the
+			game if certain
+			conditions are met.</item>
+        <item>REMOVED FROM THE GAME\n
+			A character, object, or other game piece
+			permanently removed from
+			the current game.</item>
+        <item>REPLACEMENT VALUE\n
+			A value that is substituted for one of a
+			character’s combat
+			values.</item>
+        <item>RESOLVE\n
+			Completing an action and determining its effects,
+			including any of the
+			following\n
+			declaring the action, completing a
+			move, rolling a die or dice, taking any
+			free actions allowed by the
+			declared action, dealing damage,
+			taking damage, assigning action
+			tokens, and applying pushing
+			damage.</item>
+		<item>RESOURCES\nA game effect assigned to your force or a
+			character on your force. The effects of each resource are
+			defined on the resource’s instruction card.</item>
+        <item>RIM\n
+			The squares with the red boundary line running through
+			them
+			along
+			the edge of an area of elevated terrain.</item>
+        <item>ROLL\n
+			Using a die or dice to determine a random result. All
+			dice
+			must be
+			rolled together when more than one die is needed.</item>
+        <item>ROUND\n
+			A measure of time during which all players take a single
+			turn.
+				</item>
+        <item>SCENARIO\n
+			Special rules for a particular HeroClix game, as
+			agreed upon by all
+			players before the game begins.</item>
+        <item>SET SYMBOL\n
+			An icon on a character’s base that marks it as part
+			of a particular
+			HeroClix set.</item>
+        <item>SHARPSHOOTER\n
+			A character using the sharpshooter ability,
+			usually indicated by
+			the #sharpshooter# attack symbol.</item>
+		<item>SHIP\nA ship is another name for a character; some character
+			cards and game effects refer to “ships” without mentioning
+			characters. The terms may be used synonymously. For
+			example, an effect that says to target a ship may target a
+			character, and vice versa.</item>
+        <item>SPECIAL OBJECT\n
+			An object token or 3-D object printed with the
+			#3d# symbol.</item>
+        <item>SPECIAL POWER\n
+			A power whose name and effects are explained on
+			a
+			character’s
+			character card.</item>
+        <item>SPEED VALUE\n
+			The maximum number of squares a character can move
+			in an action.
+				</item>
+        <item>STANDARD CHARACTER\n
+			A character with the standard combat
+			symbols
+			or abilities.</item>
+        <item>STANDARD POWER\n
+			A power or ability whose effects are described
+			on the Powers and
+			Abilities Card.</item>
+        <item>STARTING AREA\n
+			An area inside the boundary of a purple line.
+		</item>
+        <item>STARTING POSITION\n
+			The position on the combat dial that
+			represents a character’s combat
+			values at the beginning of a game.
+			This position is designated by
+			the number 1 on the click, and/or a
+			vertical green line to the
+			left of one set of combat values.</item>
+        <item>STAT SLOT\n
+			The “window” in a character’s base through which the
+			character’s
+			combat dial is visible.</item>
+        <item>SUCCESSFUL ATTACK ROLL\n
+			An attack roll that grants an attack
+			total high enough to equal or
+			exceed the target’s defense value,
+			regardless as to whether or
+			not the target evades the attack.</item>
+        <item>SURVIVING CHARACTER\n
+			A character that has not been defeated
+			when
+			a game ends.</item>
+        <item>SWIMMER\n
+			A character using the Swim ability, usually indicated
+			by the
+			#swim# or #transSwim# speed symbols.</item>
+        <item>TACTICS\n
+			Additional rules and effects that can be employed in a
+			game of HeroClix if
+			allowed by the agreed-upon format of the game.
+		</item>
+        <item>TARGET\n
+			The character or characters against which an attack is
+			being made or
+			a power is being used.</item>
+        <item>TEAM ABILITIES\n
+			Special abilities that a character possesses
+			due
+			to its membership in a
+			group, as indicated by a team symbol
+			printed on
+			the character’s
+			base.</item>
+        <item>TEAM SYMBOL\n
+			A symbol printed on a character’s base that
+			identifies it as a
+			member of a group and possessing the associated
+			team ability. Not
+			all characters have team symbols.</item>
+        <item>TERRAIN\n
+			Map features that represent water, trees, rocks, cars,
+			walls,
+			buildings, and other physical features that might appear on
+			the
+			battlefield.</item>
+        <item>TERRAIN MARKERS\n
+			Square pieces of cardboard used to represent
+			different types of
+			terrain, such as barriers, clouds of smoke,
+			destroyed walls or
+			objects, and special items required by scenarios.
+		</item>
+        <item>THEMED TEAM\n
+			A force composed of characters (other than
+			bystander tokens) that
+			share a single common keyword.</item>
+        <item>THIS CHARACTER\n
+			The phrase “this character” always refers to
+			the
+			active character or
+			the character using a power.</item>
+		<item>TINY\nA character with the Tiny Size ability, usually indicated by
+			#tiny# damage symbol.</item>
+        <item>TRAIT ABILITY\n
+			An aspect or capability of a character that it
+			possesses at all
+			times, regardless of how its combat dial is turned
+			during a game,
+			as indicated by the #trait# on its base and indicated
+			on its
+			character card.</item>
+        <item>TRANSPORTER\n
+			A character using the Carry ability and Move and
+			Attack ability
+			usually indicated by the #transSpeed#, #transFlight#,
+			or the
+			#transSwim# speed symbol.</item>
+		<item>ULTRA-HEAVY OBJECT\nAn object that can only be carried
+			by characters with a point value of 100 points or more. Ultra-
+			Heavy objects modify a character’s damage value by +3 when
+			used in a close combat attack; they may not be used in a
+			ranged combat attack or placed with Telekinesis. Ultra Heavy
+			object tokens have a purple border and are only destroyed if
+			they are dealt 4 or more damage.</item>
+        <item>UNAVOIDABLE DAMAGE\n
+			Damage dealt that can’t be evaded, reduced,
+			modified, ignored, or
+			transferred to a different character.</item>
+        <item>UNIQUE\n
+			A character rank represented by a silver, bronze, or
+			gold ring
+			around the outer edge of a character’s base. Only one copy
+			of a
+			particular Unique character can be added to a given force.
+			</item>
+        <item>UNMODIFIED\n
+			A character’s base combat value, unaffected by any
+			modifiers such
+			as those from powers, terrain, and so on.</item>
+		<item>UNOCCUPIED SQUARE\nA square on the battlefield that does
+			not have a character in it. Terrain effects would not cause a
+			square to be considered occupied.</item>
+        <item>USE\n
+			To employ a power, ability, or effect.</item>
+        <item>VICTORY CONDITIONS\n
+			The rules that outline how a winner is
+			determined at the end of a
+			HeroClix game.</item>
+        <item>WATER TERRAIN\n
+			Squares inside a blue boundary line are water
+			terrain.</item>
+        <item>WILD CARD\n
+			A team ability that allows a character to use any
+			team ability
+			possessed by any friendly character on the map.</item>
+    </string-array>
+
+</resources>

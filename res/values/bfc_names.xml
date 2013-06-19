@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="bfc_names">
+		<item>
+			ALPHA STRIKE</item>
+		<item>
+			ANTIMATTER UNIVERSE</item>
+		<item>
+			ARMOR WARS</item>
+		<item>
+			ASSEMBLED</item>
+		<item>
+			ASTRAL PLANE</item>
+		<item>
+			ATLANTIS RISING</item>
+		<item>
+			BACK ALLEY BRAWL</item>
+		<item>
+			BIZARRO WORLD</item>
+		<item>
+			BLACKEST NIGHT</item>
+		<item>
+			BLOOD CURSE</item>
+		<item>
+			BRIGHT LIGHTS</item>
+		<item>
+			BRIGHTEST DAY</item>
+		<item>
+			COMMUNICATION BREAKDOWN</item>
+		<item>
+			COSMIC RADIATION INTERFERENCE</item>
+		<item>
+			CRITICAL STRIKE</item>
+		<item>
+			CROSSWINDS</item>
+		<item>
+			DAMAGE CONTROL</item>
+		<item>
+			DARKNESS</item>
+		<item>
+			DAY OF DISCORD</item>
+		<item>
+			DEBRIS</item>
+		<item>
+			DEEP SHADOWS</item>
+		<item>
+			DE-FEATED</item>
+		<item>
+			DEFIANCE</item>
+		<item>
+			DISBANDED!</item>
+		<item>
+			DISRUPTION</item>
+		<item>
+			EARTHQUAKE</item>
+		<item>
+			EXHAUSTION</item>
+		<item>
+			EXTRAORDINARY DAY</item>
+		<item>
+			FEARLESS ASSAULT</item>
+		<item>
+			FIMBULWINTER</item>
+		<item>
+			THE GREAT ARENA</item>
+		<item>
+			GROUND ZERO</item>
+		<item>
+			GROUNDED</item>
+		<item>
+			HIGH GRAVITY</item>
+		<item>
+			INERTIAL INTERFERENCE FIELD</item>
+		<item>
+			INFERNO</item>
+		<item>
+			INFILTRATION</item>
+		<item>
+			INTERNAL STRIFE</item>
+		<item>
+			ISOLATION</item>
+		<item>
+			KNOCKOUT GAS</item>
+		<item>
+			KRAKOA THE LIVING
+			ISLAND</item>
+		<item>
+			LEGENDARY DAY</item>
+		<item>
+			LOW GRAVITY</item>
+		<item>
+			LOYALTY</item>
+		<item>
+			MADNESS</item>
+		<item>
+			MALICE</item>
+		<item>
+			MALFUNCTION</item>
+		<item>
+			MISTRUST</item>
+		<item>
+			NOWHERE TO
+			HIDE</item>
+		<item>
+			ORDINARY DAY</item>
+		<item>
+			OVERCONFIDENCE</item>
+		<item>
+			PACIFICATION</item>
+		<item>
+			POOR
+			TEAMWORK</item>
+		<item>
+			POWER DAMPENING
+			FIELD</item>
+		<item>
+			PROTECT THE
+			INNOCENT</item>
+		<item>
+			PROXIMITY
+			MINES</item>
+		<item>
+			RADIATION
+			LEAK</item>
+		<item>
+			RALLY</item>
+		<item>
+			RESISTANCE</item>
+		<item>
+			RUSHED
+			ASSAULT</item>
+		<item>
+			SABOTAGE</item>
+		<item>
+			SHRUNK</item>
+		<item>
+			SKRULL
+			KILL
+			KREW</item>
+		<item>
+			SKYSCRAPERS</item>
+		<item>
+			TELEKINETIC
+			STRAIN</item>
+		<item>
+			WAR
+			ZONE</item>
+		<item>
+			WASTELAND</item>
+		<item>
+			WHITE
+			NOISE</item>
+	</string-array>
+</resources>

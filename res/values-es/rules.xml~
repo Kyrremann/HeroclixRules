@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="speed_abilities_names">
+        <item>FLURRY Ráfaga</item>
+        <item>LEAP/CLIMB  Saltar/Trepar</item>
+        <item>PHASING/TELEPORT Pasar en fase/Teletransportarse</item>
+        <item>EARTHBOUND/NEUTRALIZED  Terrestre/Neutralizado</item>
+        <item>CHARGE  Carga</item>
+        <item>MIND CONTROL Control Mental</item>
+        <item>PLASTICITY  Plasticidad</item>
+        <item>FORCE BLAST Explosión de fuerza</item>
+        <item>SIDESTEP  Quiebro</item>
+        <item>HYPERSONIC SPEED  Velocidad Hipersónica</item>
+        <item>STEALTH  Sigilo</item>
+        <item>RUNNING SHOT  Disparo a la carrera</item>
+    </string-array>
+    <string-array name="speed_abilities">
+        <item>FLURRY Ráfaga\nGive this character a close combat action. After the close combat attack 
+            resolves, it may make a second close combat attack as a free action. 
+            
+            Español: Dale a este personaje una acción de combate cuerpo a cuerpo. 
+            Después de que resuelva el combate de cuerpo a cuerpo, este personaje puede hacer un segundo ataque 
+        de cuerpo a cuerpo como acción gratuita.</item>
+        <item>LEAP/CLIMB Saltar/Trepar \nGive this character a move action and move it up to its speed value; 
+            during this movement, this character adds 2 to its d6 roll when breaking away and can use 
+            #impmov#, #ignet#, #ignht#, #ignobt#, #ignoc#. 
+            When you give this character a close
+    		combat action, it may target a character regardless of the target’s elevation.
+        	 
+             Español: Dale a éste personaje una acción de movimiento y muévelo hasta su valor de movimiento; 
+             durante este movimiento, este personaje añade +2 a su tirada cuando vaya a destrabarse y puede usar 
+             #impmov#, #ignet#, #ignht#, #ignobt#, #ignoc#. 
+             Cuando le das a éste personaje una acción de combate cuerpo a cuerpo, puede hacer objetivo a un personaje 
+             sin importar la elevación del objetivo.</item>
+        <item>PHASING/TELEPORT Pasar en fase/Teletransportarse\nGive this character a move action and move it
+			up
+			to its speed value; this character can use #impmov#, #ignet#, #ignht#, #ignbt#, #ignoc# during this movement.
+    		 
+             Español: Dale a este personaje una acción de movimiento y muévelo hasta su valor de movimiento; éste personaje 
+             puede usar  #impmov#, #ignet#, #ignht#, #ignbt#, #ignoc# </item>
+        <item>EARTHBOUND/NEUTRALIZED   Terrestre/Neutralizado\nThis character possesses #speed#, #attack#, #defense#, #damage# instead
+			of its combat symbols. This power can’t be countered or ignored.
+    	
+             Español: Este personaje posee #speed#, #attack#, #defense#, #damage# en vez de sus símbolos de combate. 
+             Éste poder no puede ser contrarrestado o ignorado.</item>
+        <item>CHARGE Carga\nGive this character a power action; halve its speed
+			value for the action.
+			Move this character up to its speed value and
+			then it may be given a
+			close combat
+			action as a free action. A
+			character using this power ignores knock back.
+    		
+            Español: Dale a este personaje una ación de poder; divide su valor de movimiento a la mitad para la acción. 
+             Mueve a este personaje hasta la mitad de su valor de movimiento y luego puede realizar una acción de 
+             combate cuerpo a cuerpo como acción gratuita. Un personaje usando éste poder ignora la catapulta.</item>
+        <item>MIND CONTROL Control Mental\nGive this character a close or ranged combat action (minimum
+			range value 4) that deals no damage. A successfully hit target becomes friendly to
+			your force. Each target hit may be assigned one action as a free action, immediately
+			after which the target becomes an opposing character again. Deal this character 1
+			unavoidable damage if the successfully hit targets’ combined point value is 150 points
+ 			or more.
+             
+             Español: Dale a este personaje una acción de combate de cuerpo a cuerpo o de distancia (con un valor de rango 
+             mínimo de 4) que no hace daño. Un objetivo impactado con éxito se vuelve aliado de tu equipo. 
+             Cada objetivo impactado se le puede asignar una acción como acción gratuita, inmediatamente depués 
+             el objetivo vuelve a ser personaje enemigo de nuevo. Hazle a este personaje 1 daño inevitable si los objetivos 
+             impactados con éxito tienen un valor de 150 puntos o más combinados.</item>
+        <item>PLASTICITY Plasticidad\nThis character adds 2 to its d6 roll when breaking away. Opposing
+			characters can’t automatically break away from this character and subtract 2 from
+			their d6 roll when breaking away from this character. Opposing characters entering a
+			square adjacent to this character must end their movement, even if they would not
+			have to do so normally.
+    		
+            Español: Este personaje añade +2 a sus tiradas de destrabarse. Personajes enemigos no pueden destrabarse 
+             automáticamente y restan -2 a sus tiradas de destrabarse de este personaje. Los personajes enemigos que entren 
+             en una casilla adyacente a este personaje deben finalizar su movimiento incluso si no tuvieran que hacerlo normalmente. </item>
+        <item>FORCE BLAST Explosión de fuerza\nGive this character a power action and roll a d6; a single adjacent 
+			opposing character is knocked back from this character a number of squares equal to 
+			the result. When this character hits with an attack, you may choose that it generates 
+			knock back if it doesn’t already. 
+            Español: Dale a este personaje una acción de poder y tira 1d6; un único personaje enemigo adyacente será 
+            catapultado de este personaje un número de casillas igual al resultado de la tirada. Cuando este personaje impacta 
+            con un ataque, tú puedes elegir que dicho ataque provoque catapulta si no lo hacía ya.</item>
+        <item>SIDESTEP Quiebro\nGive this character a free action; it can move with a locked speed 
+			value of 2.
+    		
+            Español: Dale a este personaje una acción gratuita; este personaje puede moverse 2 casillas, 
+             este valor es bloqueado.  </item>
+        <item>HYPERSONIC SPEED Velocidad Hipersónica\nGive this character a power action and move it up to 
+			its speed value. It adds 2 to its d6 roll when breaking away and can use 
+ 			#impmov# #doubleo#.
+			During its move, this character may, as a free action, make one close combat or ranged 
+			combat attack with its range value halved for the attack. This character must be in a 
+			square where it could legally end its move in order to make the attack. 
+            
+            Español: Dale a este personaje una acción de poder y muevelo hasta su valor de movimiento. 
+            El personaje añade +2 a la tirada de destrabarse y puede usar #impmov# #doubleo#. Durante este movimiento, 
+            este personaje puede, como acción gratuita, realizar un ataque cuerpo a cuerpo o a distancia con el rango reducido 
+            a la mitad para este ataque. Este personaje debe estar en una casilla dónde pudiera legalmente finalizar su 
+            movimiento con el fin de realizar el ataque.</item>
+        <item>STEALTH Sigilo\nWhen it is not your turn, hindered lines of fire drawn
+			to this character are blocked.
+    		
+            Español: Cuando no es tu turno, las líneas de fuego afectadas por terreno obstaculizado son bloqueadas.   </item>
+        <item>RUNNING SHOT Disparo a la carrera\nGive this character a power action; halve its
+			speed value for
+			the action. Move this character up to its speed value
+			and it may be
+			given a ranged
+			combat action as a free action.
+    		 
+             Español: Dale a este personaje un acción de poder; reduce a la mitad su valor de movimiento para esta acción. 
+             Mueve este personaje hasta su valor de velocidad y podrá recibir una acción de combate a distancia 
+             como acción gratuita tras finalizar su movimiento.</item>
+    </string-array>
+    <string-array name="attack_abilities_names">
+        <item>BLADES/CLAWS/FANGS Cuchillas/Garras/Colmillos</item>
+        <item>ENERGY EXPLOSION Explosión de Energía</item>
+        <item>PULSE WAVE Onda de Pulsos</item>
+        <item>QUAKE Terremoto</item>
+        <item>SUPER STRENGTH Super Fuerza</item>
+        <item>INCAPACITATE Incapacitar</item>
+        <item>PENETRATING/PSYCHIC BLAST Rayo Penetrante/Psíquico</item>
+        <item>SMOKE CLOUD Nube de Humo</item>
+        <item>PRECISION STRIKE Golpe Preciso </item>
+        <item>POISON Veneno</item>
+        <item>STEAL ENERGY Robo de Energía</item>
+        <item>TELEKINESIS Telequinesis</item>
+    </string-array>
+    <string-array name="attack_abilities">
+        <item>BLADES/CLAWS/FANGS Cuchillas/Garras/Colmillos\nWhen this character is given a close combat
+			action, you
+			may roll a d6 after making a successful attack roll. The
+			result replaces
+			this character’s
+			damage value, then that damage value
+			is locked.
+    		
+            Español: Cuando este personaje recibe una acción de combate cuerpo a cuerpo, puedes tirar 1d6 
+             después de realizar una tirada de ataque con éxito. El resultado remplaza el valor de daño de este personaje, 
+             este daño es bloqueado.</item>
+        <item>ENERGY EXPLOSION Explosión de Energía\nWhen this character is given a ranged combat action
+			and deals damage, an area of effect may include all untargeted characters that are
+			adjacent to one or more hit targets. Hit targets are dealt damage normally, other
+			hit characters are dealt 1 damage for each #lightning#
+			printed on this character’s base.
+            
+            Español: Explosión de Energía: Cuando este personaje recibe una acción de combate a distancia y causa daño, 
+            se crea un área de efecto que puede incluir a todos los personajes no declarados como objetivos que estén 
+            adyacentes a uno o más objetivos impactados. Los objetivos impactados reciben el daño con normalidad, 
+            otros personajes impactados reciben 1 daño por cada #lightning# impreso en la peana de este personaje.</item>
+        <item>PULSE WAVE Onda de Pulsos\nGive this character a ranged combat action even if it is adjacent
+			to an opposing character; the area of effect for this attack is half the character’s
+ 			range. Draw lines of fire to all other characters within the area of effect, including
+			at least one opposing character; these lines of fire ignore all game effects except
+			for walls, blocking and elevated terrain. Game effects possessed or used by
+			characters with a line of fire drawn to them are ignored until the action has been
+			resolved. If a line of fire is drawn to more than 1 character, this character’s damage
+ 			value becomes 1 and is locked. Each character hit is dealt damage.
+            
+            Español: Dale a este personaje una acción de combate a distancia incluso si está adyacente a un personaje enemigo; 
+             el área de efecto para este ataque es la mitad del rango del personaje. Dibuja líneas de fuego a todos los personajes 
+             que se encuentren en el área de efecto, incluyendo al menos 1 personaje oponente; estas líneas de fuego ignoran 
+             todos los efectos de juego excepto paredes/muros, terreno bloqueado y elevado. Efectos de juegos poseídos o usados 
+             por personajes dentro de la línea de fuego trazada a ellos son ignorados hasta que se resuelva la acción. 
+             Si la línea de fuego es trazada a más de 1 personaje, el daño pasa a ser 1 y se bloquea. Cada personaje acertado 
+             recibe 1 de daño.</item>
+        <item>QUAKE Terremoto\nGive this character a close combat action; this
+			character’s damage value
+			becomes 2 and is locked. Make a close combat
+			attack that targets all
+			opposing characters
+			this character can attack
+			with a close combat attack. Each character that
+			takes damage
+			from this
+			attack is knocked back.
+    		 
+             Español: Dale a este personaje una acción de combate cuerpo a cuerpo; el daño de este personaje pasa a ser 2 
+             y es bloqueado. Realiza un ataque cuerpo a cuerpo que hace objetivo a todos los personajes enemigos 
+             que este personaje pueda atacar con un ataque cuerpo a cuerpo. Cada personaje que tome daño es catapultado.</item>
+        <item>SUPER STRENGTH Super Fuerza\nWhen this character moves due to its own action, it may 
+			either pick up an object or place an object it is holding. The object must be picked up 
+			from or placed in either a square the character occupies or an adjacent square. If this 
+			power is lost or countered while this character is holding an object, immediately place 
+			the object in the square this character occupies.
+             
+             Español: Cuando un personaje mueve por acción propia, puede coger un objeto o colocarlo si ya llevaba uno. 
+             El objeto debe estar en una casilla que ocupe el personaje o adyacente. Si este poder se pierde o cancelado 
+             mientras lleva el objeto, inmediatamente coloca el objeto en la casilla que ocupa este personaje.            </item>
+        <item>INCAPACITATE Incapacitar\nGive this character a close combat or ranged combat action to 
+			make an attack that deals no damage. If the attack hits, give the target an action token; 
+			if the target already has 2 action tokens, deal the target 1 penetrating damage. 
+            
+            Español: Dale a este personaje una acción de combate cuerpo a cuerpo o a distancia para realizar un ataque que 
+            no causa daño. Si el ataque acierta, dale al objetivo un contador de acción; si el objetivo tenía ya 2 contadores 
+            de acción, el objetivo sufre un daño penetrante.</item>
+        <item>PENETRATING/PSYCHIC BLAST Rayo Penetrante/Psíquico\nGive this character a ranged combat
+			action.
+			Damage from the attack is penetrating damage.
+    		 
+             Español: Dale a este personaje una acción de combate a distancia. El daño de este ataque es penetrante.</item>
+        <item>SMOKE CLOUD Nube de Humo\nGive this character a power action; place up to 6 hindering terrain
+			markers in distinct, adjacent squares that are all within this character’s range (minimum range
+			value 4). At least one of the terrain markers must be within line of fire when it is placed. The
+			terrain markers remain until the beginning of your next turn. Characters that occupy these
+			terrain markers modify their attack value by -1 unless they can use Smoke Cloud or ignore
+			hindering terrain for line of fire purposes.
+    		 
+             Español: Dale a este personaje una acción de poder; coloca hasta 6 marcadores de terreno obstaculizado 
+             en casillas distintas y adyacentes que estén dentro del rango del personaje (rango mínimo 4). Al menos uno 
+             de estos marcadores de terreno deben estar en línea de fuego cuando es colocado. Los marcadores de terreno 
+             modifican los valores de ataque en -1 a menos que los personajes puedan usar Nube de Humo o ignoren el terreno 
+             obstaculizado a efectos de línea de fuego.</item>
+        <item>PRECISION STRIKE Golpe Preciso\nWhen this character makes an attack, it can’t be evaded, and the
+ 			damage dealt can’t be reduced below 1 or transferred.
+     		 
+              Español: Cuando este personaje realice un ataque, este no puede ser evadido, y el daño causado no puede 
+              ser reducido por debajo de 1 o transferido.</item>
+        <item>POISON Veneno\nAt the beginning of your turn, give this character a
+			free action and deal 1
+			damage to each adjacent opposing character.
+    		 
+             Español: Al principio de tu turno, dale a este personaje una acción gratuita para hacer 1 de daño a cada 
+             personaje enemigo adyacente a este personaje.</item>
+        <item>STEAL ENERGY Robo de Energía\nEach time an opposing character takes damage from
+			a close combat
+			attack made by this character, heal this character of 1
+			damage.
+    		 
+             Español: Cada vez que un personaje enemigo tome daño de un ataque cuerpo a cuerpo hecho por este personaje, 
+             cuara a este personaje 1 daño.</item>
+        <item>TELEKINESIS Telequinésis\nGive this character a power action and designate a
+			target
+			character or object (A) and a destination square (B). This
+			character, A, and B
+			must all be within 8 squares and line of fire of
+			each other. Place A
+			in B. If A is a
+			character, it must be a single base
+			character and possess #tiny# or #damage# the symbols.
+			If A is an
+			opposing
+			character, make a close or ranged combat attack that deals no damage
+			against A, and only place the character in B if the target is hit. If
+			A is an object and
+			B is occupied by an opposing character, this
+			character may make a
+			ranged combat
+			attack against B, dealing object
+			damage and destroying the object. A character that has been placed by Telekinesis this turn can’t use Telekinesis this turn.
+    		 
+             Español: Dale a este personaje una acción de poder y elige otra figura u objeto (A) y una casilla de destino (B). 
+             Este personaje, A y B deben estar a 8 casillas y con línea de fuego entre los tres. Coloca A en B. 
+             Si A es una personaje, debe ser de base simple y poseer alguno de los siguintes símbolos: #tiny# o #damage# . 
+             Si A es un perosnaje enemigo, realiza un ataque cuerpo a cuerpo o a distancia que no causa daño contra A, 
+             que solo es colocado en B si el ataque tiene éxito. Si A es un objeto y B está ocupado por una figura enemiga, 
+             el personaje puede hacer un ataque a distancia haciendo objetivo al personaje ocupando B, haciendo daño con 
+             el objeto y destruyéndolo. Un personaje movido con telequinéis no puede usar telequinésis en el mismo turno.</item>
+        <item></item>
+    </string-array>
+    <string-array name="defense_abilities_names">
+        <item>SUPER SENSES Super Sentidos</item>
+        <item>TOUGHNESS Resistencia</item>
+        <item>DEFEND Defender</item>
+        <item>COMBAT REFLEXES Reflejos de Comabte</item>
+        <item>ENERGY SHIELD/DEFLECTION Escudo de Energía/Desviación </item>
+        <item>BARRIER Barrera</item>
+        <item>MASTERMIND Mente Maestra</item>
+        <item>WILLPOWER Fuerza de Voluntad</item>
+        <item>INVINCIBLE Invencíble</item>
+        <item>IMPERVIOUS Impenetrable</item>
+        <item>REGENERATION Regeneración</item>
+        <item>INVULNERABILITY Invulnerabilidad</item>
+    </string-array>
+    <string-array name="defense_abilities">
+        <item>SUPER SENSES Super Sentidos\nWhen this character is hit by an attack, you may
+			roll a d6 before
+			damage is dealt. On a result of 5 or 6, this
+			character evades the attack.
+    		 
+             Español: Cuando este personaje es golpeado, puedes tirar 1d6 antes de recibir daño. En un resultado 
+             de 5 ó 6, este personaje esquiva el ataque.</item>
+        <item>TOUGHNESS Resistencia\nDamage dealt to this character is reduced by 1.
+            
+            Español: El daño hecho a este personaje es reducido en 1.</item>
+        <item>DEFEND Defender\nAny adjacent friendly character may replace its defense
+			value with this
+			character’s unmodified defense value.
+    		 
+             Español: Cualquier personaje aliado adyacente puede remplazar su defensa por el valor de defensa sin 
+             modificar de este personaje.</item>
+        <item>COMBAT REFLEXES Reflejos de Combate\nModify this character’s defense value by +2 against close 
+			combat attacks. This character ignores knock back.
+            
+            Español: Modifica la defensa de este personaje en +2 contra ataques cuerpo a cuerpo. 
+            Este personaje ignora catapulta.</item>
+        <item>ENERGY SHIELD/DEFLECTION Escudo de Energía/Desviación\nModify this character’s defense value
+			by +2
+			against ranged combat attacks.
+    		 
+             Español: Modifica la defensa de este personaje en +2 contra ataques a distancia.</item>
+        <item>BARRIER Barrera\nGive this character a power action; place up to 4 blocking terrain
+			markers in distinct, adjacent squares of clear terrain that are all within this character’s
+ 			range (minimum range value 4). At least one of the terrain markers must be within
+			line of fire when it is placed. The terrain markers remain until the beginning of your
+			next turn.
+            
+            Español: Dale a este personaje una acción de poder; coloca hasta 4 marcadores de terreno bloqueado 
+            en distintas casillas adyacentes y libres que estén dentro del rango del personaje (rango mínimo 4). 
+            Al menos uno de los marcadores debe estar en línea de visión cuando son colocados. 
+            Estos marcadores permanecen hasta el comienzo de tu siguiente turno.</item>
+        <item>MASTERMIND Mente Maestra\nWhen this character would be dealt damage, you may
+			instead
+			choose to have all the damage be dealt to a single adjacent
+			friendly
+			character with
+			a point value less than this character’s. Any
+			additional effects of
+			the damage dealt
+			(knock back, penetrating damage,
+			etc.) are applied to the character taking
+			the damage.
+			Damage dealt by
+			this power is not an attack.
+    		 
+             Español: Cuando este personaje pueda ser dañado, en su lugar puedes elegir pasar todo el daño hecho 
+             a una única figura aliada adyacente con un valor inferior en puntos que este personaje. 
+             Cualquier efecto adicional del daño (catapulta, daño penetrante, ect.) se aplica al personaje que recibe el daño.
+             El daño hecho por este poder no es un ataque.</item>
+        <item>WILLPOWER Fuerza de Voluntad\nThis character may ignore pushing damage.
+            
+            Español: Este personaje puede ignorar el daño por presión.</item>
+        <item>INVINCIBLE Invencible\nHalf of damage dealt to this character is ignored.
+            
+            Español: La mitad de daño que reciba este personaje será ignorado.</item>
+        <item>IMPERVIOUS Impenetrable\nWhen this character is dealt damage, roll a d6. On a
+			result of 5 or 6,
+			the damage dealt is reduced to 0. On a result of
+			1–4, the damage dealt
+			is reduced by
+			2.
+    		 
+             Español: Cuando este personaje reciba daño, tira 1d6. En un resultado de 5 ó 6, el daño recibido es 
+             reducido a 0. En un resultado de 1-4, el daño recibido es reducido en 2.</item>
+        <item>REGENERATION Regeneración\nGive this character a power action. Roll a d6 and
+			subtract 2
+			from the result, minimum result 0. Heal this character of
+			damage equal to
+			the result.
+    		 
+             Español: Dale a este personaje una acción de poder. Tira 1d6 y restale 2 al resultado (resultado mínimo 0). 
+             Cura a este personaje una cantidad de daño igual al resultado.</item>
+        <item>INVULNERABILITY Invulnerable\nDamage dealt to this character is reduced by 2.
+            
+            Español: El daño hecho a este personaje es reducido en 2.</item>
+    </string-array>
+    <string-array name="damage_abilities_names">
+        <item>RANGED COMBAT EXPERT Experto en Combate a Distancia</item>
+        <item>BATTLE FURY Furia de Batalla</item>
+        <item>SUPPORT Apoyo</item>
+        <item>EXPLOIT WEAKNESS Explotar Debilidad</item>
+        <item>ENHANCEMENT Mejora</item>
+        <item>PROBABILITY CONTROL Control de Probabilidad</item>
+        <item>SHAPE CHANGE Cambio de Forma</item>
+        <item>CLOSE COMBAT EXPERT Experto Cuerpo a Cuerpo</item>
+        <item>EMPOWER Potenciar</item>
+        <item>PERPLEX Desconcertar</item>
+        <item>OUTWIT Ingenio Superior/Burlar</item>
+        <item>LEADERSHIP Liderazgo</item>
+    </string-array>
+    <string-array name="damage_abilities">
+        <item>RANGED COMBAT EXPERT Experto en Combate a Distancia\nGive this character a power action. It makes a
+			ranged combat attack against a single target character; before making the attack, you
+			may modify its attack value by +2, its damage value by +2, or both combat values by
+			+1.
+             Español: Dale a este personaje un acción de poder. Haz un ataque a distancia contra un único personaje objetivo; 
+             antes de realizar el ataque, tú puedes modificar el valor de ataque de este personaje en +2, el valor de daño 
+             en +2, o ambos valores de combate en +1.</item>
+        <item>BATTLE FURY Furia de Batalla\nThis character ignores Shape Change, can’t make
+			ranged combat
+			attacks, can’t be targeted by Mind Control or
+			Incapacitate, and can’t be
+			carried.
+    		 Español: Este personaje ignora Cambio de Forma (Shape Change), no puede realizar ataques a distancia, 
+             no puede ser objetivo de Control Mental (Mind Control) ni de Incapacitar (Incapacitate). Tampoco puede 
+             ser transportado/llevado.</item>
+        <item>SUPPORT Apoyo\nGive this character a power action and make an attack
+			roll (that is not
+			an attack) against an adjacent friendly character as
+			though making a
+			close combat
+			attack. When using this power, neither
+			this character nor the target can be
+			adjacent
+			to an opposing character;
+			ignore all combat value modifiers for this
+			action. If the
+			attack roll
+			succeeds, roll a d6 and subtract 2 from the result, minimum
+			result 1.
+			The
+			target is healed of damage equal to the result.
+    		 Español: Dale a este personaje una acción de poder y realiza una tirada de ataque cuerpo a cuerpo 
+             (que no es considerado ataque) contra un personaje amigo adyacente.</item>
+        <item>EXPLOIT WEAKNESS Explotar Debilidad\nGive this character a close combat action.
+			Damage from
+			the attack is penetrating damage.
+    		 Español: Dale a este personaje una acción de comabte cuerpo a cuerpo. El daño causado de este ataque es penetrante.   </item>
+        <item>ENHANCEMENT Mejora\nWhen an adjacent friendly character makes a ranged
+			combat
+			attack, this character modifies the adjacent friendly
+			character’s damage
+			value by +1.
+    		 Español: Cuando un personaje aliado adyacente realice un ataque a distancia, modifica el 
+             daño de dicho aliado en +1.</item>
+        <item>PROBABILITY CONTROL Control de Probabilidad\nOnce during your turn, this character allows you to
+			reroll one of your rolls, ignoring the original roll. A character using this power must be within
+			range (minimum range 6) and line of fire to the character for which the original roll was
+			made. Using the same rules, once per round during an opponent’s turn, this character allows
+ 			you to force that opponent to reroll one of their rolls, ignoring the original roll.
+             Español: Una vez durante tu turno, este personaje permite repetir una de tus tiradas, ignorando la tirada 
+             original. Un personaje usando este poder debe estar en un rango (rango mínimo 6) y línea de fuego con el 
+             personaje para el cuál se hizo la tirada. Usando las mismas reglas, una vez por ronda durante el turno de un 
+             oponente, este personaje permite forzar al oponente repetir una tirada, ignorando la tirada original.</item>
+        <item>SHAPE CHANGE Cambio de Forma\nWhen this character is chosen as the target of an
+			attack, you may
+			roll a d6. On a result of 5 or 6, the attacker can’t
+			target this
+			character with an attack this
+			turn and the attacker may
+			choose another target character instead. The
+			attacker then
+			makes the
+			attack unless there are no targets, in which case the action
+			resolves
+			without an
+			attack.
+    		 Español: Cuando este personaje es elegido como objetivo de un ataque, tu puedes tirar 1d6. En un resultado de 
+             5 ó 6, el atacante no puede hacer objetivo a este personaje con un ataque este turno y además debe elegir otro 
+             personaje como objetivo en su lugar. El atacante entonces realiza dicho ataque a menos que no haya objetivos, 
+             en cuyo caso la acción se resuelve sin ataque.</item>
+        <item>CLOSE COMBAT EXPERT Experto Cuerpo a Cuerpo\nGive this character a power action. It makes a close
+			combat attack against a single opposing target character; before making the attack you may
+			modify its attack value by +2, its damage value by + 2, or both combat values by +1.
+             Español: Dale a este personaje un acción de poder. Haz un ataque a cuerpo a cuerpo contra un único personaje 
+             objetivo; antes de realizar el ataque, tú puedes modificar el valor de ataque de este personaje en +2, el valor 
+             de daño en +2, o ambos valores de combate en +1. </item>
+        <item>EMPOWER Potenciar\nWhen an adjacent friendly character makes a close combat attack, this
+			character modifies that adjacent friendly character’s damage value by +1.
+    		 Español: Cuando un personaje aliado adyacente realice un ataque cuerpo a cuerpo, modifica el valor de 
+             daño de dicho aliado en +1.</item>
+        <item>PERPLEX Desconcertante\nGive this character a free action to modify by +1 or –1 any combat value of
+			 a target character until the beginning of your next turn. A character using this power must
+			be within range (minimum range 6) and line of fire to the target. If a target character is
+			damaged or healed, the effect of Perplex on that character ends immediately.
+             Español: Dale a este personaje una acción gratuita para modificar en +1 ó -1 cualquier valor de combate 
+             de un personaje objetivo hasta el comienzo de tu siguiente turno. Un personaje usando este poder debe estar 
+             en rango (rango mínimo 6) y línea de fuego con su objetivo. Si el personaje objetivo es dañado o curado, el 
+             efecto de este poder finaliza inmediatamente.</item>
+        <item>OUTWIT Ingenio Superior/Burla\nGive this character a free action to counter a power or a combat ability
+			possessed by a single target opposing character until the beginning of your next turn.
+			Any game effects with a duration specified by the countered power or combat ability
+			are removed. A character using this power must be within range (minimum range 6)
+			and line of fire to the target.
+             Español: Dale a este personaje una acción gratuita para contrarrestar un poder o habilidad de combate poseída 
+             por un personaje enemigo objetivo hasta el comienzo de tu siguiente turno. Cualquier efecto de juego con una 
+             duración especificada por el poder o habilidad contrarrestada es removido. Un personaje usando este poder 
+             debe estar en rango (rango mínimo 6) y línea de fuego con su objetivo.</item>
+        <item>LEADERSHIP Liderazgo\nAt the beginning of your turn, give this character a
+			free action and
+			roll a d6. On a result of 5–6, add one action to your
+			action total for
+			that turn and this
+			character may remove an action
+			token from an adjacent friendly character with
+			a
+			lower point value.
+    		 Español: Al comienzo de tu turno, dale a este personaje una acción gratuita y tira 1d6. En un resultado de 
+             5 ó 6, añade una acción a tu total de acciones para este turno y además puedes retirar un contador de acción 
+             de un personaje aliado adyacente de menor valor de puntos.</item>
+    </string-array>
+
+</resources>

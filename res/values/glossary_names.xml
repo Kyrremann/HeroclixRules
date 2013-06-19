@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="glossary_names">
+		<item>3-D OBJECT</item>
+		<item>ABILITY</item>
+		<item>ACTION</item>
+		<item>ACTION TOKEN</item>
+		<item>ACTION TOTAL</item>
+		<item>ACTIVATE</item>
+		<item>ACTIVE PLAYER</item>
+		<item>ADJACENT SQUARES</item>
+		<item>ATTACK</item>
+		<item>ATTACK ROLL</item>
+		<item>ATTACK TOTAL</item>
+		<item>ATTACK VALUE</item>
+		<item>ATTACKER</item>
+		<item>BASE</item>
+		<item>BASED</item>
+		<item>BATTLEFIELD</item>
+		<item>BLOCKING TERRAIN</item>
+		<item>BOUNDARY LINE</item>
+		<item>BREAK AWAY</item>
+		<item>BUILD TOTAL</item>
+		<item>BYSTANDER TOKEN</item>
+		<item>CHARACTER</item>
+		<item>CHARACTER CARD</item>
+		<item>CLEAR TERRAIN</item>
+		<item>CLEARING</item>
+		<item>CLICK</item>
+		<item>CLICK NUMBER</item>
+		<item>CLOSE COMBAT ACTION</item>
+		<item>CLOSE COMBAT ATTACK</item>
+		<item>COLLECTOR’S NUMBER</item>
+		<item>COLOSSAL CHARACTER</item>
+		<item>COMBAT DIAL</item>
+		<item>COMBAT VALUES</item>
+		<item>COPY</item>
+		<item>COUNTER</item>
+		<item>CONTINUAL</item>
+		<item>CRITICAL HIT</item>
+		<item>CRITICAL MISS</item>
+		<item>D6 (OR 2D6)</item>
+		<item>DAMAGE</item>
+		<item>DAMAGE DEALT</item>
+		<item>DAMAGE TAKEN</item>
+		<item>DAMAGE VALUE</item>
+		<item>DEFEATED</item>
+		<item>DEFENSE VALUE</item>
+		<item>DOUBLES</item>
+		<item>DUO CHARACTER</item>
+		<item>EDGE</item>
+		<item>EFFECT</item>
+		<item>ELEVATED</item>
+		<item>ELEVATED TERRAIN</item>
+		<item>ELEVATION LEVEL</item>
+		<item>EVADE</item>
+		<item>EVENT DIAL</item>
+		<item>FEAT</item>
+		<item>FIGURE</item>
+		<item>FIRST PLAYER</item>
+		<item>FLIER</item>
+		<item>FORCE</item>
+		<item>FORMAT</item>
+		<item>FREE ACTION</item>
+		<item>FRIENDLY CHARACTERS</item>
+		<item>GAME EFFECT</item>
+		<item>GENERIC KEYWORDS</item>
+		<item>GIANT</item>
+		<item>GOLDEN AGE</item>
+		<item>GRENADE POOL</item>
+		<item>GRENADE TYPE(S)</item>
+		<item>GROUNDED</item>
+		<item>HEALING</item>
+		<item>HEAVY OBJECT</item>
+		<item>HINDERING TERRAIN</item>
+		<item>HIT</item>
+		<item>IGNORES</item>
+		<item>IMMOBILE OBJECT</item>
+		<item>INDOMITABLE</item>
+		<item>INDOORS</item>
+		<item>INTERSECTION</item>
+		<item>KEYWORD</item>
+		<item>KNOCK BACK</item>
+		<item>KNOCK BACK DAMAGE</item>
+		<item>KNOCK BACK PATH</item>
+		<item>KNOCKED OUT</item>
+		<item>KO’D</item>
+		<item>LIGHT OBJECT</item>
+		<item>LINE OF FIRE</item>
+		<item>LOST ABILITY</item>
+		<item>LOST POWER</item>
+		<item>MAP</item>
+		<item>MODERN AGE</item>
+		<item>MODIFIER</item>
+		<item>MOVE</item>
+		<item>MOVE ACTION</item>
+		<item>NAMED POWER</item>
+		<item>NO DAMAGE</item>
+		<item>OBJECT TOKENS</item>
+		<item>OPPOSING CHARACTERS</item>
+		<item>OUTDOORS</item>
+		<item>PENETRATING DAMAGE</item>
+		<item>PLACE (OR PUT)</item>
+		<item>POSSESS</item>
+		<item>POWER ACTION</item>
+		<item>POWERS</item>
+		<item>PRIME</item>
+		<item>PUSH</item>
+		<item>PUSHED</item>
+		<item>PUSHING DAMAGE</item>
+		<item>RANGE</item>
+		<item>RANGE VALUE</item>
+		<item>RANGED COMBAT ACTION</item>
+		<item>RANGED COMBAT ATTACK</item>
+		<item>RELIC</item>
+		<item>REMOVED FROM THE BATTLEFIELD</item>
+		<item>REMOVED FROM THE GAME</item>
+		<item>REPLACEMENT VALUE</item>
+		<item>RESOLVE</item>
+		<item>RESOURCES</item>
+		<item>RIM</item>
+		<item>ROLL</item>
+		<item>ROUND</item>
+		<item>SCENARIO</item>
+		<item>SET SYMBOL</item>
+		<item>SHARPSHOOTER</item>
+		<item>SHIP</item>
+		<item>SPECIAL OBJECT</item>
+		<item>SPECIAL POWER</item>
+		<item>SPEED VALUE</item>
+		<item>STANDARD CHARACTER</item>
+		<item>STANDARD POWER</item>
+		<item>STARTING AREA</item>
+		<item>STARTING POSITION</item>
+		<item>STAT SLOT</item>
+		<item>SUCCESSFUL ATTACK ROLL</item>
+		<item>SURVIVING CHARACTER</item>
+		<item>SWIMMER</item>
+		<item>TACTICS</item>
+		<item>TARGET</item>
+		<item>TEAM ABILITIES</item>
+		<item>TEAM SYMBOL</item>
+		<item>TERRAIN</item>
+		<item>TERRAIN MARKERS</item>
+		<item>THEMED TEAM</item>
+		<item>THIS CHARACTER</item>
+		<item>TINY</item>
+		<item>TRAIT ABILITY</item>
+		<item>TRANSPORTER</item>
+		<item>ULTRA-HEAVY OBJECT</item>
+		<item>UNAVOIDABLE DAMAGE</item>
+		<item>UNIQUE</item>
+		<item>UNMODIFIED</item>
+		<item>UNOCCUPIED SQUARE</item>
+		<item>USE</item>
+		<item>VICTORY CONDITIONS</item>
+		<item>WATER TERRAIN</item>
+		<item>WILD CARD</item>
+	</string-array>
+</resources>

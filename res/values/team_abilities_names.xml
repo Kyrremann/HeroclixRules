@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="ta_names">
+		<item>2000 AD</item>
+		<item>ARACHNOS</item>
+		<item>ASSASSINS</item>
+		<item>AVENGERS</item>
+		<item>AVENGERS INITIATIVE</item>
+		<item>BATMAN ALLY</item>
+		<item>BATMAN ENEMY</item>
+		<item>BROTHERHOOD OF MUTANTS</item>
+		<item>BUREAU OF PARANORMAL RESEARCH AND DEFENSE</item>
+		<item>CALCULATOR</item>
+		<item>COALITION OF ORDERED GOVERNMENTS (COG)</item>
+		<item>COVENANT EMPIRE</item>
+		<item>CRIME SYNDICATE</item>
+		<item>CROSSGEN</item>
+		<item>CRUSADE</item>
+		<item>DANGER GIRL</item>
+		<item>DEFENDERS</item>
+		<item>DOMINION</item>
+		<item>FANTASTIC FOUR</item>
+		<item>FEDERATION</item>
+		<item>FEDERATION AWAY TEAM</item>
+		<item>FEDERATION SUPPORT TEAM</item>
+		<item>FOUNDERS</item>
+		<item>FREEDOM PHALANX</item>
+		<item>GREEN LANTERN CORPS</item>
+		<item>GUARDIANS OF THE GLOBE</item>
+		<item>HYDRA</item>
+		<item>HYPERTIME</item>
+		<item>INJUSTICE LEAGUE</item>
+		<item>JUSTICE LEAGUE</item>
+		<item>JUSTICE SOCIETY</item>
+		<item>KABUKI</item>
+		<item>KINGDOM COME</item>
+		<item>KLINGON EMPIRE</item>
+		<item>LEGION OF SUPER HEROES</item>
+		<item>LOCUST HORDE</item>
+		<item>MASTERS OF EVIL</item>
+		<item>MINIONS OF DOOM</item>
+		<item>MORLOCKS</item>
+		<item>MYSTICS</item>
+		<item>OUTSIDERS</item>
+		<item>POLICE</item>
+		<item>POWER COSMIC</item>
+		<item>QUINTESSENCE</item>
+		<item>ROMULAN STAR EMPIRE</item>
+		<item>S.H.I.E.L.D.</item>
+		<item>SERPENT SOCIETY</item>
+		<item>SINISTER SYNDICATE</item>
+		<item>SKRULLS</item>
+		<item>SPIDER-MAN</item>
+		<item>STREET FIGHTER</item>
+		<item>SUICIDE SQUAD</item>
+		<item>SUPERMAN ALLY</item>
+		<item>SUPERMAN ENEMY</item>
+        <item>TEMPLARS</item>
+		<item>TITANS</item>
+		<item>TOP COW</item>
+		<item>ULTIMATES</item>
+		<item>ULTIMATE X</item>
+		<item>UNDERWORLD</item>
+		<item>UNITED NATIONS SPACE COMMAND (UNSC)</item>
+		<item>VOX POPULI</item>
+		<item>WATCHMEN</item>
+		<item>X-MEN</item>
+	</string-array>
+</resources>

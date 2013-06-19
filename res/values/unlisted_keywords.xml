@@ -1,0 +1,2386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="unlisted_keywords_1">
+        <item>001 S.H.I.E.L.D. Agent S.H.I.E.L.D., Soldier</item>
+        <item>002 S.H.I.E.L.D. Agent S.H.I.E.L.D., Soldier, Spy</item>
+        <item>003 S.H.I.E.L.D. Agent S.H.I.E.L.D.</item>
+        <item>004 S.H.I.E.L.D. Medic S.H.I.E.L.D., Spy</item>
+        <item>005 S.H.I.E.L.D. Medic S.H.I.E.L.D., Soldier, Spy</item>
+        <item>006 S.H.I.E.L.D. Medic S.H.I.E.L.D.</item>
+        <item>007 HYDRA Operative HYDRA, Spy</item>
+        <item>008 HYDRA Operative HYDRA, Soldier</item>
+        <item>009 HYDRA Operative HYDRA</item>
+        <item>010 HYDRA Medic HYDRA, Soldier</item>
+        <item>011 HYDRA Medic HYDRA, Scientist</item>
+        <item>012 HYDRA Medic HYDRA</item>
+        <item>013 Thug Brute</item>
+        <item>014 Thug Brute</item>
+        <item>015 Thug Brute, Maggia</item>
+        <item>016 Henchman Maggia</item>
+        <item>017 Henchman Maggia</item>
+        <item>018 Henchman Maggia</item>
+        <item>019 Skrull Agent Skrulls, Spy</item>
+        <item>020 Skrull Agent Skrulls, Spy</item>
+        <item>021 Skrull Agent Skrulls, Spy</item>
+        <item>022 Skrull Warrior Skrulls, Warrior</item>
+        <item>023 Skrull Warrior Skrulls, Warrior</item>
+        <item>024 Skrull Warrior Skrulls, Warrior</item>
+        <item>025 Blade Martial Artist, Warrior</item>
+        <item>026 Blade Detective, Midnight Sons</item>
+        <item>027 Blade Midnight Sons, Warrior</item>
+        <item>028 Wolfsbane New Mutants, Teen</item>
+        <item>029 Wolfsbane Animal, X-Factor</item>
+        <item>030 Wolfsbane Excalibur</item>
+        <item>031 Elektra Martial Artist, Warrior</item>
+        <item>032 Elektra Martial Artist, Warrior</item>
+        <item>033 Elektra Martial Artist, S.H.I.E.L.D.</item>
+        <item>034 Wasp Celebrity</item>
+        <item>035 Wasp Avengers, Celebrity</item>
+        <item>036 Wasp Avengers, Celebrity, Mighty Avengers</item>
+        <item>037 Constrictor S.H.I.E.L.D., Spy, Masters of Evil</item>
+        <item>038 Constrictor Masters of Evil, Sinister Syndicate</item>
+        <item>039 Constrictor Sinister Syndicate, Six Pack</item>
+        <item>040 Boomerang No Keywords</item>
+        <item>041 Boomerang Sinister Syndicate</item>
+        <item>042 Boomerang Masters of Evil, Sinister Syndicate</item>
+        <item>043 Kingpin Martial Artist</item>
+        <item>044 Kingpin Celebrity, Martial Artist, Ruler</item>
+        <item>045 Kingpin Martial Artist, Ruler</item>
+        <item>046 Vulture No Keywords</item>
+        <item>047 Vulture Sinister Syndicate</item>
+        <item>048 Vulture Sinister Syndicate</item>
+        <item>049 Jean Grey Psychic, X-Men</item>
+        <item>050 Jean Grey Psychic, Twelve, X-Men</item>
+        <item>051 Jean Grey Psychic, X-Factor, X-Men</item>
+        <item>052 Hobgoblin Martial Artist</item>
+        <item>053 Hobgoblin Martial Artist, Sinister Syndicate</item>
+        <item>054 Hobgoblin Martial Artist, Sinister Syndicate, Mystical</item>
+        <item>055 Sabretooth Marauders, Team X, Weapon X</item>
+        <item>056 Sabretooth Brotherhood of Mutants, Brute, Martial Artist</item>
+        <item>057 Sabretooth Brotherhood of Mutants, Martial Artist, Weapon X</item>
+        <item>058 Hulk Avengers, Brute</item>
+        <item>059 Hulk Defenders</item>
+        <item>060 Hulk Brute, Horsemen of Apocalypse, Scientist</item>
+        <item>061 Puppet Master Scientist</item>
+        <item>062 Puppet Master Psychic, Scientist</item>
+        <item>063 Puppet Master Psychic</item>
+        <item>064 Annihilus Animal, Armor, Warrior</item>
+        <item>065 Annihilus Armor, Ruler, Warrior</item>
+        <item>066 Annihilus Armor, Cosmic, Ruler</item>
+        <item>067 Captain America Avengers, Invaders, Soldier</item>
+        <item>068 Captain America Avengers, Martial Artist, S.H.I.E.L.D.</item>
+        <item>069 Captain America Avengers, Martial Artist, S.H.I.E.L.D.</item>
+        <item>070 Spider-Man Reporter, Teen</item>
+        <item>071 Spider-Man Fantastic Four, Reporter</item>
+        <item>072 Spider-Man Reporter</item>
+        <item>073 Wolverine Martial Artist, Soldier, Team X</item>
+        <item>074 Wolverine Alpha Flight, Martial Artist, Weapon X, X-Men</item>
+        <item>075 Wolverine Avengers, Martial Artist, X-Men</item>
+        <item>076 Professor Xavier Psychic, X-Men</item>
+        <item>077 Professor Xavier Psychic, Starjammers, X-Men</item>
+        <item>078 Professor Xavier Psychic, X-Men</item>
+        <item>079 Juggernaut Mystical, Brute</item>
+        <item>080 Juggernaut Brute, X-Men</item>
+        <item>081 Juggernaut Brute, Excalibur</item>
+        <item>082 Cyclops X-Factor, X-Men</item>
+        <item>083 Cyclops X-Factor, X-Men</item>
+        <item>084 Cyclops Twelve, X-Men</item>
+        <item>085 Black Panther Avengers, Martial Artist, Ruler</item>
+        <item>086 Black Panther Martial Artist, Ruler, Scientist</item>
+        <item>087 Black Panther Fantastic Four, Martial Artist, Ruler</item>
+        <item>088 Blizzard Scientist</item>
+        <item>089 Blizzard Masters of Evil, Thunderbolts</item>
+        <item>090 Blizzard Thunderbolts</item>
+        <item>091 Pyro Brotherhood of Mutants, Freedom Force, Reporter</item>
+        <item>092 Pyro Brotherhood of Mutants</item>
+        <item>093 Pyro Brotherhood of Mutants</item>
+        <item>094 Whirlwind Lethal Legion, Masters of Evil</item>
+        <item>095 Whirlwind Masters of Evil</item>
+        <item>096 Whirlwind Masters of Evil</item>
+        <item>097 Daredevil Martial Artist, Marvel Knights</item>
+        <item>098 Daredevil Martial Artist, Marvel Knights</item>
+        <item>099 Daredevil Martial Artist</item>
+        <item>100 Bullseye Martial Artist</item>
+        <item>101 Bullseye Martial Artist</item>
+        <item>102 Bullseye Martial Artist, Thunderbolts</item>
+        <item>103 Scarlet Witch Avengers, Brotherhood of Mutants</item>
+        <item>104 Scarlet Witch Avengers, Force Works, West Coast Avengers</item>
+        <item>105 Scarlet Witch Avengers, Mystical</item>
+        <item>106 Quicksilver Avengers, Brotherhood of Mutants</item>
+        <item>107 Quicksilver Avengers, Inhumans, X-Factor</item>
+        <item>108 Quicksilver Knights of Wundagore, X-Factor</item>
+        <item>109 Mr. Hyde Brute, Scientist</item>
+        <item>110 Mr. Hyde Brute, Scientist</item>
+        <item>111 Mr. Hyde Brute, Masters of Evil</item>
+        <item>112 Klaw Masters of Evil, Scientist</item>
+        <item>113 Klaw Frightful Four, Scientist</item>
+        <item>114 Klaw Frightful Four, Masters of Evil</item>
+        <item>115 Controller Armor, Scientist</item>
+        <item>116 Controller Armor, Psychic</item>
+        <item>117 Controller Armor, Psychic</item>
+        <item>118 Hercules Avengers, Champions, Deity</item>
+        <item>119 Hercules Deity, Champions, Heroes for Hire</item>
+        <item>120 Hercules Avengers, Deity</item>
+        <item>121 Rogue Brotherhood of Mutants, X-Men</item>
+        <item>122 Rogue X-Men</item>
+        <item>123 Rogue X-Men</item>
+        <item>124 Dr. Strange Defenders, Illuminati, Mystical</item>
+        <item>125 Dr. Strange Defenders, Illuminati, Mystical, Nightstalkers</item>
+        <item>126 Dr. Strange Illuminati, Midnight Sons, Mystical</item>
+        <item>127 Magneto Brotherhood of Mutants</item>
+        <item>128 Magneto X-Men</item>
+        <item>129 Magneto Acolytes, Ruler</item>
+        <item>130 Kang Future, Soldier, Warrior</item>
+        <item>131 Kang Future, Ruler, Soldier, Warrior</item>
+        <item>132 Kang Future, Ruler, Soldier</item>
+        <item>133 Ultron Robot, Lethal Legion, Masters of Evil</item>
+        <item>134 Ultron Robot, Masters of Evil</item>
+        <item>135 Ultron Robot, Ruler</item>
+        <item>136 Firelord Cosmic, Herald, Nova Corps</item>
+        <item>137 Firelord Cosmic, Herald</item>
+        <item>138 Firelord Cosmic, Herald, Warrior</item>
+        <item>139 Vision Avengers, Robot, West Coast Avengers</item>
+        <item>140 Quasar Avengers, Cosmic, S.H.I.E.L.D.</item>
+        <item>141 Thanos Cosmic, Eternal, Infinity Watch, Ruler, Warrior</item>
+        <item>142 Nightmare Mystical, Psychic, Ruler</item>
+        <item>143 Wasp Avengers, Celebrity, West Coast Avengers</item>
+        <item>144 Elektra HYDRA, Martial Artist, S.H.I.E.L.D., The Hand, Warrior</item>
+        <item>145 Professor Xavier Psychic, Twelve, X-Men</item>
+        <item>146 Juggernaut Brute, Excalibur, Exemplars, Exiles, Mystical, XMen</item>
+        <item>147 Cyclops Martial Artist, Twelve, X-Men</item>
+        <item>148 Captain America All-Winners Squad, Avengers, Martial Artist,
+			Invaders, Past, S.H.I.E.L.D., Soldier</item>
+        <item>149 Wolverine Martial Artist, Horsemen of Apocalypse, Soldier, Weapon X, Warrior</item>
+        <item>150 Spider-Man Celebrity, Martial Artist, Marvel Knights, Reporter, Scientist</item>
+        <item>151 Gabriel Jones S.H.I.E.L.D., Soldier, Spy</item>
+        <item>152 Tia Senyaka Detective, S.H.I.E.L.D.</item>
+        <item>153 Operative #128 HYDRA, Spy</item>
+        <item>154 Medic #519 HYDRA</item>
+        <item>155 Knuckles Brute</item>
+        <item>156 Joey the Snake No Keywords</item>
+        <item>157 Nenora Kree, Ruler, Skrulls</item>
+        <item>158 Raksor Skrulls, Warrior</item>
+        <item>159 Blade Martial Artist, Marvel Knights, Midnight Sons, Nightstalkers</item>
+        <item>160 Rahne Sinclair Animal, X-Men</item>
+        <item>161 Frank Schlichting Frightful Four, Masters of Evil, S.H.I.E.L.D., Sinister Syndicate</item>
+        <item>162 Fred Myers Masters of Evil, Warrior</item>
+        <item>163 Wilson Fisk HYDRA, Martial Artist, Ruler</item>
+        <item>164 Adrian Toomes Sinister Syndicate</item>
+        <item>165 Jean Grey Psychic, X-Men</item>
+        <item>166 Ned Leeds Reporter</item>
+        <item>167 Victor Creed Brotherhood of Mutants, Brute, Team X, Weapon X</item>
+        <item>168 Bruce Banner Brute, Celebrity, Scientist</item>
+        <item>169 Philip Masters Mystical, Psychic, Scientist</item>
+        <item>170 Annihilus Armor, Cosmic, Ruler</item>
+        <item>171 Wolverine Brute, Warrior, X-Men</item>
+        <item>172 Yellowjacket Brute, Scientist</item>
+        <item>173 Ant-Man Avengers, Scientist</item>
+        <item>199 Hulk Brute, Monster</item>
+        <item>999 Spider-Man No Keywords</item>
+        <item>S01 Sentinel Future, Robot</item>
+        <item>001 Gotham Policeman Gotham City, Police</item>
+        <item>002 Gotham Policeman Gotham City, Police</item>
+        <item>003 Gotham Policeman Gotham City, Police</item>
+        <item>004 Metropolis SCU Metropolis, Police</item>
+        <item>005 Metropolis SCU Metropolis, Police, Soldier</item>
+        <item>006 Metropolis SCU Armor, Metropolis, Police</item>
+        <item>007 Checkmate Agent Checkmate, Spy</item>
+        <item>008 Checkmate Agent Checkmate, Spy</item>
+        <item>009 Checkmate Agent Checkmate, Task Force X</item>
+        <item>010 Checkmate Medic Checkmate</item>
+        <item>011 Checkmate Medic Checkmate, Spy</item>
+        <item>012 Checkmate Medic Checkmate, Task Force X</item>
+        <item>013 Intergang Agent Intergang, Soldier</item>
+        <item>014 Intergang Agent Intergang, Metropolis</item>
+        <item>015 Intergang Agent Apokolips, Intergang, Soldier</item>
+        <item>016 Intergang Medic Intergang</item>
+        <item>017 Intergang Medic Intergang, Metropolis</item>
+        <item>018 Intergang Medic Apokolips, Intergang</item>
+        <item>019 Lackey Metropolis</item>
+        <item>020 Lackey Intergang</item>
+        <item>021 Lackey Metropolis</item>
+        <item>022 Criminal Gotham City, Metropolis</item>
+        <item>023 Criminal Gotham City</item>
+        <item>024 Criminal Gotham City</item>
+        <item>025 Huntress Gotham City, Martial Artist</item>
+        <item>026 Huntress Birds of Prey, Gotham City, Martial Artist</item>
+        <item>027 Huntress Birds of Prey, JLA, Justice League International, Martial
+			Artist</item>
+        <item>028 Robin Gotham City, Kid</item>
+        <item>029 Robin Gotham City, Teen</item>
+        <item>030 Robin Gotham City, Martial Artist, Teen</item>
+        <item>031 Hawkman Justice League of America, Past</item>
+        <item>032 Hawkman Police, Justice League of America</item>
+        <item>033 Hawkman Justice Society, Justice League of America</item>
+        <item>034 Harley Quinn Gotham City</item>
+        <item>035 Harley Quinn Gotham City</item>
+        <item>036 Harley Quinn Gotham City</item>
+        <item>037 Catwoman Gotham City</item>
+        <item>038 Catwoman Gotham City</item>
+        <item>039 Catwoman Gotham City</item>
+        <item>040 Man-Bat Animal, Gotham City</item>
+        <item>041 Man-Bat Animal, Gotham City</item>
+        <item>042 Man-Bat Animal, Gotham City, Monster</item>
+        <item>043 Riddler Gotham City</item>
+        <item>044 Riddler Gotham City</item>
+        <item>045 Riddler Gotham City</item>
+        <item>046 Mad Hatter Gotham City</item>
+        <item>047 Mad Hatter Gotham City</item>
+        <item>048 Mad Hatter Gotham City</item>
+        <item>049 T.O. Morrow Scientist</item>
+        <item>050 T.O. Morrow Scientist</item>
+        <item>051 T.O. Morrow Scientist</item>
+        <item>052 Aquaman Atlantis</item>
+        <item>053 Aquaman Atlantis, Justice League of America, Ruler</item>
+        <item>054 Aquaman Atlantis, Justice League of America, Ruler</item>
+        <item>055 Blue Beetle Martial Artist, Scientist</item>
+        <item>056 Blue Beetle Justice League International, L.A.W., Martial Artist</item>
+        <item>057 Blue Beetle Extreme Justice, Super Buddies, Martial Artist</item>
+        <item>058 Booster Gold Future, Metropolis</item>
+        <item>059 Booster Gold Future, Justice League International</item>
+        <item>060 Booster Gold Extreme Justice, Justice League International, Super
+			Buddies</item>
+        <item>061 Nightwing Gotham City, Martial Artist, Teen, Teen Titans</item>
+        <item>062 Nightwing Bludhaven, Martial Artist, Police</item>
+        <item>063 Nightwing Bludhaven, Gotham City, Martial Artist, Police</item>
+        <item>064 Changeling Animal, Celebrity, Doom Patrol, Teen</item>
+        <item>065 Changeling Animal, Teen, Teen Titans</item>
+        <item>066 Changeling Animal, Teen Titans</item>
+        <item>067 Steel Armor, Metropolis</item>
+        <item>068 Steel Armor, JLA, Metropolis</item>
+        <item>069 Steel Armor, Metropolis</item>
+        <item>070 Gorilla Grodd Animal, Psychic, Ruler</item>
+        <item>071 Gorilla Grodd Animal, Injustice League, Psychic</item>
+        <item>072 Gorilla Grodd Animal, Injustice League, Ruler</item>
+        <item>073 Solomon Grundy Brute, Gotham City</item>
+        <item>074 Solomon Grundy Brute, Injustice League</item>
+        <item>075 Solomon Grundy Brute, Opal City</item>
+        <item>076 Black Manta Legion of Doom</item>
+        <item>077 Black Manta Injustice League</item>
+        <item>078 Black Manta Injustice League, Legion of Doom</item>
+        <item>079 Weather Wizard Rogues</item>
+        <item>080 Weather Wizard Injustice League, Rogues</item>
+        <item>081 Weather Wizard Rogues</item>
+        <item>082 Clayface III Gotham City, Mud Pack</item>
+        <item>083 Clayface III Brute, Gotham City</item>
+        <item>084 Clayface III Brute, Gotham City</item>
+        <item>085 Hawk Teen</item>
+        <item>086 Hawk Brute, Teen Titans</item>
+        <item>087 Hawk Brute, Mystical, Teen Titans</item>
+        <item>088 Dove Mystical</item>
+        <item>089 Dove Mystical</item>
+        <item>090 Dove Mystical, Teen Titans</item>
+        <item>091 Bane No Keywords</item>
+        <item>092 Bane Brute, Gotham City</item>
+        <item>093 Bane Brute, Gotham City</item>
+        <item>094 Doomsday Monster</item>
+        <item>095 Doomsday Brute</item>
+        <item>096 Doomsday Brute, Monster, Metropolis</item>
+        <item>097 Joker Gotham City</item>
+        <item>098 Joker Gotham City, Injustice League</item>
+        <item>099 Joker Gotham City, Monster</item>
+        <item>100 Plastic Man Detective, Freedom Fighters</item>
+        <item>101 Plastic Man Detective, JLA</item>
+        <item>102 Plastic Man JLA</item>
+        <item>103 Flash Central City, Justice League Europe</item>
+        <item>104 Flash JLA, Teen Titans</item>
+        <item>105 Flash Central City, JLA</item>
+        <item>106 Batman Detective, Gotham City</item>
+        <item>107 Batman Gotham City, Martial Artist</item>
+        <item>108 Batman Detective, JLA, Martial Artist</item>
+        <item>109 Superman Metropolis, Reporter</item>
+        <item>110 Superman Metropolis</item>
+        <item>111 Superman JLA, Metropolis</item>
+        <item>112 Arcane Mystical, Scientist</item>
+        <item>113 Arcane Mystical, Scientist</item>
+        <item>114 Arcane Mystical, Scientist</item>
+        <item>115 Swamp Thing Scientist, Monster, Mystical</item>
+        <item>116 Swamp Thing Monster, Mystical</item>
+        <item>117 Swamp Thing Monster, Mystical</item>
+        <item>118 Brainiac 13 Future, Metropolis, Robot</item>
+        <item>119 Brainiac 13 Metropolis, Robot</item>
+        <item>120 Brainiac 13 Injustice League, Robot</item>
+        <item>121 Parasite Brute, Metropolis</item>
+        <item>122 Desaad Apokolips, New Gods, Scientist</item>
+        <item>123 Darkseid Apokolips, Cosmic, New Gods, Ruler</item>
+        <item>124 Commissioner Gordon Detective, Gotham City, Police</item>
+        <item>125 The Key Intergang, Scientist</item>
+        <item>126 Joker Celebrity, Gotham City</item>
+        <item>127 Catwoman Birds of Prey, Detective, Martial Artist</item>
+        <item>128 Flash Central City, Justice Society, Past</item>
+        <item>129 Batman Brute, Future, Gotham City, Warrior</item>
+        <item>130 Superman Metropolis</item>
+        <item>131 Carter Hall Mystical, Justice Society</item>
+        <item>132 Dr. Harleen Quinzel Gotham City, Scientist</item>
+        <item>133 Selina Kyle Gotham City, Martial Artist</item>
+        <item>134 Kirk Langstrom Gotham City, Monster, Scientist</item>
+        <item>135 Eddie Nashton Gotham City</item>
+        <item>136 Jervis Tetch Gotham City</item>
+        <item>137 Thomas Oscar Morrow Future, Scientist</item>
+        <item>138 Arthur Curry Atlantis, Justice League of America, Ruler</item>
+        <item>139 Ted Kord Birds of Prey, Justice League International,
+			Martial Artist, Scientist, Super Buddies</item>
+        <item>140 Michael Jon Carter Extreme Justice, Future, Metropolis,
+			Justice League International, Super Buddies</item>
+        <item>141 Superman Justice League of America, JLA, Metropolis, Reporter</item>
+        <item>999 Batman No Keywords</item>
+        <item>D01 Sinestro Green Lantern Corps, Sinestro Corps</item>
+        <item>001 S.H.I.E.L.D. Trooper S.H.I.E.L.D., Soldier</item>
+        <item>002 S.H.I.E.L.D. Trooper S.H.I.E.L.D., Soldier</item>
+        <item>003 S.H.I.E.L.D. Trooper S.H.I.E.L.D.</item>
+        <item>004 S.H.I.E.L.D. Sniper S.H.I.E.L.D., Spy</item>
+        <item>005 S.H.I.E.L.D. Sniper S.H.I.E.L.D.</item>
+        <item>006 S.H.I.E.L.D. Sniper S.H.I.E.L.D., Spy</item>
+        <item>007 Mandroid Armor Armor, Police, S.H.I.E.L.D.</item>
+        <item>008 Mandroid Armor Armor, S.H.I.E.L.D.</item>
+        <item>009 Mandroid Armor Armor, S.H.I.E.L.D.</item>
+        <item>010 A.I.M. Agent A.I.M., Scientist</item>
+        <item>011 A.I.M. Agent A.I.M., Scientist</item>
+        <item>012 A.I.M. Agent A.I.M., Scientist</item>
+        <item>013 A.I.M. Medic A.I.M., Scientist</item>
+        <item>014 A.I.M. Medic A.I.M., Scientist</item>
+        <item>015 A.I.M. Medic A.I.M., Scientist</item>
+        <item>016 Skrull Commando Skrulls, Soldier</item>
+        <item>017 Skrull Commando Skrulls, Soldier</item>
+        <item>018 Skrull Commando Skrulls, Soldier</item>
+        <item>019 Vampire Lackey Brute, Mystical</item>
+        <item>020 Vampire Lackey Brute, Mystical</item>
+        <item>021 Vampire Lackey Mystical</item>
+        <item>022 Black Cat No Keywords</item>
+        <item>023 Black Cat Heroes for Hire, Marvel Knights</item>
+        <item>024 Black Cat Animal, Mystical</item>
+        <item>025 Yellowjacket Femizons, Masters of Evil</item>
+        <item>026 Yellowjacket Avengers, Femizons, Masters of Evil</item>
+        <item>027 Yellowjacket Future, Guardians of the Galaxy</item>
+        <item>028 Doombot Armor, Robot</item>
+        <item>029 Doombot Armor, Robot</item>
+        <item>030 Doombot Armor, Robot, Ruler</item>
+        <item>031 Avalanche Brotherhood of Mutants</item>
+        <item>032 Avalanche Brotherhood of Mutants, Freedom Force</item>
+        <item>033 Avalanche Brotherhood of Mutants, X-Corps</item>
+        <item>034 Blob Brotherhood of Mutants, Brute</item>
+        <item>035 Blob Brotherhood of Mutants, Freedom Force</item>
+        <item>036 Blob Brotherhood of Mutants, Brute, X-Corps</item>
+        <item>037 Toad Brotherhood of Mutants</item>
+        <item>038 Toad Brotherhood of Mutants</item>
+        <item>039 Toad Animal, Brotherhood of Mutants</item>
+        <item>040 Elektra Martial Artist, The Hand</item>
+        <item>041 Elektra Martial Artist, The Hand, Warrior</item>
+        <item>042 Elektra Martial Artist, The Hand, Warrior</item>
+        <item>043 Invisible Girl Fantastic Four</item>
+        <item>044 Invisible Girl Avengers, Fantastic Four</item>
+        <item>045 Invisible Woman Celebrity, Fantastic Four</item>
+        <item>046 Thing Brute, Fantastic Four</item>
+        <item>047 Thing Fantastic Four</item>
+        <item>048 Thing Celebrity, Fantastic Four</item>
+        <item>049 Human Torch Fantastic Four, Teen</item>
+        <item>050 Human Torch Celebrity, Fantastic Four</item>
+        <item>051 Human Torch Fantastic Four</item>
+        <item>052 Hawkeye Avengers</item>
+        <item>053 Hawkeye Avengers, West Coast Avengers</item>
+        <item>054 Hawkeye Avengers, Thunderbolts</item>
+        <item>055 Black Widow Martial Artist, Spy</item>
+        <item>056 Black Widow Avengers, Champions, Martial Artist, S.H.I.E.L.D.</item>
+        <item>057 Black Widow Champions, Martial Artist, Marvel Knights</item>
+        <item>058 Blastaar Cosmic, Warrior</item>
+        <item>059 Blastaar Cosmic, Warrior</item>
+        <item>060 Blastaar Ruler, Warrior</item>
+        <item>061 Thor Avengers, Asgardian, Deity</item>
+        <item>062 Thor Asgardian, Avengers, Deity, Thor Corps</item>
+        <item>063 Thor Asgardian, Avengers, Deity, Ruler</item>
+        <item>064 Sandman Frightful Four, Sinister Syndicate</item>
+        <item>065 Sandman Frightful Four, Sinister Syndicate</item>
+        <item>066 Sandman Avengers, Sinister Syndicate, Wild Pack</item>
+        <item>067 Logan Brute, Soldier, Warrior</item>
+        <item>068 Logan Madripoor, Martial Artist, Warrior</item>
+        <item>069 Logan Fantastic Four, Martial Artist, Warrior</item>
+        <item>070 Mr. Fantastic Fantastic Four, Scientist</item>
+        <item>071 Mr. Fantastic Celebrity, Fantastic Four, Scientist</item>
+        <item>072 Mr. Fantastic Fantastic Four, Scientist, Ruler</item>
+        <item>073 Dr. Doom Armor, Mystical, Ruler, Scientist</item>
+        <item>074 Dr. Doom Armor, Mystical, Ruler, Scientist</item>
+        <item>075 Dr. Doom Armor, Mystical, Politician, Ruler, Scientist</item>
+        <item>076 Doctor Octopus Scientist, Sinister Syndicate</item>
+        <item>077 Doctor Octopus Masters of Evil, Scientist, Sinister Syndicate</item>
+        <item>078 Doctor Octopus Scientist</item>
+        <item>079 White Queen Hellfire Club, Psychic</item>
+        <item>080 White Queen Hellfire Club, Hellions, Psychic</item>
+        <item>081 White Queen Generation X, Hellfire Club, Psychic</item>
+        <item>082 She-Hulk Brute</item>
+        <item>083 She-Hulk Fantastic Four</item>
+        <item>084 She-Hulk Avengers</item>
+        <item>085 Nightcrawler Martial Artist, X-Men</item>
+        <item>086 Nick Fury Politician, Soldier, Spy</item>
+        <item>087 Moondragon Cosmic, Infinity Watch, Martial Artist, Psychic</item>
+        <item>088 Spiderman Monster</item>
+        <item>089 Mojo Celebrity, Monster, Ruler</item>
+        <item>090 Super Skrull Skrulls, Soldier, Spy</item>
+        <item>091 Red Skull HYDRA, Politician, Soldier</item>
+        <item>092 Spiral Brotherhood of Mutants, Mystical, Future, Robot</item>
+        <item>093 Titania Brute, Femizons, Frightful Four, Masters of Evil</item>
+        <item>094 Mr. Fixit Brute</item>
+        <item>095 Medusa Fantastic Four, Frightful Four, Inhumans, Ruler</item>
+        <item>096 Enchantress Asgardian, Masters of Evil, Mystical</item>
+        <item>101 Clay Quartermain S.H.I.E.L.D., Spy</item>
+        <item>102 Laura Brown HYDRA, S.H.I.E.L.D., Spy</item>
+        <item>103 Agent Beaulieu Armor, S.H.I.E.L.D., Soldier</item>
+        <item>104 George Tarleton A.I.M., Scientist</item>
+        <item>105 Scientist Supreme A.I.M., Scientist</item>
+        <item>106 Paibok Skrulls, Spy, Warrior</item>
+        <item>107 Rachel Van Helsing Detective, Midnight Sons, Mystical</item>
+        <item>108 Felicia Hardy Martial Artist, Marvel Knights</item>
+        <item>109 Rita DeMara Avengers, Future, Guardians of the Galaxy, Masters of
+			Evil</item>
+        <item>110 Doctor Doom Armor, Mystical, Politician, Ruler, Scientist</item>
+        <item>111 Dominic Petros Brotherhood of Mutants, X-Corps</item>
+        <item>112 Fred J. Dukes Brotherhood of Mutants, X-Corps</item>
+        <item>113 Mortimer Toynbee Brotherhood of Mutants</item>
+        <item>114 Elektra Natchios Martial Artist, The Hand, Warrior</item>
+        <item>115 Sue Storm Celebrity, Fantastic Four</item>
+        <item>116 Benjamin J. Grimm Celebrity, Fantastic Four</item>
+        <item>117 Johnny Storm Celebrity, Fantastic Four</item>
+        <item>118 Clint Barton Avengers, Great Lakes Avengers, Thunderbolts</item>
+        <item>119 Natasha Romanoff Champions, Martial Artist, Spy, S.H.I.E.L.D.</item>
+        <item>120 Blastaar of Baluur Brute, Ruler, Warrior</item>
+        <item>001 Con Artist No Keywords</item>
+        <item>002 Con Artist No Keywords</item>
+        <item>003 Con Artist No Keywords</item>
+        <item>004 Hand Ninja Martial Artist, Past, The Hand</item>
+        <item>005 Hand Ninja Martial Artist, The Hand, Warrior</item>
+        <item>006 Hand Ninja Martial Artist, The Hand, Warrior</item>
+        <item>007 Hand Ninja Martial Artist, Past, The Hand</item>
+        <item>008 Hand Ninja Martial Artist, Spy, The Hand</item>
+        <item>009 Hand Ninja Martial Artist, Spy, The Hand</item>
+        <item>010 SWAT Officer Police</item>
+        <item>011 SWAT Officer Police</item>
+        <item>012 SWAT Officer Police, Soldier</item>
+        <item>013 SWAT Specialist Police</item>
+        <item>014 SWAT Specialist Police, Soldier</item>
+        <item>015 SWAT Specialist Police, Spy</item>
+        <item>016 Paramedic Police</item>
+        <item>017 Paramedic Police</item>
+        <item>018 Paramedic No Keywords</item>
+        <item>019 Typhoid Mary Martial Artist</item>
+        <item>020 Typhoid Mary Brute, Martial Artist</item>
+        <item>021 Typhoid Mary Psychic, Warrior</item>
+        <item>022 Destiny Brotherhood of Mutants, Past, Psychic</item>
+        <item>023 Destiny Brotherhood of Mutants, Psychic</item>
+        <item>024 Destiny Brotherhood of Mutants, Freedom Force, Psychic</item>
+        <item>025 Boom-Boom Fallen Angels, Teen</item>
+        <item>026 Boom-Boom New Mutants, Teen, X-Factor</item>
+        <item>027 Meltdown X-Force, Weapon X, Nextwave</item>
+        <item>028 Mystique Brotherhood of Mutants, Detective, Past</item>
+        <item>029 Mystique Brotherhood of Mutants, Marauders, Spy, XFactor</item>
+        <item>030 Mystique Brotherhood of Mutants, Freedom Force, Spy, XCorps</item>
+        <item>031 Viper HYDRA, Martial Artist, Serpent Society</item>
+        <item>032 Viper HYDRA, Madripoor, Martial Artist, Ruler</item>
+        <item>033 Viper Hellfire Club, HYDRA, Madripoor, Martial Artist</item>
+        <item>034 Shadowcat Teen, X-Men</item>
+        <item>035 Shadowcat Teen, New Mutants</item>
+        <item>036 Shadowcat Excalibur, S.H.I.E.L.D., X-Men</item>
+        <item>037 Iceman Champions, Defenders, X-Men</item>
+        <item>038 Iceman Defenders, X-Factor, X-Men</item>
+        <item>039 Iceman Twelve, X-Factor, X-Men</item>
+        <item>040 Madame Masque Maggia, Scientist</item>
+        <item>041 Madame Masque Maggia, Robot, Scientist</item>
+        <item>042 Madame Masque Avengers, Maggia, Robot</item>
+        <item>043 Doc Samson Scientist</item>
+        <item>044 Doc Samson Scientist</item>
+        <item>045 Doc Samson Scientist</item>
+        <item>046 Scorpion Armor, Detective</item>
+        <item>047 Scorpion Armor, Sinister Syndicate</item>
+        <item>048 Scorpion Armor</item>
+        <item>049 Abomination Brute, Spy</item>
+        <item>050 Abomination Brute, Monster</item>
+        <item>051 Abomination Brute, Monster</item>
+        <item>052 Crimson Dynamo Armor, Scientist</item>
+        <item>053 Crimson Dynamo Armor, Spy</item>
+        <item>054 Crimson Dynamo Armor, Scientist, Spy, Titanic Three</item>
+        <item>055 Beast Avengers, X-Men</item>
+        <item>056 Beast Defenders, Scientist</item>
+        <item>057 Beast Scientist, X-Men</item>
+        <item>058 Psylocke Psychic, The Hand, X-Men</item>
+        <item>059 Psylocke Martial Artist, Psychic, The Hand</item>
+        <item>060 Psylocke Martial Artist, Psychic, The Hand, X-Men</item>
+        <item>061 Daredevil Martial Artist</item>
+        <item>062 Daredevil Defenders, Martial Artist, Warrior</item>
+        <item>063 Daredevil Detective, Martial Artist, Marvel Knights</item>
+        <item>064 Taskmaster Martial Artist</item>
+        <item>065 Taskmaster Frightful Four, Martial Artist</item>
+        <item>066 Taskmaster Agency X, Martial Artist, Thunderbolts</item>
+        <item>067 Silver Samurai HYDRA, Warrior</item>
+            </string-array>
+    <string-array name="unlisted_keywords_2">
+        <item>068 Silver Samurai Big Hero 6, Martial Artist, Warrior</item>
+        <item>069 Silver Samurai Armor, HYDRA, Martial Artist, Warrior</item>
+        <item>070 Gambit Marauders, X-Men</item>
+        <item>071 Gambit Martial Artist, X-Men</item>
+        <item>072 Gambit Horsemen of Apocalypse, X-Men</item>
+        <item>073 Mandarin Martial Artist, Ruler, Scientist</item>
+        <item>074 Mandarin Martial Artist, Scientist</item>
+        <item>075 Mandarin Martial Artist, Scientist</item>
+        <item>076 Iron Man Armor, Avengers, Celebrity, Scientist</item>
+        <item>077 Iron Man Armor, S.H.I.E.L.D., Scientist</item>
+        <item>078 Iron Man Armor, West Coast Avengers, Force Works, Scientist</item>
+        <item>079 Colossus Armor, X-Men</item>
+        <item>080 Colossus Acolytes, Armor, Excalibur, X-Men</item>
+        <item>081 Colossus Acolytes, Armor, X-Men</item>
+        <item>082 Storm Deity, Morlocks, X-Men</item>
+        <item>083 Storm Twelve, X-Men</item>
+        <item>084 Storm Hellfire Club, X-Men, X.S.E.</item>
+        <item>085 Shadowcat Animal, Teen, X-Men</item>
+        <item>086 Elektra Martial Artist, Marvel Knights, Warrior</item>
+        <item>087 Deathbird Shi\'ar, Warrior</item>
+        <item>088 Apocalypse Mutant, Past, Warrior</item>
+        <item>089 Green Goblin Brute, Monster, Scientist</item>
+        <item>090 The Leader Psychic, Scientist</item>
+        <item>091 Sauron Animal, Psychic</item>
+        <item>092 Lady Deathstrike Reavers, Robot, Warrior</item>
+        <item>093 Spider-Man Marvel Knights, Scientist</item>
+        <item>094 Hulk Brute, Monster</item>
+        <item>095 Phoenix Cosmic, Psychic, X-Men</item>
+        <item>096 Weapon X Alpha Flight, Brute, Weapon X, X-Men</item>
+        <item>201 Sarah St. John No Keywords</item>
+        <item>202 Kirigi Brute, Martial Artist, Mystical, The Hand</item>
+        <item>203 Elektra Martial Artist, The Hand, Warrior</item>
+        <item>204 Sammy Liebman Police, Soldier</item>
+        <item>205 Frank Gunzer Police, Soldier</item>
+        <item>206 Jane Foster Police</item>
+        <item>207 Mary Walker Martial Artist, Psychic, Warrior</item>
+        <item>208 Irene Adler Brotherhood of Mutants, Past, Psychic</item>
+        <item>209 Tabitha Smith Nextwave, New Mutants, Teen, X-Factor</item>
+        <item>210 Raven Darkholme Brotherhood of Mutants, Martial Artist, Spy</item>
+        <item>211 Madame Hydra Hydra, Martial Artist</item>
+        <item>212 Kitty Pryde Excalibur, Martial Artist, Teen, X-Men</item>
+        <item>213 Bobby Drake Champions, Defenders, X-Factor, X-Men</item>
+        <item>214 Whitney Frost Maggia, Scientist</item>
+        <item>215 Dr. Leonard Samson Celebrity, Scientist</item>
+        <item>216 Mac Gargan Detective, Sinister Syndicate</item>
+        <item>217 Emil Blonsky Brute, Monster, Spy</item>
+        <item>218 Dimitri Bukharin Armor, Spy, Supreme Soviets</item>
+        <item>219 Hank McCoy Avengers, Scientist, X-Factor, X-Men</item>
+        <item>220 Betsy Braddock Martial Artist, Psychic, The Hand, Warrior</item>
+        <item>001 Asleigh Ruler, Warrior</item>
+        <item>002 Asleigh Warrior</item>
+        <item>003 Asleigh Ruler, Warrior</item>
+        <item>004 Tomoe Martial Artist, Warrior</item>
+        <item>005 Tomoe Martial Artist, Warrior</item>
+        <item>006 Tomoe Martial Artist, Warrior</item>
+        <item>007 Saurian Trooper Brute, Soldier</item>
+        <item>008 Saurian Trooper Brute, Soldier</item>
+        <item>009 Saurian Trooper Soldier</item>
+        <item>010 Scarab Celebrity, Martial Artist, Noh</item>
+        <item>011 Scarab Celebrity, Martial Artist, Noh</item>
+        <item>012 Scarab Celebrity, Noh, Warrior</item>
+        <item>013 Tiger Lily Celebrity, Martial Artist, Noh</item>
+        <item>014 Tiger Lily Celebrity, Martial Artist, Noh</item>
+        <item>015 Tiger Lily Celebrity, Martial Artist, Noh</item>
+        <item>016 Sydney Savage Danger Girls, Spy</item>
+        <item>017 Sydney Savage Danger Girls, Spy</item>
+        <item>018 Sydney Savage Danger Girls, Spy</item>
+        <item>019 Johnny Alpha Future, Warrior</item>
+        <item>020 Johnny Alpha Future, Psychic, Soldier</item>
+        <item>021 Johnny Alpha Future, Soldier, Warrior</item>
+        <item>022 Judge Hershey Future, Police</item>
+        <item>023 Judge Hershey Future, Police, Politician</item>
+        <item>024 Judge Hershey Future, Police, Politician</item>
+        <item>025 Aphrodite IX Robot, Soldier</item>
+        <item>026 Aphrodite IX Robot, Soldier, Spy</item>
+        <item>027 Aphrodite IX Robot, Spy</item>
+        <item>028 Magdalena Mystical, Warrior</item>
+        <item>029 Magdalena Mystical, Warrior</item>
+        <item>030 Magdalena Mystical, Warrior</item>
+        <item>031 Arashi Martial Artist, Warrior</item>
+        <item>032 Arashi Martial Artist, Warrior</item>
+        <item>033 Arashi Martial Artist, Warrior</item>
+        <item>034 Lobster Johnson B.P.R.D., Detective, Past</item>
+        <item>035 Lobster Johnson B.P.R.D., Detective, Past</item>
+        <item>036 Lobster Johnson B.P.R.D., Mystical</item>
+        <item>037 Arwyn Warrior</item>
+        <item>038 Arwyn Warrior</item>
+        <item>039 Arwyn Warrior</item>
+        <item>040 Boon Martial Artist</item>
+        <item>041 Boon Martial Artist, Mystical</item>
+        <item>042 Boon Martial Artist, Mystical</item>
+        <item>043 Ian Nottingham Soldier, Warrior</item>
+        <item>044 Ian Nottingham Mystical, Warrior</item>
+        <item>045 Ian Nottingham Mystical, Warrior</item>
+        <item>046 The Darkness Brute, Mystical</item>
+        <item>047 The Darkness Brute, Mystical</item>
+        <item>048 The Darkness Armor, Brute, Mystical</item>
+        <item>049 Natalia Kassle Danger Girls, Spy</item>
+        <item>050 Natalia Kassle Danger Girls, Spy</item>
+        <item>051 Natalia Kassle Hammer Empire, Spy</item>
+        <item>052 Major Maxim Hammer Empire, Soldier</item>
+        <item>053 Major Maxim Hammer Empire, Soldier</item>
+        <item>054 Major Maxim Hammer Empire, Soldier</item>
+        <item>055 Bron Brute, Ruler, Warrior</item>
+        <item>056 Bron Brute, Ruler, Warrior</item>
+        <item>057 Bron Brute, Warrior</item>
+        <item>058 Shi Martial Artist, Warrior</item>
+        <item>059 Shi Martial Artist, Warrior</item>
+        <item>060 Shi Martial Artist, Warrior</item>
+        <item>061 Yukio Mystical, Spy</item>
+        <item>062 Yukio Mystical, Spy</item>
+        <item>063 Yukio Mystical</item>
+        <item>064 Witchblade Detective, Mystical, Police</item>
+        <item>065 Witchblade Detective, Mystical, Police</item>
+        <item>066 Witchblade Detective, Mystical, Police, Warrior</item>
+        <item>067 Hellboy B.P.R.D., Mystical, Past, Soldier</item>
+        <item>068 Hellboy B.P.R.D., Celebrity, Mystical</item>
+        <item>069 Hellboy B.P.R.D., Mystical, Warrior</item>
+        <item>070 Judge Dredd Future, Police</item>
+        <item>071 Judge Dredd Future, Police</item>
+        <item>072 Judge Dredd Future, Police</item>
+        <item>073 Abbey Chase Danger Girls, Martial Artist</item>
+        <item>074 Abbey Chase Danger Girls, Martial Artist, Spy</item>
+        <item>075 Abbey Chase Danger Girls, Martial Artist, Spy</item>
+        <item>076 Kabuki Celebrity, Martial Artist, Noh, Warrior</item>
+        <item>077 Kabuki Celebrity, Martial Artist, Noh, Warrior</item>
+        <item>078 Kabuki Martial Artist, Warrior</item>
+        <item>079 Death Demon Mystical, Warrior</item>
+        <item>080 Death Demon Mystical, Martial Artist, Warrior</item>
+        <item>081 Death Demon Mystical, Martial Artist</item>
+        <item>082 Rasputin Mystical, Past</item>
+        <item>083 Rasputin Mystical</item>
+        <item>084 Rasputin Mystical</item>
+        <item>085 Samandahl Rey No Keywords</item>
+        <item>086 Arwyn Warrior</item>
+        <item>087 Hellboy B.P.R.D., Brute, Monster, Mystical</item>
+        <item>088 Hecate Deity, Monster, Mystical</item>
+        <item>089 Shi Martial Artist, Warrior</item>
+        <item>090 Abbey Chase Danger Girls, Martial Artist, Spy</item>
+        <item>091 Judge Anderson Future, Police, Psychic</item>
+        <item>092 Judge Death Future, Monster, Police</item>
+        <item>093 Witchblade Armor, Detective, Mystical, Police</item>
+        <item>094 Angelus Mystical, Warrior</item>
+        <item>095 Siamese Celebrity, Martial Artist, Noh, Robot</item>
+        <item>096 Cyblade Cyberforce, Robot</item>
+        <item>097 Brit City Judge Future, Police</item>
+        <item>098 Brit City Judge Future, Police</item>
+        <item>099 Brit City Judge Future, Police</item>
+        <item>100 Stix Brute, Future</item>
+        <item>101 Stix Brute, Future</item>
+        <item>102 Stix Future</item>
+        <item>103 Wulf Sternhammer Future, Past, Warrior</item>
+        <item>104 Wulf Sternhammer Future, Past, Warrior</item>
+        <item>105 Wulf Sternhammer Future, Past, Warrior</item>
+        <item>106 Torquemada Future, Police, Soldier</item>
+        <item>107 Torquemada Future, Ruler</item>
+        <item>108 Torquemada Brute, Future, Ruler</item>
+        <item>109 Nemesis Future, Mystical, Warrior</item>
+        <item>110 Nemesis Future, Mystical, Warrior</item>
+        <item>111 Nemesis Future, Mystical, Warrior</item>
+        <item>112 Judge Fire Future, Monster, Police</item>
+        <item>113 Judge Fire Future, Monster, Police</item>
+        <item>114 Judge Fire Future, Monster, Police</item>
+        <item>115 Judge Mortis Future, Monster, Police</item>
+        <item>116 Judge Mortis Future, Monster, Police</item>
+        <item>117 Judge Mortis Future, Monster, Police</item>
+        <item>118 Judge Fear Future, Monster, Police</item>
+        <item>119 Judge Fear Future, Monster, Police</item>
+        <item>120 Judge Fear Future, Monster, Police</item>
+        <item>201 Princess Ashleigh Ruler, Warrior</item>
+        <item>202 Tomoe Gozan Martial Artist, Warrior</item>
+        <item>203 Bajounte-Ka Brute, Soldier</item>
+        <item>204 Keiko Martial Artist, Noh, Warrior</item>
+        <item>205 Akemi Celebrity, Martial Artist, Noh</item>
+        <item>206 Spec Ops Savage Danger Girls, Soldier, Spy</item>
+        <item>207 Search/Destroy Agent Alpha Future, Soldier, Warrior</item>
+        <item>208 Barbara Hershey Future, Police, Politician</item>
+        <item>209 Aphrodite IX Robot, Soldier, Spy</item>
+        <item>210 Sister Magdalena Mystical, Warrior</item>
+        <item>211 Mashahiro Arashi Martial Artist, Warrior</item>
+        <item>212 Lobster Johnson B.P.R.D., Detective, Past</item>
+        <item>221 Witchblade Armor, Detective, Mystical, Police</item>
+        <item>222 Boon Martial Artist, Mystical</item>
+        <item>223 Arwyn Warrior</item>
+        <item>998 Johnny Alpha Future, Warrior</item>
+        <item>999 Judge Dredd Future, Police</item>
+        <item>001 Easy Company Soldier Past, Soldier</item>
+        <item>002 Easy Company Soldier Past, Soldier</item>
+        <item>003 Easy Company Soldier Past, Soldier</item>
+        <item>004 Easy Company Medic Past, Soldier</item>
+        <item>005 Easy Company Medic Past, Soldier</item>
+        <item>006 Easy Company Medic Past, Soldier</item>
+        <item>007 Parademon Scout Apokolips, Soldier</item>
+        <item>008 Parademon Scout Apokolips, New Gods</item>
+        <item>009 Parademon Scout Apokolips, Spy</item>
+        <item>010 Parademon Warrior Apokolips, Secret Six, Warrior</item>
+        <item>011 Parademon Warrior Apokolips, New Gods, Warrior</item>
+        <item>012 Parademon Warrior Apokolips, Secret Six, Warrior</item>
+        <item>013 Lex Corp Security Metropolis, Police</item>
+        <item>014 Lex Corp Security Metropolis</item>
+        <item>015 Lex Corp Security Metropolis</item>
+        <item>016 Lex Corp Battlesuit Armor, Metropolis</item>
+        <item>017 Lex Corp Battlesuit Armor, Metropolis</item>
+        <item>018 Lex Corp Battlesuit Armor, Metropolis</item>
+        <item>019 Sgt. Rock Past, Soldier</item>
+        <item>020 Sgt. Rock Past, Soldier</item>
+        <item>021 Sgt. Rock Past, Politician, Soldier, Suicide Squad</item>
+        <item>022 Penguin Gotham City, Injustice League</item>
+        <item>023 Penguin Gotham City</item>
+        <item>024 Penguin Gotham City</item>
+        <item>025 Manhunter Green Lantern Corps, Robot</item>
+        <item>026 Manhunter Green Lantern Corps, Robot</item>
+        <item>027 Manhunter Robot</item>
+        <item>028 Fury Monster</item>
+        <item>029 Fury Monster</item>
+        <item>030 Fury Monster</item>
+        <item>031 Poison Ivy Gotham City, Scientist,
+			Secret Society of Super Villains</item>
+        <item>032 Poison Ivy Gotham City, Injustice Gang</item>
+        <item>033 Poison Ivy Gotham City</item>
+        <item>034 Black Canary Gotham City, Justice Society</item>
+        <item>035 Black Canary Justice League of America, Justice League
+			International, Martial Artist, Star City</item>
+        <item>036 Black Canary Birds of Prey, Detective, Justice League, Martial
+			Artist</item>
+        <item>037 Green Arrow Justice League of America, Star City</item>
+        <item>038 Green Arrow Justice League of America, Star City</item>
+        <item>039 Green Arrow Justice League Elite, Star City</item>
+        <item>040 Troia Amazon, Teen, Teen Titans</item>
+        <item>041 Troia Amazon, Mystical</item>
+        <item>042 Troia Amazon, Mystical, Teen Titans</item>
+        <item>043 Cosmic Boy Future, Legion of Super Heroes, Teen</item>
+        <item>044 Cosmic Boy Future, Legion of Super Heroes, Teen</item>
+        <item>045 Cosmic Boy Future, Legion of Super Heroes</item>
+        <item>046 Live Wire Future, Legion of Super Heroes, Teen</item>
+        <item>047 Live Wire Future, Legion of Super Heroes, Teen</item>
+        <item>048 Live Wire Future, Legion of Super Heroes</item>
+        <item>049 Saturn Girl Future, Legion of Super Heroes, Teen</item>
+        <item>050 Saturn Girl Future, Legion of Super Heroes, Teen</item>
+        <item>051 Saturn Girl Future, Legion of Super Heroes</item>
+        <item>052 Fatality Warrior</item>
+        <item>053 Fatality Warrior</item>
+        <item>054 Fatality Armor, Warrior</item>
+        <item>055 Zatanna Celebrity, Justice League of America, Mystical</item>
+        <item>056 Zatanna Celebrity, Justice League of America, Mystical</item>
+        <item>057 Zatanna Celebrity, Mystical, Sentinels of Magic</item>
+        <item>058 Lady Shiva League of Assassins, Martial Artist</item>
+        <item>059 Lady Shiva League of Assassins, Martial Artist</item>
+        <item>060 Lady Shiva Martial Artist</item>
+        <item>061 Starfire Teen, Teen Titans, Warrior</item>
+        <item>062 Starfire Teen, Teen Titans, Warrior</item>
+        <item>063 Starfire Teen Titans, Warrior</item>
+        <item>064 Starman Opal City</item>
+        <item>065 Starman Opal City</item>
+        <item>066 Starman Justice Society, Opal City</item>
+        <item>067 Firestorm Scientist, Teen</item>
+        <item>068 Firestorm Justice League of America, Scientist, Teen</item>
+        <item>069 Firestorm Extreme Justice</item>
+        <item>070 Cheetah Animal, Villainy Inc</item>
+        <item>071 Cheetah Animal, Villainy Inc</item>
+        <item>072 Cheetah Animal, Society</item>
+        <item>073 Deathstroke Soldier</item>
+        <item>074 Deathstroke HIVE, Martial Artist, Soldier</item>
+        <item>075 Deathstroke No Keywords</item>
+        <item>076 Wonder Woman Amazon, Justice League of America</item>
+        <item>077 Wonder Woman Amazon, Justice League of America</item>
+        <item>078 Wonder Woman Amazon, JLA, Justice League Europe, Justice League
+			International</item>
+        <item>079 Circe Injustice Gang, Mystical</item>
+        <item>080 Circe Injustice Gang, Mystical</item>
+        <item>081 Circe Mystical</item>
+        <item>082 Green Lantern Green Lantern Corps</item>
+        <item>083 Green Lantern Green Lantern Corps, JLA</item>
+        <item>084 Green Lantern Green Lantern Corps, JLA</item>
+        <item>085 Martian Manhunter Detective, Justice League of America, Police</item>
+        <item>086 Bizarro Metropolis, Brute</item>
+        <item>087 Brother Blood Mystical</item>
+        <item>088 Amazo Robot</item>
+        <item>089 Lex Luthor Celebrity, Metropolis, Politician, Superman Revenge
+			Squad</item>
+        <item>090 Eclipso Mystical</item>
+        <item>091 Despero Brute, Psychic, Warrior</item>
+        <item>092 Mordru Cosmic, Future, Mystical, Past</item>
+        <item>093 Catgirl Future, Gotham City</item>
+        <item>094 Batgirl Detective, Gotham City</item>
+        <item>095 Batman Gotham City, Monster</item>
+        <item>096 Superman Apokolips, Warrior</item>
+        <item>201 Little Sure Shot Past, Soldier</item>
+        <item>202 4-Eyes Past, Soldier</item>
+        <item>203 Pharzoof Apokolips, New Gods, Spy</item>
+        <item>204 Valinus Apokolips, New Gods, Warrior</item>
+        <item>205 Hope Metropolis</item>
+        <item>206 Eddie Carlin Armor, Metropolis</item>
+        <item>207 Gen. Frank Rock Politician, Soldier</item>
+        <item>208 Oswald Cobblepot Celebrity, Gotham City</item>
+        <item>209 Manhunter 2.0 Green Lantern Corps, Robot, Warrior</item>
+        <item>210 Hippolyta Trevor-Hall Amazon, Infinity Inc</item>
+        <item>211 Pamela Isley Gotham City, Scientist</item>
+        <item>212 Dinah Lance Birds of Prey, Justice League of America, Martial
+			Artist, Star City</item>
+        <item>213 Oliver Queen Justice League of America, Martial Artist, Star City</item>
+        <item>214 Donna Troy Amazon, Teen Titans, Warrior</item>
+        <item>215 Rokk Krinn Future, Legion of Super Heroes, Teen</item>
+        <item>216 Garth Ranzz Future, Legion of Super Heroes, Teen</item>
+        <item>217 Imra Ardeen Future, Legion of Super Heroes, Teen</item>
+        <item>218 Yrra Cynril Warrior</item>
+        <item>219 Zatanna Zatara Celebrity, Justice League of America, Mystical</item>
+        <item>220 Sandra Wu-San Gotham City, League of Assassins, Martial Artist</item>
+        <item>221 Green Lantern Green Lantern Corps, Justice League of America</item>
+        <item>222 The Atom Justice League of America, Scientist</item>
+        <item>223 Plastic Man Detective, JLA</item>
+        <item>001 Moloid Monster</item>
+        <item>002 Moloid Monster</item>
+        <item>003 Moloid Monster</item>
+        <item>004 Brood Warrior Animal, Brood, Warrior</item>
+        <item>005 Brood Warrior Animal, Brood, Brood</item>
+        <item>006 Brood Warrior Animal, Brood, Warrior</item>
+        <item>007 Kree Warrior Kree, Soldier</item>
+        <item>008 Kree Warrior Kree, Soldier</item>
+        <item>009 Kree Warrior Kree, Warrior</item>
+        <item>010 S.W.A.T. Heavy Weapons Police</item>
+        <item>011 S.W.A.T. Heavy Weapons Police, Soldier</item>
+        <item>012 S.W.A.T. Heavy Weapons Armor, Police, Soldier</item>
+        <item>013 Dreadnought HYDRA, Robot</item>
+        <item>014 Dreadnought Maggia, Robot</item>
+        <item>015 Dreadnought HYDRA, Maggia, Robot</item>
+        <item>016 Hepzibah Martial Artist, Starjammers</item>
+        <item>017 Hepzibah Martial Artist, X-Men</item>
+        <item>018 Hepzibah Martial Artist, Starjammers, X-Men</item>
+        <item>019 Marrow Teen, Morlocks</item>
+        <item>020 Marrow Teen, X-Men</item>
+        <item>021 Marrow Gene Nation, S.H.I.E.L.D., Weapon X, X-Men</item>
+        <item>022 Corsair Soldier, Starjammers</item>
+        <item>023 Corsair Starjammers</item>
+        <item>024 Corsair Starjammers</item>
+        <item>025 Moon Knight Soldier</item>
+        <item>026 Moon Knight Mystical, West Coast Avengers</item>
+        <item>027 Moon Knight Mystical</item>
+        <item>028 Calypso Mystical, Psychic</item>
+        <item>029 Calypso Mystical, Psychic</item>
+        <item>030 Calypso Mystical, Psychic</item>
+        <item>031 Elektra Martial Artist</item>
+        <item>032 Elektra Martial Artist, The Hand</item>
+        <item>033 Elektra Martial Artist, The Hand</item>
+        <item>034 Daredevil Martial Artist</item>
+        <item>035 Daredevil Martial Artist</item>
+        <item>036 Daredevil Martial Artist, Marvel Knights</item>
+        <item>037 Magick Mystical, New Mutants, Teen</item>
+        <item>038 Magick Mystical, New Mutants, Teen</item>
+        <item>039 Magick Mystical, Exiles</item>
+        <item>040 Archangel X-Factor, X-Men</item>
+        <item>041 Archangel Defenders, X-Men</item>
+        <item>042 Archangel Horsemen of Apocalypse, X-Factor, X-Men</item>
+        <item>043 Kraven Martial Artist, Warrior</item>
+        <item>044 Kraven Martial Artist, Sinister Syndicate</item>
+        <item>045 Kraven Warrior</item>
+        <item>046 Rhino Armor, Brute</item>
+        <item>047 Rhino Armor, Brute, Sinister Syndicate</item>
+        <item>048 Rhino Brute, Emissaries of Evil</item>
+        <item>049 Mole Man Scientist</item>
+        <item>050 Mole Man Ruler, Scientist</item>
+        <item>051 Mole Man Martial Artist, Ruler, Scientist</item>
+        <item>052 Nebula Soldier</item>
+        <item>053 Nebula Soldier</item>
+        <item>054 Nebula No Keywords</item>
+        <item>055 Moonstone Femizons, Masters of Evil</item>
+        <item>056 Meteorite Masters of Evil, Thunderbolts</item>
+        <item>057 Meteorite Thunderbolts</item>
+        <item>058 Brood Queen Animal, Brood, Ruler</item>
+        <item>059 Brood Queen Animal, Brood, Ruler</item>
+        <item>060 Brood Queen Animal, Brood, Ruler</item>
+        <item>061 Patch Madripoor, Soldier</item>
+        <item>062 Patch Madripoor, Martial Artist, Soldier</item>
+        <item>063 Patch Madripoor, Martial Artist</item>
+        <item>064 Diablo Mystical, Past</item>
+        <item>065 Diablo Mystical</item>
+        <item>066 Diablo Mystical, Scientist</item>
+        <item>067 Spider-Man Teen, Reporter</item>
+        <item>068 Spider-Man Teen, Reporter</item>
+        <item>069 Spider-Man Marvel Knights</item>
+        <item>070 Venom Brute, Reporter</item>
+        <item>071 Venom Brute, Monster, Reporter</item>
+        <item>072 Venom Brute, Sinister Syndicate</item>
+        <item>073 Ulik Asgardian, Brute</item>
+        <item>074 Ulik Asgardian, Brute</item>
+        <item>075 Ulik Asgardian, Brute</item>
+        <item>076 Umar Mystical</item>
+        <item>077 Umar Mystical</item>
+        <item>078 Umar Mystical</item>
+        <item>079 Black Queen Monster, Mystical, Past, Psychic</item>
+        <item>080 Selene Hellfire Club, Mystical, Past, Psychic</item>
+        <item>081 Selene Externals, Hellfire Club, Mystical, Psychic</item>
+        <item>082 Absorbing Man Brute</item>
+        <item>083 Absorbing Man Brute, Masters of Evil</item>
+        <item>084 Absorbing Man Brute</item>
+        <item>085 Warbird Avengers, Soldier</item>
+        <item>086 Captain Marvel Kree, Spy</item>
+        <item>087 Adam Warlock Cosmic, Infinity Watch</item>
+        <item>088 Ronan the Accuser Armor, Kree, Warrior</item>
+        <item>089 Sersi Avengers, Eternal, Past, Psychic</item>
+        <item>090 Morgan Le Fay Mystical, Past</item>
+        <item>091 Terrax Cosmic, Herald, Ruler, Warrior</item>
+        <item>092 Dormammu Deity, Mystical, Ruler</item>
+        <item>093 Nova Cosmic, Fantastic Four, Herald</item>
+        <item>094 Beta Ray Bill Asgardian, Cosmic, Thor Corps, Warrior</item>
+        <item>095 Hulk Pantheon, Scientist</item>
+        <item>096 Silver Surfer Defenders, Herald</item>
+        <item>201 Val-or Monster</item>
+        <item>202 Divebomber Animal, Armor, Brood, Warrior</item>
+        <item>203 Captain Mar-Vell Avengers, Kree, Martial Artist, Soldier</item>
+        <item>204 Roger Falcone Police, Soldier</item>
+        <item>205 Silver Dreadnought Armor, HYDRA, Maggia, Robot</item>
+        <item>206 Hepzibah Martial Artist, Starjammers, X-Men</item>
+        <item>207 Sarah X-Men, S.H.I.E.L.D.</item>
+        <item>208 Major Christopher Summers Soldier, Starjammers</item>
+        <item>209 Marc Spector Martial Artist, Marvel Knights</item>
+        <item>210 Calypso Ezili Mystical</item>
+        <item>211 Elektra Natchios Martial Artist, Teen</item>
+        <item>212 Matt Murdock Martial Artist</item>
+        <item>213 Illyana Rasputin Mystical, Teen</item>
+        <item>214 Warren Worthington III X-Men, Hellfire Club</item>
+        <item>215 Sergei Kravinov Warrior</item>
+        <item>216 Alex O\'Hirn Brute, Soldier</item>
+        <item>217 Rupert Ruler, Scientist</item>
+        <item>218 Nebula No Keywords</item>
+        <item>219 Dr. Karla Sofen Psychic, Scientist</item>
+        <item>220 Professor Xavier New Mutants, Psychic, Ruler, Spy</item>
+        <item>221 Invisible Woman Fantastic Four</item>
+        <item>222 Silver Surfer Cosmic, Herald</item>
+        <item>G01 Galactus Cosmic</item>
+        <item>001 Spider-Man Teen</item>
+        <item>002 Wolverine Martial Artist, X-Men</item>
+        <item>003 Wasp Avengers</item>
+        <item>004 Hobgoblin Sinister Syndicate</item>
+        <item>005 Sabretooth Brotherhood of Mutants, Brute, Martial Artist</item>
+        <item>006 Elektra Martial Artist</item>
+        <item>007 Con Artist No Keywords</item>
+        <item>008 Con Artist No Keywords</item>
+        <item>009 Con Artist No Keywords</item>
+        <item>010 Hand Ninja Martial Artist, Past, The Hand</item>
+        <item>011 Hand Ninja Martial Artist, The Hand, Warrior</item>
+        <item>012 Hand Ninja Martial Artist, The Hand, Warrior</item>
+        <item>013 Hand Ninja Martial Artist, Past, The Hand</item>
+        <item>014 Hand Ninja Martial Artist, Spy, The Hand</item>
+        <item>015 Hand Ninja Martial Artist, Spy, The Hand</item>
+        <item>016 S.W.A.T. Officer Police</item>
+        <item>017 S.W.A.T. Officer Police</item>
+        <item>018 S.W.A.T. Officer Police, Soldier</item>
+        <item>019 S.W.A.T. Specialist Police</item>
+        <item>020 S.W.A.T. Specialist Police, Soldier</item>
+        <item>021 S.W.A.T. Specialist Police, Spy</item>
+        <item>022 Paramedic Police</item>
+        <item>023 Paramedic Police</item>
+        <item>024 Paramedic No Keywords</item>
+        <item>025 Typhoid Mary Martial Artist</item>
+        <item>026 Typhoid Mary Brute, Martial Artist</item>
+        <item>027 Typhoid Mary Psychic, Warrior</item>
+        <item>028 Destiny Brotherhood of Mutants, Past, Psychic</item>
+        <item>029 Destiny Brotherhood of Mutants, Psychic</item>
+        <item>030 Destiny Brotherhood of Mutants, Freedom Force, Psychic</item>
+        <item>031 Boom-Boom Fallen Angels, Teen</item>
+        <item>032 Boom-Boom New Mutants, Teen, X-Factor</item>
+        <item>033 Meltdown X-Force, Weapon X, Nextwave</item>
+        <item>034 Mystique Brotherhood of Mutants, Detective, Past</item>
+        <item>035 Mystique Brotherhood of Mutants, Marauders, Spy, XFactor</item>
+        <item>036 Mystique Brotherhood of Mutants, Freedom Force, Spy, XCorps</item>
+        <item>037 Viper HYDRA, Martial Artist, Serpent Society</item>
+        <item>038 Viper HYDRA, Madripoor, Martial Artist, Ruler</item>
+        <item>039 Viper Hellfire Club, HYDRA, Madripoor, Martial Artist</item>
+        <item>040 Shadowcat Teen, X-Men</item>
+        <item>041 Shadowcat Teen, New Mutants</item>
+        <item>042 Shadowcat Excalibur, S.H.I.E.L.D., X-Men</item>
+        <item>043 Daredevil Martial Artist</item>
+        <item>044 Daredevil Defenders, Martial Artist, Warrior</item>
+        <item>045 Daredevil Detective, Martial Artist, Marvel Knights</item>
+        <item>046 Taskmaster Martial Artist</item>
+        <item>047 Taskmaster Frightful Four, Martial Artist</item>
+        <item>048 Taskmaster Agency X, Martial Artist, Thunderbolts</item>
+        <item>049 Silver Samurai HYDRA, Warrior</item>
+        <item>050 Silver Samurai Big Hero 6, Martial Artist, Warrior</item>
+        <item>051 Silver Samurai Armor, HYDRA, Martial Artist, Warrior</item>
+        <item>052 Gambit Marauders, X-Men</item>
+        <item>053 Gambit Martial Artist, X-Men</item>
+        <item>054 Gambit Horsemen of Apocalypse, X-Men</item>
+        <item>055 Mandarin Martial Artist, Ruler, Scientist</item>
+        <item>056 Mandarin Martial Artist, Scientist</item>
+        <item>057 Mandarin Martial Artist, Scientist</item>
+        <item>058 Iron Man Armor, Avengers, Celebrity, Scientist</item>
+        <item>059 Iron Man Armor, S.H.I.E.L.D., Scientist</item>
+        <item>060 Iron Man Armor, West Coast Avengers, Force Works, Scientist</item>
+        <item>061 Colossus Armor, X-Men</item>
+        <item>062 Colossus Acolytes, Armor, Excalibur, X-Men</item>
+        <item>063 Colossus Acolytes, Armor, X-Men</item>
+        <item>064 Storm Deity, Morlocks, X-Men</item>
+        <item>065 Storm Twelve, X-Men</item>
+        <item>066 Storm Hellfire Club, X-Men, X.S.E.</item>
+        <item>067 Kingpin Martial Artist</item>
+        <item>068 Kingpin Celebrity, Martial Artist, Ruler</item>
+        <item>069 Kingpin Martial Artist, Ruler</item>
+        <item>070 Vulture No Keywords</item>
+        <item>071 Vulture Sinister Syndicate</item>
+        <item>072 Vulture Sinister Syndicate</item>
+        <item>073 Jean Grey Psychic, X-Men</item>
+        <item>074 Jean Grey Psychic, Twelve, X-Men</item>
+        <item>075 Jean Grey Psychic, X-Factor, X-Men</item>
+        <item>076 Hobgoblin Martial Artist</item>
+        <item>077 Hobgoblin Martial Artist, Sinister Syndicate</item>
+        <item>078 Hobgoblin Martial Artist, Sinister Syndicate, Mystical</item>
+        <item>079 Sabretooth Marauders, Team X, Weapon X</item>
+        <item>080 Sabretooth Brotherhood of Mutants, Brute, Martial Artist</item>
+            </string-array>
+    <string-array name="unlisted_keywords_3">
+        <item>081 Sabretooth Brotherhood of Mutants, Martial Artist, Weapon X</item>
+        <item>082 Hulk Avengers, Brute</item>
+        <item>083 Hulk Defenders</item>
+        <item>084 Hulk Brute, Horsemen of Apocalypse, Scientist</item>
+        <item>085 Puppet Master Scientist</item>
+        <item>086 Puppet Master Psychic, Scientist</item>
+        <item>087 Puppet Master Psychic</item>
+        <item>088 Annihilus Animal, Armor, Warrior</item>
+        <item>089 Annihilus Armor, Ruler, Warrior</item>
+        <item>090 Annihilus Armor, Cosmic, Ruler</item>
+        <item>091 Captain America Avengers, Invaders, Soldier</item>
+        <item>092 Captain America Avengers, Martial Artist, S.H.I.E.L.D.</item>
+        <item>093 Captain America Avengers, Martial Artist, S.H.I.E.L.D.</item>
+        <item>094 Spider-Man Reporter, Teen</item>
+        <item>095 Spider-Man Fantastic Four, Reporter</item>
+        <item>096 Spider-Man Reporter</item>
+        <item>097 Wolverine Martial Artist, Soldier, Team X</item>
+        <item>098 Wolverine Alpha Flight, Martial Artist, Weapon X, X-Men</item>
+        <item>099 Wolverine Avengers, Martial Artist, X-Men</item>
+        <item>100 Professor Xavier Psychic, X-Men</item>
+        <item>101 Professor Xavier Psychic, Starjammers, X-Men</item>
+        <item>102 Professor Xavier Psychic, X-Men</item>
+        <item>103 Cyclops X-Factor, X-Men</item>
+        <item>104 Cyclops X-Factor, X-Men</item>
+        <item>105 Cyclops Twelve, X-Men</item>
+        <item>106 Black Panther Avengers, Martial Artist, Ruler</item>
+        <item>107 Black Panther Martial Artist, Ruler, Scientist</item>
+        <item>108 Black Panther Fantastic Four, Martial Artist, Ruler</item>
+        <item>109 Pyro Brotherhood of Mutants, Freedom Force, Reporter</item>
+        <item>110 Pyro Brotherhood of Mutants</item>
+        <item>111 Pyro Brotherhood of Mutants</item>
+        <item>112 Bullseye Martial Artist</item>
+        <item>113 Bullseye Martial Artist</item>
+        <item>114 Bullseye Martial Artist, Thunderbolts</item>
+        <item>115 Vision Avengers, Robot, West Coast Avengers</item>
+        <item>116 Quasar Avengers, Cosmic, S.H.I.E.L.D.</item>
+        <item>117 Thanos Cosmic, Eternal, Infinity Watch, Ruler, Warrior</item>
+        <item>118 Nightmare Mystical, Psychic, Ruler</item>
+        <item>119 Wasp Avengers, Celebrity, West Coast Avengers</item>
+        <item>120 Elektra HYDRA, Martial Artist, S.H.I.E.L.D., The Hand, Warrior</item>
+        <item>121 Professor Xavier Psychic, Twelve, X-Men</item>
+        <item>122 Juggernaut Brute, Excalibur, Exemplars, Exiles, Mystical, XMen</item>
+        <item>123 Cyclops Martial Artist, Twelve, X-Men</item>
+        <item>124 Captain America All-Winners Squad, Avengers, Martial Artist,
+			Invaders, S.H.I.E.L.D., Past, Soldier</item>
+        <item>125 Wolverine Martial Artist, Horsemen of Apocalypse, Soldier, Weapon X,
+			Warrior</item>
+        <item>126 Spider-Man Celebrity, Martial Artist, Marvel Knights, Reporter,
+			Scientist</item>
+        <item>001 DEO Agent Police</item>
+        <item>002 DEO Agent Detective, Police</item>
+        <item>003 DEO Agent Police, Spy</item>
+        <item>004 HDC Trooper Police</item>
+        <item>005 HDC Trooper Police, Soldier</item>
+        <item>006 HDC Trooper Police, Warrior</item>
+        <item>007 Gotham Undercover Police, Gotham City</item>
+        <item>008 Gotham Undercover Detective, Gotham City, Police</item>
+        <item>009 Gotham Undercover Detective, Gotham City, Police</item>
+        <item>010 Science Police Future, Police</item>
+        <item>011 Science Police Detective, Future, Police</item>
+        <item>012 Science Police Future, Police, Scientist</item>
+        <item>013 Kobra Fanatic Strike Force Kobra</item>
+        <item>014 Kobra Fanatic Strike Force Kobra, Soldier</item>
+        <item>015 Kobra Fanatic Strike Force Kobra, Warrior</item>
+        <item>016 Hawkgirl Justice Society, Warrior</item>
+        <item>017 Hawkgirl Justice League of America, Police</item>
+        <item>018 Hawkgirl Justice League of America, Warrior</item>
+        <item>019 Brainiac 5 Future, Legion of Super Heroes, Teen</item>
+        <item>020 Brainiac 5 Future, Legion of Super Heroes, Teen</item>
+        <item>021 Brainiac 5 Future, Legion of Super Heroes, Scientist</item>
+        <item>022 Scarecrow Gotham City, Injustice Gang</item>
+        <item>023 Scarecrow Gotham City, Scientist</item>
+        <item>024 Scarecrow Gotham City, Society</item>
+        <item>025 Deadshot Gotham City</item>
+        <item>026 Deadshot Suicide Squad, Task Force X</item>
+        <item>027 Deadshot Secret Six, Suicide Squad</item>
+        <item>028 Two-Face Gotham City, Politician</item>
+        <item>029 Two-Face Gotham City</item>
+        <item>030 Two-Face Gotham City</item>
+        <item>031 Cheshire Martial Artist</item>
+        <item>032 Cheshire Martial Artist</item>
+        <item>033 Cheshire Martial Artist, Secret Six</item>
+        <item>034 Rocket Red #1 Armor, Soldier</item>
+        <item>035 Rocket Red #5 Armor, Justice League International, Soldier</item>
+        <item>036 Rocket Red #7 Armor, Manhunters, Justice League International,
+			Robot</item>
+        <item>037 Chameleon Future, Legion of Super Heroes, Teen</item>
+        <item>038 Chameleon Detective, Future, Legion of Super Heroes</item>
+        <item>039 Chameleon Future, Legion of Super Heroes, Spy</item>
+        <item>040 Kobra Martial Artist, Strike Force Kobra, Warrior</item>
+        <item>041 Kobra Strike Force Kobra, Warrior</item>
+        <item>042 Kobra Strike Force Kobra</item>
+        <item>043 Killer Croc Animal, Brute, Gotham City</item>
+        <item>044 Killer Croc Animal, Brute, Gotham City</item>
+        <item>045 Killer Croc Animal, Gotham City, Monster</item>
+        <item>046 Killer Frost Secret Society of Super Villains</item>
+        <item>047 Killer Frost Suicide Squad, Injustice League</item>
+        <item>048 Killer Frost Suicide Squad, Society</item>
+        <item>049 Batgirl Martial Artist</item>
+        <item>050 Batgirl Gotham City, Martial Artist</item>
+        <item>051 Batgirl Gotham City, Martial Artist</item>
+        <item>052 Cyborg Robot, Teen, Teen Titans</item>
+        <item>053 Cyborg Robot, Teen Titans</item>
+        <item>054 Cyborg Robot, Teen Titans</item>
+        <item>055 Queen Bee HIVE</item>
+        <item>056 Queen Bee Injustice League</item>
+        <item>057 Queen Bee Injustice League, Society</item>
+        <item>058 Big Barda Apokolips, Female Furies, New Gods, Warrior</item>
+        <item>059 Big Barda JLA, New Gods, Warrior</item>
+        <item>060 Big Barda Birds of Prey, New Gods, Warrior</item>
+        <item>061 Shade Central City, Mystical</item>
+        <item>062 Shade Injustice Society, Mystical, Opal City</item>
+        <item>063 Shade Mystical, Opal City</item>
+        <item>064 Raven Mystical, Teen, Teen Titans</item>
+        <item>065 Raven Mystical, Teen Titans</item>
+        <item>066 Raven Mystical, Sentinels of Magic, Teen Titans</item>
+        <item>067 Jesse Quick No Keywords</item>
+        <item>068 Jesse Quick Central City, Teen Titans</item>
+        <item>069 Jesse Quick Central City, Justice Society</item>
+        <item>070 Doctor Fate Justice League International, Mystical</item>
+        <item>071 Doctor Fate Justice Society, Mystical, Sentinels of Magic</item>
+        <item>072 Doctor Fate Justice Society, Mystical, Sentinels of Magic</item>
+        <item>073 Maxima Psychic, Superman Revenge Squad, Warrior</item>
+        <item>074 Maxima Justice League International, Psychic, Warrior</item>
+        <item>075 Maxima Extreme Justice, Metropolis, Warrior</item>
+        <item>076 Supergirl Metropolis, Teen</item>
+        <item>077 Supergirl Legion of Super Heroes, Metropolis</item>
+        <item>078 Supergirl Metropolis, Teen Titans</item>
+        <item>079 Black Adam Injustice Society, Monster Society of Evil, Mystical</item>
+        <item>080 Black Adam Justice Society, Monster Society of Evil, Mystical</item>
+        <item>081 Black Adam Mystical, Ruler, Society</item>
+        <item>082 Green Lantern Coast City, Green Lantern Corps, Justice League of
+			America</item>
+        <item>083 Green Lantern Coast City, Green Lantern Corps, Justice League of
+			America</item>
+        <item>084 Green Lantern Green Lantern Corps, JLA</item>
+        <item>085 Metallo Brute, Metropolis, Robot</item>
+        <item>086 The General Injustice Gang, Monster, Soldier</item>
+        <item>087 Kilowog Green Lantern Corps, Justice League International</item>
+        <item>088 Shazam! Kid, Justice Society, Mystical</item>
+        <item>089 Ultrahumanite Animal, Secret Society of Super Villains, Psychic,
+			Scientist</item>
+        <item>090 Silver Swan Robot</item>
+        <item>091 Nu\'bia Amazon, Armor, Warrior</item>
+        <item>092 Mr. Bones Infinity Inc, Police, Politician</item>
+        <item>093 Wonder Woman Armor, Future, Warrior</item>
+        <item>094 Batman Armor, Future, Gotham City</item>
+        <item>095 Superman Future</item>
+        <item>096 Magog Brute, Future</item>
+        <item>097 Bat Sentry Future, Gotham City, Robot</item>
+        <item>201 Cameron Chase Detective, Police</item>
+        <item>202 Montgomery Kelly Soldier, Police</item>
+        <item>203 Matches Malone Detective, Gotham City, Spy</item>
+        <item>204 Shvaughn Erin Future, Legion of Super Heroes, Police</item>
+        <item>205 Jason Burr Police, Strike Force Kobra</item>
+        <item>206 Kendra Saunders Birds of Prey, Justice Society</item>
+        <item>207 Querl Dox Future, Legion of Super Heroes, Scientist</item>
+        <item>208 Jonathan Crane Gotham City, Scientist</item>
+        <item>209 Floyd Lawton Secret Six, Suicide Squad</item>
+        <item>210 Harvey Dent Gotham City, Politician</item>
+        <item>211 Jade Martial Artist, Secret Six</item>
+        <item>212 Dmitri Pushkin Armor, Justice League International</item>
+        <item>213 Richard Swift Central City, Injustice Society, Mystical</item>
+        <item>214 Trigon\'s Daughter Mystical, Teen Titans</item>
+        <item>215 Jesse Chambers Central City, Justice Society, Teen Titans</item>
+        <item>216 Hector Hall Justice Society, Mystical</item>
+        <item>217 Maxima of Almerac Metropolis, Superman Revenge Squad, Warrior</item>
+        <item>218 Kara Zor-El Legion of Super Heroes, Metropolis, Teen</item>
+        <item>219 Teth-Adam Justice Society, Mystical, Ruler</item>
+        <item>220 Hal Jordan Green Lantern Corps, Justice League of America, Justice
+			League Europe</item>
+        <item>221 Shazam! Future, Kid, Mystical</item>
+        <item>222 Catwoman Animal</item>
+        <item>001 Morlock Morlocks, Warrior</item>
+        <item>002 Morlock Morlocks, Mutant</item>
+        <item>003 Morlock Morlocks, Monster</item>
+        <item>004 Hellfire Guard Hellfire Club</item>
+        <item>005 Hellfire Guard Hellfire Club, Soldier</item>
+        <item>006 Hellfire Guard Hellfire Club, Spy</item>
+        <item>007 Scourge Spy</item>
+        <item>008 Scourge Spy</item>
+        <item>009 Scourge Spy</item>
+        <item>010 Sentinel Trooper Robot, Soldier</item>
+        <item>011 Sentinel Trooper Robot, Soldier</item>
+        <item>012 Sentinel Trooper Robot</item>
+        <item>013 Lizard Animal, Scientist</item>
+        <item>014 Lizard Animal, Scientist</item>
+        <item>015 Lizard Animal, Scientist, Sinister Syndicate</item>
+        <item>016 Princess Python Circus of Crime, Serpent Society</item>
+        <item>017 Princess Python Femizons, Serpent Society</item>
+        <item>018 Princess Python Femizons, Serpent Society</item>
+        <item>019 Callisto Morlocks</item>
+        <item>020 Callisto Morlocks, Martial Artist</item>
+        <item>021 Callisto Morlocks, Gene Nation</item>
+        <item>022 Sidewinder Serpent Society</item>
+        <item>023 Sidewinder Serpent Society</item>
+        <item>024 Sidewinder Serpent Society</item>
+        <item>025 Black Widow Martial Artist, Spy</item>
+        <item>026 Black Widow Martial Artist, S.H.I.E.L.D., Spy, Ultimates</item>
+        <item>027 Black Widow Martial Artist, S.H.I.E.L.D., Spy, Ultimates</item>
+        <item>028 Storm Ultimate X-Men</item>
+        <item>029 Storm Ultimate X-Men</item>
+        <item>030 Storm Ultimate X-Men</item>
+        <item>031 Anaconda Femizons, Serpent Society</item>
+        <item>032 Anaconda Femizons, Serpent Society, Six Pack</item>
+        <item>033 Anaconda Serpent Society</item>
+        <item>034 Hawkeye S.H.I.E.L.D., Spy</item>
+        <item>035 Hawkeye S.H.I.E.L.D., Ultimates</item>
+        <item>036 Hawkeye S.H.I.E.L.D., Ultimates</item>
+        <item>037 Hellcat Martial Artist</item>
+        <item>038 Hellcat Defenders, Martial Artist, Psychic</item>
+        <item>039 Hellcat Defenders, Martial Artist, Psychic</item>
+        <item>040 Spider-Man Teen</item>
+        <item>041 Spider-Man Teen</item>
+        <item>042 Spider-Man Teen, Scientist</item>
+        <item>043 Beast Ultimate X-Men</item>
+        <item>044 Beast Scientist, Ultimate X-Men</item>
+        <item>045 Beast Scientist, Ultimate X-Men</item>
+        <item>046 Wolverine Brotherhood of Mutants, Brute</item>
+        <item>047 Wolverine Brute, Ultimate X-Men</item>
+        <item>048 Wolverine Martial Artist, Ultimate X-Men</item>
+        <item>049 Mysterio Sinister Syndicate, Scientist</item>
+        <item>050 Mysterio Sinister Syndicate</item>
+        <item>051 Mysterio Sinister Syndicate</item>
+        <item>052 Punisher Marvel Knights, Police, Soldier</item>
+        <item>053 Punisher Marvel Knights, Soldier, Warrior</item>
+        <item>054 Punisher Soldier, Warrior</item>
+        <item>055 Electro Frightful Four, Emissaries of Evil</item>
+        <item>056 Electro Sinister Syndicate</item>
+        <item>057 Electro Sinister Syndicate, Emissaries of Evil</item>
+        <item>058 Ghost Rider Mystical</item>
+        <item>059 Ghost Rider Midnight Sons, Mystical</item>
+        <item>060 Ghost Rider Fantastic Four, Midnight Sons, Mystical</item>
+        <item>061 Cyclops Teen, Ultimate X-Men</item>
+        <item>062 Cyclops Brotherhood of Mutants, Teen</item>
+        <item>063 Cyclops Ultimate X-Men</item>
+        <item>064 Captain America Soldier</item>
+        <item>065 Captain America S.H.I.E.L.D., Soldier, Ultimates</item>
+        <item>066 Captain America Soldier, Ultimates</item>
+        <item>067 Sabretooth Brute, Martial Artist, Weapon X</item>
+        <item>068 Sabretooth Brotherhood of Mutants, Brute</item>
+        <item>069 Sabretooth Brotherhood of Mutants, Brute, Marauders</item>
+        <item>070 Doctor Octopus Scientist, Thunderbolts</item>
+        <item>071 Doctor Octopus Scientist, Masters of Evil</item>
+        <item>072 Doctor Octopus Scientist, Sinister Syndicate</item>
+        <item>073 Colossus Armor</item>
+        <item>074 Colossus Armor, Ultimate X-Men</item>
+        <item>075 Colossus Armor, Ultimate X-Men</item>
+        <item>076 Marvel Girl Psychic, Teen, Ultimate X-Men</item>
+        <item>077 Marvel Girl Psychic, Ultimate X-Men</item>
+        <item>078 Marvel Girl Psychic, Ultimate X-Men</item>
+        <item>079 Wrecker Brute, Wrecking Crew</item>
+        <item>080 Wrecker Brute, Masters of Evil, Wrecking Crew</item>
+        <item>081 Wrecker Brute, Martial Artist, Wrecking Crew</item>
+        <item>082 Captain Britain Mystical, Scientist</item>
+        <item>083 Captain Britain Mystical, Excalibur</item>
+        <item>084 Captain Britain Hellfire Club, Mystical, Scientist, Ruler</item>
+        <item>085 Xorn Brotherhood of Mutants, X-Men</item>
+        <item>086 Baron Zemo Masters of Evil, Martial Artist, Scientist,
+			Thunderbolts</item>
+        <item>087 Carnage Brute, Martial Artist, Monster</item>
+        <item>088 Vindicator Alpha Flight</item>
+        <item>089 Iron Man Armor, Celebrity, Scientist, Ultimates</item>
+        <item>090 Mr. Sinister Horsemen of Apocalypse, Marauders, Past,
+			Psychic, Scientist</item>
+        <item>091 Crimson Cowl Masters of Evil</item>
+        <item>092 Magneto Brotherhood of Mutants, Hellfire Club, X-Men</item>
+        <item>093 Phoenix Past, Cosmic, Hellfire Club, Psychic, X-Men</item>
+        <item>094 Goblin Queen Mystical, Psychic</item>
+        <item>095 Hulk Brute, Scientist, S.H.I.E.L.D., Ultimates</item>
+        <item>096 Thor Celebrity, Deity, Ultimates</item>
+        <item>200 Magneto Brotherhood of Mutants, Hellfire Club, X-Men</item>
+        <item>201 Jonny Ell Morlocks, Mutant</item>
+        <item>202 Wade Cole Hellfire Club, Soldier, Warrior</item>
+        <item>203 Justice is Served! Spy</item>
+        <item>204 Sentinel Captain Armor, Robot, Warrior</item>
+        <item>205 Dr. Curtis Connors Animal, Scientist</item>
+        <item>206 Zelda Dubois Circus of Crime, Serpent Society</item>
+        <item>207 Morlock Leader Morlocks, Martial Artist</item>
+        <item>208 Seth Voelker Serpent Society</item>
+        <item>209 Natasha Romanova Martial Artist, Spy, Ultimates</item>
+        <item>210 Ororo Munroe Ultimate X-Men</item>
+        <item>211 Blanche Sitznski Serpent Society</item>
+        <item>212 Clint Barton S.H.I.E.L.D., Spy, Ultimates</item>
+        <item>213 Patsy Walker Defenders, Martial Artist</item>
+        <item>214 Peter Parker Teen, Reporter, Scientist</item>
+        <item>215 Hank McCoy Scientist, Ultimate X-Men</item>
+        <item>216 James Howlett Brute, Ultimate X-Men</item>
+        <item>217 Quentin Beck Sinister Syndicate</item>
+        <item>218 Frank Castle Soldier, Warrior</item>
+        <item>219 Maxwell Dillon Sinister Syndicate</item>
+        <item>220 Daniel Ketch Midnight Sons, Mystical</item>
+        <item>221 Dr. Otto Octavius No Keywords</item>
+        <item>001 U-Men No Keywords</item>
+        <item>002 U-Men Soldier</item>
+        <item>003 U-Men Armor, Soldier</item>
+        <item>004 Vanisher Factor Three</item>
+        <item>005 Vanisher Brotherhood of Mutants</item>
+        <item>006 Vanisher Fallen Angels</item>
+        <item>007 Skullbuster Reavers, Robot</item>
+        <item>008 Skullbuster Martial Artist, Reavers, Robot</item>
+        <item>009 Skullbuster Armor, Reavers, Robot</item>
+        <item>010 Harpoon Marauders</item>
+        <item>011 Harpoon Marauders</item>
+        <item>012 Harpoon Marauders</item>
+        <item>013 Vertigo Marauders, Psychic</item>
+        <item>014 Vertigo Marauders, Psychic</item>
+        <item>015 Vertigo Femizons, Marauders, Psychic</item>
+        <item>016 Arclight Marauders</item>
+        <item>017 Arclight Marauders</item>
+        <item>018 Arclight Femizons, Marauders</item>
+        <item>019 Wild Child Animal, Brute, Martial Artist</item>
+        <item>020 Wild Heart Alpha Flight, Brute, Martial Artist</item>
+        <item>021 Wild Child Brute, X-Factor, Weapon X</item>
+        <item>022 Blade Martial Artist, Warrior</item>
+        <item>023 Blade Martial Artist, Midnight Sons, Nightstalkers</item>
+        <item>024 Blade Martial Artist, Midnight Sons, Warrior</item>
+        <item>025 Puck Alpha Flight, Soldier</item>
+        <item>026 Puck Alpha Flight, Martial Artist</item>
+        <item>027 Puck Alpha Flight, Martial Artist</item>
+        <item>028 Domino Soldier</item>
+        <item>029 Domino Soldier, X-Force</item>
+        <item>030 Domino S.H.I.E.L.D., Soldier, X-Force</item>
+        <item>031 Polaris X-Factor, X-Men</item>
+        <item>032 Polaris Twelve, X-Factor</item>
+        <item>033 Polaris Horsemen of Apocalypse, Starjammers, X-Men</item>
+        <item>034 Silver Sable Wild Pack, Martial Artist, Soldier</item>
+        <item>035 Silver Sable Martial Artist, Soldier</item>
+        <item>036 Silver Sable Outlaws, Soldier</item>
+        <item>037 Havok X-Men, X-Factor</item>
+        <item>038 Havok Brotherhood of Mutants, X-Factor</item>
+        <item>039 Havok X-Factor, Starjammers, X-Men</item>
+        <item>040 Wonder Man Avengers, Masters of Evil</item>
+        <item>041 Wonder Man Avengers, Force Works, West Coast Avengers</item>
+        <item>042 Wonder Man Avengers</item>
+        <item>043 Firestar Hellions, Teen</item>
+        <item>044 Firestar New Warriors, Teen</item>
+        <item>045 Firestar Avengers</item>
+        <item>046 Cloak Teen</item>
+        <item>047 Cloak Marvel Knights, Teen</item>
+        <item>048 Cloak Marvel Knights</item>
+        <item>049 Dagger Marvel Knights, Teen</item>
+        <item>050 Dagger Marvel Knights, New Warriors, Teen</item>
+        <item>051 Dagger Marvel Knights</item>
+        <item>052 Bishop Future, Warrior</item>
+        <item>053 Bishop X-Men, Warrior</item>
+        <item>054 Bishop X.S.E., Police</item>
+        <item>055 Blink Exiles, X-Men</item>
+        <item>056 Blink Exiles</item>
+        <item>057 Blink Exiles</item>
+        <item>058 Spider-Man Celebrity, Outlaws, Reporter</item>
+        <item>059 Spider-Man Fantastic Four</item>
+        <item>060 Spider-Man Marvel Knights, Reporter</item>
+        <item>061 Man-Thing Monster, Mystical</item>
+        <item>062 Man-Thing Monster, Mystical</item>
+        <item>063 Man-Thing Monster, Mystical</item>
+        <item>064 Snowbird Alpha Flight, Mystical, Police</item>
+        <item>065 Snowbird Alpha Flight, Mystical</item>
+        <item>066 Snowbird Alpha Flight, Mystical</item>
+        <item>067 Northstar Alpha Flight</item>
+        <item>068 Northstar Alpha Flight</item>
+        <item>069 Northstar Celebrity, Martial Artist, X-Men</item>
+        <item>070 Sasquatch Alpha Flight, Monster, Scientist</item>
+        <item>071 Sasquatch Alpha Flight, Monster, Mystical</item>
+        <item>072 Tanaraq Brute, Monster</item>
+        <item>073 Cable Future, Soldier</item>
+        <item>074 Cable Future, New Mutants, Soldier, X-Force</item>
+        <item>075 Soldier X Future, Soldier, Warrior</item>
+        <item>076 Deadpool Frightful Four, Maggia, Martial Artist, Weapon X</item>
+        <item>077 Deadpool Martial Artist, Weapon X</item>
+        <item>078 Deadpool Agency X, Martial Artist, Six Pack</item>
+        <item>079 Wolverine Alpha Flight, Martial Artist, Team X, Weapon X</item>
+        <item>080 Wolverine Horsemen of Apocalypse, Martial Artist, Weapon X</item>
+        <item>081 Wolverine Martial Artist, X-Men</item>
+        <item>082 Hulk Brute, Monster</item>
+        <item>083 Hulk Avengers, Brute, Defenders</item>
+        <item>084 Hulk Brute, Defenders, Horsemen of Apocalypse, Monster</item>
+        <item>085 Longshot Exiles, X-Men</item>
+        <item>086 Mimic Brotherhood of Mutants, Exiles, X-Men</item>
+        <item>087 Fantomex Martial Artist, Robot, Spy, Weapon X, X-Men</item>
+        <item>088 Donald Pierce Hellfire Club, Martial Artist, Scientist, Reavers,
+			Robot</item>
+        <item>089 Bastion Robot, Warrior</item>
+        <item>090 M.O.D.O.K. A.I.M., Psychic, Robot</item>
+        <item>091 Gladiator Martial Artist, Shi\'ar, Soldier, Warrior</item>
+        <item>092 Black Queen Cosmic, Hellfire Club, Psychic</item>
+        <item>093 Shadow King Psychic</item>
+        <item>094 N\'astirh Animal, Brute, Monster, Mystical</item>
+        <item>095 Count Nefaria Lethal Legion, Maggia</item>
+        <item>096 Loki Asgardian, Deity, Mystical</item>
+        <item>097 Giant-Man Scientist, S.H.I.E.L.D., Ultimates</item>
+        <item>201 Alex Summers X-Factor, X-Men</item>
+        <item>202 Simon Williams Avengers, Force Works, West Coast Avengers</item>
+        <item>203 Angelica Jones Avengers, New Warriors, Teen</item>
+        <item>204 Tyrone Johnson Marvel Knights, Teen</item>
+        <item>205 Tandy Bowen Marvel Knights, New Warriors, Teen</item>
+        <item>206 Bishop of XSE Future, Warrior, X.S.E.</item>
+        <item>207 Clarice Ferguson Exiles, X-Men</item>
+        <item>208 Peter Parker Celebrity, Reporter, Scientist</item>
+        <item>209 Ted Sallis Defenders, Scientist</item>
+        <item>210 Narya Alpha Flight, Mystical, Police</item>
+        <item>211 Jean-Paul Beaubier Celebrity, Martial Artist</item>
+        <item>212 Walter Langkowski Alpha Flight, Scientist</item>
+        <item>213 Nathaniel Summers Future, X-Men</item>
+        <item>214 Wade Wilson Martial Artist, X-Men</item>
+        <item>215 Logan Spy, Soldier</item>
+        <item>216 Dr. Bruce Banner Scientist</item>
+        <item>217 Polaris Brotherhood of Mutants</item>
+        <item>218 Hulk Brute, Monster</item>
+        <item>219 Spider-Man No Keywords</item>
+        <item>220 Dark Phoenix Cosmic</item>
+        <item>221 Nova Cosmic, Herald, Fantastic Four</item>
+        <item>222 Hulk Brute, Monster</item>
+        <item>001 Statesman Freedom Phalanx, Paragon City, Soldier</item>
+        <item>002 Manticore Freedom Phalanx, Paragon City</item>
+        <item>003 Positron Armor, Freedom Phalanx, Paragon City, Scientist</item>
+        <item>004 Statesman Freedom Phalanx, Paragon City</item>
+        <item>001 Spoiler Gotham City, Teen</item>
+        <item>002 Spoiler Gotham City, Teen</item>
+        <item>003 Spoiler Birds of Prey, Gotham City</item>
+        <item>004 Hyena Animal</item>
+        <item>005 Hyena Animal</item>
+        <item>006 Hyena Animal, Society</item>
+        <item>007 Enchantress Mystical, Suicide Squad</item>
+        <item>008 Enchantress Mystical, Sentinels of Magic, Suicide Squad</item>
+        <item>009 Enchantress Mystical, Shadowpact</item>
+        <item>010 Talia Martial Artist</item>
+        <item>011 Talia League of Assassins</item>
+        <item>012 Talia League of Assassins, Society</item>
+        <item>013 Hourman Infinity Inc, Teen</item>
+        <item>014 Hourman Justice Society</item>
+        <item>015 Hourman Justice Society</item>
+        <item>016 Mr. Terrific Justice Society, Martial Artist, Scientist</item>
+        <item>017 Mr. Terrific Justice Society, Martial Artist, Scientist</item>
+        <item>018 Mr. Terrific Checkmate, Justice Society, Scientist</item>
+        <item>019 Star-Spangled Kid Teen</item>
+        <item>020 Star-Spangled Kid Justice Society, Teen</item>
+        <item>021 Stargirl Justice Society, Teen</item>
+        <item>022 Ravager Martial Artist, Teen</item>
+        <item>023 Ravager Martial Artist, Teen</item>
+        <item>024 Ravager Martial Artist, Teen, Teen Titans</item>
+        <item>025 Power Girl Infinity Inc, Justice Society</item>
+        <item>026 Power Girl Birds of Prey, Justice League Europe, Suicide Squad</item>
+        <item>027 Power Girl Justice Society</item>
+        <item>028 Impulse Central City, Future, Young Justice</item>
+        <item>029 Impulse Central City, Teen, Young Justice</item>
+        <item>030 Kid Flash Teen, Teen Titans</item>
+        <item>031 Kid Quantum Future, Legion of Super Heroes, Teen</item>
+        <item>032 Kid Quantum Future, Legion of Super Heroes, Teen</item>
+        <item>033 Kid Quantum Future, Legion of Super Heroes, Teen</item>
+        <item>034 Jinx Fearsome Five, Mystical</item>
+        <item>035 Jinx Fearsome Five, Mystical, Villainy Inc</item>
+        <item>036 Jinx Fearsome Five, Mystical, Society</item>
+        <item>037 Mr. Freeze Gotham City, Scientist</item>
+        <item>038 Mr. Freeze Gotham City, Scientist</item>
+        <item>039 Mr. Freeze Gotham City</item>
+        <item>040 Speedy Star City, Teen, Teen Titans</item>
+        <item>041 Arsenal Checkmate, Police, Teen Titans</item>
+        <item>042 Arsenal Outsiders, Star City, Teen Titans</item>
+        <item>043 Wildfire Armor, Future, Legion of Super Heroes, Teen</item>
+        <item>044 Wildfire Armor, Future, Legion of Super Heroes, Teen</item>
+        <item>045 Wildfire Armor, Future, Legion of Super Heroes</item>
+        <item>046 Superwoman Amazon, Crime Syndicate, Metropolis, Reporter</item>
+        <item>047 Superwoman Amazon, Crime Syndicate, Metropolis, Reporter</item>
+        <item>048 Superwoman Amazon, Crime Syndicate, Metropolis</item>
+        <item>049 The Demon Mystical</item>
+        <item>050 The Demon Detective, Mystical</item>
+        <item>051 The Demon Mystical</item>
+        <item>052 Obsidian Infinity Inc, Teen</item>
+        <item>053 Obsidian Infinity Inc, Mystical, Justice Society</item>
+        <item>054 Obsidian Justice Society</item>
+        <item>055 Jade Infinity Inc, Justice Society, Teen</item>
+        <item>056 Jade Green Lantern Corps</item>
+        <item>057 Jade Outsiders</item>
+        <item>058 Sinestro Green Lantern Corps, Ruler</item>
+        <item>059 Sinestro Injustice League, Sinestro Corps</item>
+        <item>060 Sinestro Sinestro Corps, Society</item>
+        <item>061 Blockbuster Brute, Suicide Squad, Secret Society of Super Villains</item>
+        <item>062 Blockbuster Brute, Secret Society of Super Villains</item>
+        <item>063 Blockbuster Bludhaven, Brute</item>
+        <item>064 Superboy Celebrity, Metropolis, Teen, Young Justice</item>
+        <item>065 Superboy Teen, Young Justice</item>
+        <item>066 Superboy Metropolis, Teen Titans</item>
+        <item>067 Persuader Future, Fatal Five</item>
+        <item>068 Persuader Future, Fatal Five</item>
+        <item>069 Persuader Metropolis, Suicide Squad</item>
+        <item>070 Captain Atom Justice League International, Soldier</item>
+        <item>071 Captain Atom Extreme Justice, Justice League International, Super
+			Buddies</item>
+        <item>072 Captain Atom Extreme Justice, L.A.W., Soldier</item>
+        <item>073 Major Force Brute, Soldier</item>
+        <item>074 Major Force Brute, Soldier</item>
+        <item>075 Major Force Brute</item>
+        <item>076 Ra\'s al-Ghul Past, League of Assassins, Scientist</item>
+        <item>077 Ra\'s al-Ghul Past, League of Assassins, Martial Artist</item>
+        <item>078 Ra\'s al-Ghul League of Assassins, Martial Artist, Scientist</item>
+        <item>079 The Joker Celebrity, Gotham City, Injustice Gang</item>
+        <item>080 The Joker Celebrity, Gotham City, Injustice League</item>
+        <item>081 The Joker Celebrity, Metropolis, Injustice Gang</item>
+        <item>082 Batman Detective, Gotham City, Martial Artist, Outsiders</item>
+        <item>083 Batman Gotham City, JLA, Justice League International, Justice
+			League of America</item>
+        <item>084 Batman Detective, Gotham City, Martial Artist, Scientist</item>
+        <item>085 Oracle Birds of Prey, Gotham City, JLA, Politician, suicide Squad</item>
+        <item>086 Hush Gotham City</item>
+        <item>087 Wonder Woman Amazon, Justice Society, Ruler</item>
+        <item>088 Ares Armor, Brute, Deity, Warrior</item>
+        <item>089 Ultraman Brute, Crime Syndicate</item>
+        <item>090 General Zod Soldier, Warrior</item>
+        <item>091 Prometheus Injustice Gang, Martial Artist</item>
+            </string-array>
+    <string-array name="unlisted_keywords_4">
+        <item>092 Mongul Brute, Ruler, Warrior</item>
+        <item>093 Hawkman Animal, Future, Warrior</item>
+        <item>094 Red Robin Future, Martial Artist</item>
+        <item>095 Flash Central City, Future</item>
+        <item>096 Green Lantern Future, Politician</item>
+        <item>097 Steel Armor, Infinity Inc, Metropolis, Teen</item>
+        <item>201 Victor Fries Gotham City, Scientist</item>
+        <item>202 Roy Harper, Jr. Checkmate, Martial Artist, Police</item>
+        <item>203 Drake Burroughs Armor, Future, Legion of Super Heroes, Teen</item>
+        <item>204 Lois Lane Amazon, Celebrity, Metropolis, Reporter</item>
+        <item>205 Etrigan Mystical, Shadowpact</item>
+        <item>206 Todd Rice Infinity Inc, Mystical</item>
+        <item>207 Jennifer-Lynn Hayden Green Lantern Corps, Justice Society</item>
+        <item>208 Sinestro of Korugar Brute, Green Lantern Corps, Ruler</item>
+        <item>209 Roland Desmond Bludhaven, Brute</item>
+        <item>210 Connor Kent Metropolis, Young Justice, Teen Titans, Teen</item>
+        <item>211 Nyeun Chun Ti Brute, Future, Fatal Five</item>
+        <item>212 Capt. Nathaniel Adam Justice League International, Soldier, Super Buddies</item>
+        <item>213 Clifford Zmeck Soldier</item>
+        <item>214 The Demon\'s Head Future, Past, League of Assassins</item>
+        <item>215 The Red Hood Gotham City</item>
+        <item>216 Bruce Wayne Celebrity, Gotham City</item>
+        <item>221 Mr. Freeze Gotham City, Scientist, Society</item>
+        <item>001 Lockjaw Animal, Inhumans</item>
+        <item>002 Lockjaw Animal, Inhumans</item>
+        <item>003 Lockjaw Animal, Fantastic Four, Inhumans</item>
+        <item>004 Black Knight Avengers, Scientist, Warrior</item>
+        <item>005 Black Knight Avengers, Defenders, Martial Artist, Scientist</item>
+        <item>006 Black Knight Avengers, Heroes for Hire,
+			Knights of Wundagore, Martial Artist</item>
+        <item>007 Mirage New Mutants, Psychic, Teen</item>
+        <item>008 Moonstar Psychic, S.H.I.E.L.D., X-Force</item>
+        <item>009 Moonstar New Mutants, Psychic, X-Men</item>
+        <item>010 Hawkeye Avengers, Martial Artist</item>
+        <item>011 Hawkeye Defenders, Martial Artist, West Coast Avengers</item>
+        <item>012 Hawkeye Avengers, Thunderbolts</item>
+        <item>013 Awesome Android Brute, Robot</item>
+        <item>014 Awesome Android Brute, Robot</item>
+        <item>015 Awesome Andy Robot</item>
+        <item>016 Goliath Lethal Legion, Masters of Evil</item>
+        <item>017 Atlas Thunderbolts</item>
+        <item>018 Atlas Thunderbolts</item>
+        <item>019 Yellowjacket Avengers, Scientist</item>
+        <item>020 Yellowjacket Brute, Scientist</item>
+        <item>021 Yellowjacket Avengers, Scientist</item>
+        <item>022 Ghost Rider Mystical</item>
+        <item>023 Ghost Rider Midnight Sons, Defenders, Mystical</item>
+        <item>024 Ghost Rider Champions, Fantastic Four, Mystical</item>
+        <item>025 Asp Serpent Society</item>
+        <item>026 Asp Femizons, Serpent Society</item>
+        <item>027 Asp Femizons, Serpent Society</item>
+        <item>028 Shocker No Keywords</item>
+        <item>029 Shocker Masters of Evil</item>
+        <item>030 Shocker Sinister Syndicate</item>
+        <item>031 Tigra Animal, Avengers, Martial Artist</item>
+        <item>032 Tigra Animal, Detective, West Coast Avengers</item>
+        <item>033 Tigra Animal, Avengers, Police</item>
+        <item>034 Jolt Teen, Thunderbolts</item>
+        <item>035 Jolt Teen, Thunderbolts</item>
+        <item>036 Jolt Young Allies</item>
+        <item>037 Karma New Mutants, Teen</item>
+        <item>038 Karma Madripoor, X-Men</item>
+        <item>039 Karma X-Men</item>
+        <item>040 Vulture No Keywords</item>
+        <item>041 Vulture Sinister Syndicate</item>
+        <item>042 Vulture No Keywords</item>
+        <item>043 Songbird Femizons, Masters of Evil, Thunderbolts</item>
+        <item>044 Songbird Thunderbolts</item>
+        <item>045 Songbird Thunderbolts</item>
+        <item>046 Iron Fist Heroes for Hire, Martial Artist</item>
+        <item>047 Iron Fist Heroes for Hire, Martial Artist, Mystical</item>
+        <item>048 Iron Fist Martial Artist, Marvel Knights</item>
+        <item>049 Power-Man Defenders, Martial Artist, Fantastic Four</item>
+        <item>050 Cage Heroes for Hire, Martial Artist, Marvel Knights</item>
+        <item>051 Power-Man Avengers, Martial Artist, Marvel Knights</item>
+        <item>052 Scarlet Witch Brotherhood of Mutants, Mystical</item>
+        <item>053 Scarlet Witch Mystical, Ultimate X-Men</item>
+        <item>054 Scarlet Witch Mystical, S.H.I.E.L.D., Ultimates</item>
+        <item>055 Rogue Brotherhood of Mutants, Teen</item>
+        <item>056 Rogue X-Men</item>
+        <item>057 Rogue X-Men, X.S.E.</item>
+        <item>058 Dr. Strange Midnight Sons, Mystical</item>
+        <item>059 Dr. Strange Defenders, Mystical</item>
+        <item>060 Dr. Strange Avengers, Mystical</item>
+        <item>061 Green Goblin Scientist</item>
+        <item>062 Green Goblin Scientist, Sinister Society</item>
+        <item>063 Green Goblin Scientist, Thunderbolts</item>
+        <item>064 Juggernaut Brotherhood of Mutants, Brute</item>
+        <item>065 Juggernaut Brute, Exemplars</item>
+        <item>066 Juggernaut X-Men</item>
+        <item>067 Sub-Mariner Atlantis, Ruler</item>
+        <item>068 Sub-Mariner Atlantis, Defenders, Ruler</item>
+        <item>069 Sub-Mariner Atlantis, Avengers, Ruler</item>
+        <item>070 Human Torch Fantastic Four, Teen</item>
+        <item>071 Human Torch Fantastic Four, Teen</item>
+        <item>072 Human Torch Celebrity, Fantastic Four</item>
+        <item>073 Invisible Woman Fantastic Four, Scientist</item>
+        <item>074 Invisible Woman Fantastic Four, Scientist</item>
+        <item>075 Invisible Woman Celebrity, Fantastic Four, Scientist</item>
+        <item>076 The Thing Brute, Fantastic Four</item>
+        <item>077 The Thing Fantastic Four</item>
+        <item>078 The Thing Celebrity, Fantastic Four</item>
+        <item>079 Mr. Fantastic Fantastic Four, Scientist</item>
+        <item>080 Mr. Fantastic Fantastic Four, Scientist</item>
+        <item>081 Mr. Fantastic Celebrity, Fantastic Four, Scientist</item>
+        <item>082 Nightcrawler Martial Artist, X-Men</item>
+        <item>083 Nightcrawler Excalibur, Martial Artist</item>
+        <item>084 Nightcrawler Martial Artist, X-Men, X.S.E.</item>
+        <item>085 Volcana No Keywords</item>
+        <item>086 Mad Thinker Maggia, Scientist</item>
+        <item>087 Arnim Zola Psychic, Scientist</item>
+        <item>088 Baron Mordo Mystical</item>
+        <item>089 Baron Blood Monster, Mystical</item>
+        <item>090 Nimrod Future, Robot</item>
+        <item>091 Orphan Martial Artist, X-Force, X-Statix</item>
+        <item>092 Wolverine Future, Martial Artist, X-Men</item>
+        <item>093 Warlock Excalibur, Fallen Angels, New Mutants, Robot</item>
+        <item>094 Professor Xavier Celebrity, Psychic, Ultimate X-Men</item>
+        <item>095 Dr. Doom Armor, Mystical, Ruler, Scientist</item>
+        <item>096 Spider-Man Future, Exiles, Scientist</item>
+        <item>201 Norman Osborn Celebrity, Hellfire Club, Scientist</item>
+        <item>202 Cain Marko Brute, Exemplars, Soldier</item>
+        <item>203 Namor All-Winners Squad, Atlantis, Invaders, Ruler</item>
+        <item>204 Johnny Storm Celebrity, Fantastic Four, Teen</item>
+        <item>205 Sue Storm Celebrity, Fantastic Four</item>
+        <item>206 Ben Grimm Celebrity, Fantastic Four, Monster</item>
+        <item>207 Reed Richards Celebrity, Fantastic Four, Scientist</item>
+        <item>208 Kurt Wagner Excalibur, Martial Artist, X-Men</item>
+        <item>209 Johnny Storm Celebrity, Fantastic Four</item>
+        <item>001 Lord Recluse Arachnos, Ruler, Soldier</item>
+        <item>002 Ghost Widow Arachnos, Spy</item>
+        <item>003 Captain Mako Arachnos, Mutant</item>
+        <item>004 Black Scorpion Arachnos, Armor, Soldier</item>
+        <item>001 Batman Detective, Gotham City, Martial Artist</item>
+        <item>002 Robin Gotham City, Martial Artist, Teen</item>
+        <item>003 Hawkgirl Justice League of America, Police</item>
+        <item>004 The Joker Gotham City, Injustice Gang, Injustice League</item>
+        <item>005 Harley Quinn Gotham City, Society</item>
+        <item>006 Man-Bat Animal, Gotham City, Monster, Scientist</item>
+        <item>007 Scarecrow Gotham City, Scientist</item>
+        <item>008 Scarecrow Gotham City, Injustice Gang</item>
+        <item>009 Scarecrow Gotham City, Society</item>
+        <item>010 Beast Boy Animal, Celebrity, Doom Patrol, Teen</item>
+        <item>011 Changeling Animal, Teen, Teen Titans</item>
+        <item>012 Beast Boy Animal, Doom Patrol, Teen, Teen Titans</item>
+        <item>013 Robin Detective, Gotham City, Martial Artist</item>
+        <item>014 Robin Detective, Gotham City, Teen, Young Justice</item>
+        <item>015 Robin Detective, Martial Artist, Teen, Teen Titans</item>
+        <item>016 Cheetah Animal</item>
+        <item>017 Cheetah Animal, Villainy Inc</item>
+        <item>018 Cheetah Animal, Society</item>
+        <item>019 Blackfire Ruler, Warrior</item>
+        <item>020 Blackfire Warrior</item>
+        <item>021 Blackfire Warrior</item>
+        <item>022 Starfire Ruler, Teen, Teen Titans</item>
+        <item>023 Starfire Celebrity, Teen Titans</item>
+        <item>024 Starfire Outsiders, Teen Titans</item>
+        <item>025 Aquaman Atlantis, Ruler</item>
+        <item>026 Aquaman Atlantis, Justice League of America, JLA, Ruler</item>
+        <item>027 Aquaman Atlantis, Justice League International, JLA, Ruler</item>
+        <item>028 Raven Mystical, Teen, Teen Titans</item>
+        <item>029 Raven Mystical, Teen Titans</item>
+        <item>030 Raven Mystical, Sentinels of Magic, Teen Titans</item>
+        <item>031 Wonder Woman Amazon, Ruler, Warrior</item>
+        <item>032 Wonder Woman Amazon, Justice League of America</item>
+        <item>033 Wonder Woman Amazon, Justice League International, JLA</item>
+        <item>034 Bizarro Metropolis, Brute</item>
+        <item>035 Bizarro Metropolis</item>
+        <item>036 Bizarro Metropolis</item>
+        <item>037 The Joker Celebrity, Metropolis</item>
+        <item>038 The Joker Celebrity, Gotham City, Injustice League</item>
+        <item>039 The Joker Celebrity, Gotham City, Injustice Gang</item>
+        <item>040 Batman Justice League of America, Justice League International,
+			JLA</item>
+        <item>041 Batman Detective, Martial Artist, Scientist</item>
+        <item>042 Batman Celebrity, Bludhaven, Gotham City, Metropolis</item>
+        <item>043 Darkseid Apokolips, Cosmic, Ruler</item>
+        <item>044 Darkseid Apokolips, Ruler, Secret Society of Super Villains</item>
+        <item>045 Darkseid Apokolips, New Gods, Ruler</item>
+        <item>046 Superman Celebrity, Metropolis, Reporter</item>
+        <item>047 Superman JLA, Justice League of America, Justice League</item>
+        <item>048 Superman Metropolis, JLA, Justice League of America, Justice
+			League</item>
+        <item>049 Ra\'s al-Ghul Past, League of Assassins, Martial Artist, Scientist</item>
+        <item>050 Brainiac Robot, Scientist</item>
+        <item>051 Lex Luthor Armor, Injustice League, Scientist, Society</item>
+        <item>052 Terra Teen, Teen Titans</item>
+        <item>053 Cyborg Robot, Teen, Teen Titans</item>
+        <item>054 The Flash Central City, Justice League International, Justice League
+			Europe, JLA</item>
+        <item>201 Dr. Jonathan Crane Gotham City, Scientist</item>
+        <item>202 Gar Logan Animal, Doom Patrol, Teen Titans</item>
+        <item>203 Tim Drake Detective, Gotham City, Martial Artist, Teen</item>
+        <item>204 Barbara Ann Minerva Animal</item>
+        <item>205 Princess Komand\'r Ruler</item>
+        <item>206 Princess Koriand\'r Ruler, Teen Titans</item>
+        <item>207 Dark Knight Detective Detective, Gotham City, Martial Artist</item>
+        <item>208 Batman (Promo) Gotham City, Martial Artist</item>
+        <item>209 Professor Zoom Future, Secret Society of Super Villains</item>
+        <item>001 Firebrand Armor</item>
+        <item>002 Firebrand Armor</item>
+        <item>003 Firebrand Armor</item>
+        <item>004 Paladin Soldier</item>
+        <item>005 Paladin Wild Pack</item>
+        <item>006 Paladin Heroes for Hire</item>
+        <item>007 Lorelei Asgardian</item>
+        <item>008 Lorelei Asgardian</item>
+        <item>009 Lorelei Asgardian</item>
+        <item>010 Diamond Lil Omega Flight</item>
+        <item>011 Diamond Lil Alpha Flight, Brute</item>
+        <item>012 Diamond Lil Alpha Flight</item>
+        <item>013 Echo Martial Artist</item>
+        <item>014 Echo Martial Artist</item>
+        <item>015 Echo Avengers, Martial Artist</item>
+        <item>016 Killer Shrike No Keywords</item>
+        <item>017 Killer Shrike No Keywords</item>
+        <item>018 Killer Shrike No Keywords</item>
+        <item>019 Thunderbird Mutant, Soldier, X-Men</item>
+        <item>020 Thunderbird Hellions, Mutant</item>
+        <item>021 Warpath New Mutants, X-Force, X-Men</item>
+        <item>022 Banshee Mutant, Police</item>
+        <item>023 Banshee Mutant, X-Men</item>
+        <item>024 Banshee Generation X, Mutant, X-Men</item>
+        <item>025 Spymaster Spy</item>
+        <item>026 Spymaster Spy</item>
+        <item>027 Spymaster Spy</item>
+        <item>028 Ghost Spy</item>
+        <item>029 Ghost Spy</item>
+        <item>030 Ghost Spy</item>
+        <item>031 Magma Mutant, New Mutants</item>
+        <item>032 Magma Hellions, Mutant, New Mutants</item>
+        <item>033 Magma Mutant, X-Men</item>
+        <item>034 Marrina Alpha Flight, Beta Flight</item>
+        <item>035 Marrina Alpha Flight, Avengers</item>
+        <item>036 Marrina Animal, Monster</item>
+        <item>037 Thunderball Scientist, Wrecking Crew</item>
+        <item>038 Thunderball Scientist, Wrecking Crew</item>
+        <item>039 Thunderball Scientist, Wrecking Crew</item>
+        <item>040 Aurora Alpha Flight, Mutant</item>
+        <item>041 Aurora Alpha Flight, Mutant</item>
+        <item>042 Aurora Weapon X</item>
+        <item>043 Cannonball Mutant, New Mutants, Teen</item>
+        <item>044 Cannonball Mutant, X-Force</item>
+        <item>045 Cannonball Mutant, X-Force, X-Men</item>
+        <item>046 Wendigo Monster</item>
+        <item>047 Wendigo Brute, Monster</item>
+        <item>048 Wendigo Monster</item>
+        <item>049 Shaman Alpha Flight, Mystical</item>
+        <item>050 Shaman Alpha Flight, Mystical</item>
+        <item>051 Shaman Alpha Flight, Mystical</item>
+        <item>052 Quicksilver Brotherhood of Mutants, Mutant</item>
+        <item>053 Quicksilver Avengers, Inhumans, Mutant</item>
+        <item>054 Quicksilver Mutant, X-Factor</item>
+        <item>055 Psylocke Mutant, Psychic, Spy</item>
+        <item>056 Psylocke Mutant, Psychic, X-Men</item>
+        <item>057 Psylocke Martial Artist, Mutant, X-Men</item>
+        <item>058 Sunfire Mutant</item>
+        <item>059 Sunfire Mutant, X-Men</item>
+        <item>060 Sunfire Mutant</item>
+        <item>061 Dazzler Celebrity</item>
+        <item>062 Dazzler Celebrity, Ultimate X-Men</item>
+        <item>063 Dazzler Ultimate X-Men</item>
+        <item>064 Executioner Asgardian, Masters of Evil</item>
+        <item>065 Executioner Asgardian</item>
+        <item>066 Executioner Asgardian, Warrior</item>
+        <item>067 War Machine Armor, Soldier</item>
+        <item>068 War Machine Armor, West Coast Avengers</item>
+        <item>069 War Machine Armor, Soldier</item>
+        <item>070 Crimson Dynamo Armor, Scientist</item>
+        <item>071 Crimson Dynamo Armor</item>
+        <item>072 Crimson Dynamo Armor</item>
+        <item>073 Titanium Man Armor</item>
+        <item>074 Titanium Man Armor</item>
+        <item>075 Titanium Man Armor</item>
+        <item>076 Iron Man Armor, Avengers, Scientist</item>
+        <item>077 Iron Man Armor, Scientist, West Coast Avengers</item>
+        <item>078 Iron Man Armor, Avengers, Illuminati, Scientist</item>
+        <item>079 Captain America Avengers, Invaders, Past, Soldier</item>
+        <item>080 Captain America Avengers, Soldier</item>
+        <item>081 Captain America Avengers</item>
+        <item>082 Ultron-5 Masters of Evil, Robot</item>
+        <item>083 Ultron-11 Robot</item>
+        <item>084 Ultron-16 Robot</item>
+        <item>085 Crystal Avengers, Fantastic Four, Inhumans</item>
+        <item>086 Shathra Animal, Mystical</item>
+        <item>087 Jocasta Avengers, Robot</item>
+        <item>088 Iron Man Armor, Avengers, Scientist</item>
+        <item>089 Black King Hellfire Club, Mutant</item>
+        <item>090 Iron Monger Armor</item>
+        <item>091 Sentry Avengers</item>
+        <item>092 Spider-Woman Avengers, Detective, S.H.I.E.L.D., Spy</item>
+        <item>093 Spider-Man Celebrity, Mutant</item>
+        <item>094 Mystique Mutant, S.H.I.E.L.D., Spy</item>
+        <item>095 Wolverine Mutant, S.H.I.E.L.D., Soldier, Spy</item>
+        <item>096 Magneto Mutant, Ruler</item>
+        <item>201 Eliot Franklin Scientist, Wrecking Crew</item>
+        <item>202 Jeanne-Marie Beaubier Alpha Flight</item>
+        <item>203 Sam Guthrie Mutant, New Mutants, X-Men</item>
+        <item>204 Georges Baptiste Animal, Brute, Monster</item>
+        <item>205 Talisman Mystical</item>
+        <item>206 Sir Pietro Maximoff Mutant</item>
+        <item>207 Captain Britain Captain Britain Corps, Mutant, Psychic</item>
+        <item>208 Shiro Yoshida Big Hero 6, Mutant</item>
+        <item>209 Ali Blair Celebrity, Teen, Ultimate X-Men</item>
+        <item>210 Skurge Asgardian, Brute, Warrior</item>
+        <item>211 James Rhodes Armor, Soldier</item>
+        <item>212 Gennady Gavrilov Armor, Teen</item>
+        <item>213 The Gremlin Armor, Mutant</item>
+        <item>214 Tony Stark Armor, Scientist, S.H.I.E.L.D.</item>
+        <item>215 John Walker Soldier</item>
+        <item>216 Ultron-13 Lethal Legion, Masters of Evil, Robot</item>
+        <item>217 Jessica Drew HYDRA</item>
+        <item>218 Anthony Stark Armor, Scientist</item>
+        <item>219 Wolverine Mutant</item>
+        <item>220 Wolverine X-Men</item>
+        <item>221 Phoenix Cosmic, Psychic, X-Men</item>
+        <item>001 HIVE Trooper HIVE, Soldier</item>
+        <item>002 HIVE Trooper HIVE, Soldier</item>
+        <item>003 HIVE Trooper HIVE, Soldier</item>
+        <item>004 Ragman No Keywords</item>
+        <item>005 Ragman Mystical, Sentinels of Magic</item>
+        <item>006 Ragman Mystical, Shadowpact</item>
+        <item>007 Vixen Animal, Justice League of America</item>
+        <item>008 Vixen Animal, Birds of Prey, Suicide Squad</item>
+        <item>009 Vixen Animal, Justice League</item>
+        <item>010 Black Mask No Keywords</item>
+        <item>011 Black Mask No Keywords</item>
+        <item>012 Black Mask No Keywords</item>
+        <item>013 Trickster Teen</item>
+        <item>014 Trickster Rogues, Teen</item>
+        <item>015 Trickster Rogues, Teen</item>
+        <item>016 Azrael Gotham City, Warrior</item>
+        <item>017 Azrael Gotham City</item>
+        <item>018 Azrael Mystical, Warrior</item>
+        <item>019 Katana Martial Artist, Outsiders</item>
+        <item>020 Katana Martial Artist, Outsiders</item>
+        <item>021 Katana Birds of Prey, Martial Artist</item>
+        <item>022 Dr. Mid-Nite Scientist</item>
+        <item>023 Dr. Mid-Nite Justice Society, Scientist</item>
+        <item>024 Dr. Mid-Nite Justice Society, Scientist</item>
+        <item>025 Green Flame Global Guardians, Spy</item>
+        <item>026 Fire Justice League International</item>
+        <item>027 Fire Checkmate, Justice League International, Spy</item>
+        <item>028 Icemaiden Global Guardians, Mystical</item>
+        <item>029 Ice Justice League International</item>
+        <item>030 Ice Justice League International</item>
+        <item>031 Speedy Star City, Teen</item>
+        <item>032 Speedy Star City, Teen, Teen Titans</item>
+        <item>033 Speedy Star City</item>
+        <item>034 Shadow Lass Future, Legion of Super Heroes, Teen</item>
+        <item>035 Umbra Future, Legion of Super Heroes, Teen</item>
+        <item>036 Shadow Lass Future, Legion of Super Heroes, Teen</item>
+        <item>037 Captain Cold Legion of Doom, Rogues,
+			Secret Society of Super Villains</item>
+        <item>038 Captain Cold Central City, Rogues, Suicide Squad</item>
+        <item>039 Captain Cold Central City, Legion of Doom, Rogues</item>
+        <item>040 Elongated Man Celebrity, Detective, Justice League of America</item>
+        <item>041 Elongated Man Detective, Justice League of America, Justice League
+			Europe</item>
+        <item>042 Elongated Man Detective, Doom Patrol, Opal City, Super Buddies</item>
+        <item>043 Blue Devil No Keywords</item>
+        <item>044 Blue Devil Mystical, Sentinels of Magic</item>
+        <item>045 Blue Devil Mystical, Shadowpact</item>
+        <item>046 Black Lightning Metropolis</item>
+        <item>047 Black Lightning Outsiders</item>
+        <item>048 Black Lightning Outsiders, Politician</item>
+        <item>049 Green Lantern Green Lantern Corps, Teen Titans</item>
+        <item>050 Green Lantern Green Lantern Corps, JLA</item>
+        <item>051 Green Lantern Green Lantern Corps</item>
+        <item>052 Manhunter Police</item>
+        <item>053 Manhunter Police, Spy</item>
+        <item>054 Manhunter Birds of Prey, Spy</item>
+        <item>055 Clayface Celebrity, Gotham City, Mud Pack</item>
+        <item>056 Clayface Brute, Gotham City, Mud Pack</item>
+        <item>057 Clayface Brute, Gotham City, Monster, Mud Pack</item>
+        <item>058 Metamorpho Seven Soldiers</item>
+        <item>059 Metamorpho Outsiders</item>
+        <item>060 Metamorpho Justice League Europe, Outsiders</item>
+        <item>061 Emerald Empress Fatal Five, Future</item>
+        <item>062 Emerald Empress Fatal Five, Future</item>
+        <item>063 Emerald Empress Fatal Five, Future, Ruler</item>
+        <item>064 Dr. Light Fearsome Five, Injustice League, Scientist</item>
+        <item>065 Dr. Light Suicide Squad</item>
+        <item>066 Dr. Light Injustice Gang</item>
+        <item>067 Superman Blue JLA, Metropolis, Reporter</item>
+        <item>068 Superman Red JLA, Metropolis</item>
+        <item>069 Superman JLA</item>
+        <item>070 Red Tornado Justice League of America, Robot</item>
+        <item>071 Red Tornado Justice League of America, Robot, Young Justice</item>
+        <item>072 Red Tornado Mystical, Primal Force, Robot, Young Justice</item>
+        <item>073 Geo-Force Outsiders, Ruler</item>
+        <item>074 Geo-Force Outsiders, Ruler</item>
+        <item>075 Geo-Force Outsiders</item>
+        <item>076 OMAC Checkmate, Robot, Spy</item>
+        <item>077 OMAC Checkmate, Robot, Soldier</item>
+        <item>078 OMAC Checkmate, Robot, Soldier, Spy</item>
+        <item>079 Mary Marvel Fawcett City</item>
+        <item>080 Mary Marvel Fawcett City</item>
+        <item>081 Mary Marvel Fawcett City, Super Buddies</item>
+        <item>082 Monsieur Mallah Animal, Brotherhood of Evil</item>
+        <item>083 The Brain Brotherhood of Evil, Scientist</item>
+        <item>084 Monsieur Mallah &amp; the Brain Animal, Brotherhood of Evil, Scientist</item>
+        <item>085 Felix Faust Injustice League, Mystical,
+			Secret Society of Super Villains</item>
+        <item>086 Guardian Police, Reporter, Seven Soldiers</item>
+        <item>087 Crimson Avenger Mystical</item>
+        <item>088 Ambush Bug No Keywords</item>
+        <item>089 Dr. Psycho Psychic</item>
+        <item>090 Orion JLA, New Gods, Soldier, Warrior</item>
+        <item>091 Jonah Hex Past, Soldier</item>
+        <item>092 Eclipso Mystical</item>
+        <item>093 Captain Boomerang Central City, Rogues</item>
+        <item>094 Owlman Crime Syndicate, Gotham City, Martial Artist</item>
+        <item>095 Kalibak Brute, New Gods</item>
+        <item>096 Adam Strange Justice League of America, Seven Soldiers,
+			Soldier</item>
+        <item>201 Len Snart Rogues</item>
+        <item>202 Ralph Dibny Detective, Justice League of America</item>
+        <item>203 Dan Cassidy Justice League Europe, Mystical</item>
+        <item>204 Jefferson Pierce Politician</item>
+        <item>205 Kyle Rayner JLA</item>
+        <item>206 Kate Spencer Police, Spy</item>
+        <item>207 Basil Karlo Brute, Monster, Mud Pack</item>
+        <item>208 Rex Mason Doom Patrol, Justice League Europe, Outsiders</item>
+        <item>209 Emerald Eye of Ekron Future</item>
+        <item>210 Arthur Light Fearsome Five, Injustice Gang, Injustice League</item>
+        <item>211 Clark Kent JLA, Metropolis, Reporter</item>
+        <item>212 Tornado Tyrant Monster, Mystical</item>
+        <item>213 Prince Brion Markov Outsiders, Ruler</item>
+        <item>214 OMAC 5674 Checkmate, Robot, Soldier, Spy</item>
+        <item>215 Captain Marvel Fawcett City, Mystical</item>
+        <item>216 GeneGrafted Brain Scientist</item>
+        <item>217 Krypto Animal</item>
+        <item>218 Superman Metropolis</item>
+        <item>219 Parallax No Keywords</item>
+        <item>220 Ultimate Clayface Brute, Monster, Mud Pack</item>
+        <item>221 Superman Robot Robot</item>
+        <item>222 The Man of Steel Gotham City, JLA, Justice League, Metropolis</item>
+        <item>223 Dark Knight Detective, Gotham City, JLA, Justice League,
+			Metropolis</item>
+        <item>225 Spectre Justice Society, Mystical, Quintessence</item>
+        <item>001 HYDRA Footsoldier HYDRA, Soldier</item>
+        <item>002 HYDRA Technician HYDRA, Scientist</item>
+        <item>003 HYDRA Officer HYDRA</item>
+        <item>004 S.H.I.E.L.D. Trooper S.H.I.E.L.D., Soldier</item>
+        <item>005 S.H.I.E.L.D. Sniper S.H.I.E.L.D., Soldier</item>
+        <item>006 S.H.I.E.L.D. Agent S.H.I.E.L.D., Spy</item>
+        <item>007 Swordsman Lethal Legion</item>
+        <item>008 Swordsman Avengers</item>
+        <item>009 Swordsman Lethal Legion</item>
+        <item>010 Hydro Man Sinister Syndicate</item>
+        <item>011 Hydro Man Sinister Syndicate</item>
+        <item>012 Hydro Man Frightful Four, Masters of Evil, Sinister Syndicate</item>
+        <item>013 Paste Pot Pete Frightful Four, Scientist</item>
+        <item>014 Trapster Frightful Four, Scientist</item>
+        <item>015 Trapster Frightful Four, Scientist</item>
+        <item>016 Mockingbird S.H.I.E.L.D., Spy</item>
+        <item>017 Mockingbird Avengers, West Coast Avengers</item>
+        <item>018 Mockingbird Avengers</item>
+        <item>019 Jewel No Keywords</item>
+        <item>020 Jessica Jones Detective</item>
+        <item>021 Jessica Jones Detective, Reporter</item>
+        <item>022 Beetle Armor, Scientist, Sinister Syndicate</item>
+        <item>023 Beetle Armor, Masters of Evil</item>
+        <item>024 Beetle Armor, Sinister Syndicate</item>
+        <item>025 Wingless Wizard Frightful Four, Scientist</item>
+        <item>026 Wizard Frightful Four, Scientist</item>
+        <item>027 Wizard Frightful Four, Scientist</item>
+        <item>028 Electro Sinister Syndicate</item>
+        <item>029 Electro Sinister Syndicate</item>
+        <item>030 Electro No Keywords</item>
+        <item>031 Fixer HYDRA, Masters of Evil, Scientist</item>
+        <item>032 Techno Masters of Evil, Robot, Scientist, Thunderbolts</item>
+        <item>033 Fixer Scientist, Thunderbolts</item>
+        <item>034 Jack O\' Lantern Sinister Syndicate</item>
+        <item>035 Jack O\' Lantern Skeleton Crew</item>
+        <item>036 Jack O\' Lantern No Keywords</item>
+        <item>037 Sprite Mutant, New Mutants, Teen, X-Men</item>
+        <item>038 Shadowcat Excalibur, Mutant, Teen, X-Men</item>
+        <item>039 Shadowcat Excalibur, Mutant, X-Men</item>
+        <item>040 MACH-1 Armor, Scientist, Thunderbolts</item>
+        <item>041 MACH-3 Armor, Scientist, Thunderbolts, V Battalion</item>
+        <item>042 MACH-4 Armor, Scientist, Thunderbolts</item>
+        <item>043 Nighthawk Squadron Sinister</item>
+        <item>044 Nighthawk No Keywords</item>
+        <item>045 Nighthawk Defenders, Thunderbolts</item>
+        <item>046 Valkyrie Asgardian, Warrior</item>
+        <item>047 Valkyrie Defenders, Mystical, Warrior</item>
+        <item>048 Valkyrie Asgardian, Defenders, Mystical, Warrior</item>
+        <item>049 Multiple Man Mutant</item>
+        <item>050 Multiple Man Mutant, X-Factor</item>
+        <item>051 Madrox Detective, Mutant, X-Factor</item>
+        <item>052 Deathlok Future, Robot, Soldier</item>
+        <item>053 Deathlok Robot, Soldier</item>
+        <item>054 Deathlok Robot, Soldier</item>
+        <item>055 Falcon No Keywords</item>
+        <item>056 Falcon Avengers</item>
+        <item>057 Falcon No Keywords</item>
+        <item>058 Spider-Man Reporter, Teen</item>
+        <item>059 Spider-Man Reporter, Scientist</item>
+        <item>060 Spider-Man Avengers, Scientist</item>
+        <item>061 Radioactive Man Masters of Evil, Scientist</item>
+        <item>062 Radioactive Man Brute, Scientist</item>
+        <item>063 Radioactive Man Scientist, Thunderbolts</item>
+        <item>064 Captain Marvel Avengers, Police</item>
+        <item>065 Photon Avengers</item>
+        <item>066 Pulsar Nextwave</item>
+        <item>067 Rhino Brute</item>
+        <item>068 Rhino Brute, Sinister Syndicate</item>
+        <item>069 Rhino Brute</item>
+            </string-array>
+    <string-array name="unlisted_keywords_5">
+        <item>070 Whizzer Squadron Sinister</item>
+        <item>071 Speed Demon Sinister Syndicate</item>
+        <item>072 Speed Demon Thunderbolts</item>
+        <item>073 Daredevil Martial Artist</item>
+        <item>074 Daredevil Martial Artist</item>
+        <item>075 Daredevil Martial Artist</item>
+        <item>076 Meggan Excalibur, Mystical</item>
+        <item>077 Meggan Animal, Excalibur, Mystical</item>
+        <item>078 Meggan Excalibur, Mystical, Ruler</item>
+        <item>079 Bullseye No Keywords</item>
+        <item>080 Bullseye No Keywords</item>
+        <item>081 Bullseye Thunderbolts</item>
+        <item>082 Kraven Sinister Syndicate, Warrior</item>
+        <item>083 Kraven No Keywords</item>
+        <item>084 Kraven Sinister Syndicate</item>
+        <item>085 Forge Mutant, X-Factor, X-Men</item>
+        <item>086 Purple Man No Keywords</item>
+        <item>087 Maximus Inhumans, Psychic</item>
+        <item>088 Baron Strucker HYDRA, Past, Soldier</item>
+        <item>089 Charcoal Brute, Teen, Thunderbolts</item>
+        <item>090 Wolverine Avengers, Mutant, X-Men</item>
+        <item>091 Nick Fury S.H.I.E.L.D., Soldier, Spy, Ultimates</item>
+        <item>092 Arkon Ruler, Warrior</item>
+        <item>093 Ka-Zar Warrior</item>
+        <item>094 Scarlet Spider New Warriors</item>
+        <item>095 Stilt Man Armor</item>
+        <item>096 Black Bolt Illuminati, Inhumans, Ruler</item>
+        <item>201 Soulsword Wielder Mutant, Mystical, Teen</item>
+        <item>202 Abner Jenkins Armor, Scientist</item>
+        <item>203 Kyle Richmond Defenders, Squadron Sinister, Thunderbolts</item>
+        <item>204 Brunnhilde Asgardian, Defenders, Deity, Warrior</item>
+        <item>205 James Madrox Mutant</item>
+        <item>206 Michael Roth Robot, Soldier</item>
+        <item>207 Sam Wilson S.H.I.E.L.D.</item>
+        <item>208 Symbiote Monster</item>
+        <item>209 Dr. Chen Lu Scientist</item>
+        <item>210 Monica Rambeau Avengers, Nextwave</item>
+        <item>211 Aleksei Mikhailovich Brute</item>
+        <item>212 James Sanders No Keywords</item>
+        <item>213 Kingpin of Hell\'s Kitchen Martial Artist</item>
+        <item>214 Goblin Princess Mystical</item>
+        <item>215 Lester No Keywords</item>
+        <item>216 Kraven the Spider Animal, Warrior</item>
+        <item>217 Spider-Man Armor</item>
+        <item>218 Venom Monster, Reporter</item>
+        <item>219 Snap Wilson No Keywords</item>
+        <item>001 Cyclops Mutant, X-Factor</item>
+        <item>002 Colossus Brute, Mutant, X-Men</item>
+        <item>003 Angel Defenders, Mutant, X-Factor</item>
+        <item>004 Jean Grey Mutant, Psychic, X-Factor</item>
+        <item>005 Beast Mutant, Scientist, X-Factor</item>
+        <item>006 Storm Mutant, X-Men</item>
+        <item>001 Atom Smasher Infinity Inc, Justice Society, Suicide Squad</item>
+        <item>002 Validus Brute, Fatal Five, Future</item>
+        <item>003 Colossal Boy Future, Legion of Super Heroes, Teen</item>
+        <item>004 Rita Farr Celebrity, Doom Patrol</item>
+        <item>005 Giganta Legion of Doom, Scientist</item>
+        <item>006 Alloy Future, Metal Men</item>
+        <item>007 Chemo Monster</item>
+        <item>001 Invincible Guardians of the Globe, Teen</item>
+        <item>002 Atom Eve Guardians of the Globe, Teen</item>
+        <item>003 Robot Guardians of the Globe, Robot, Scientist</item>
+        <item>004 Allen the Alien Police, Warrior</item>
+        <item>005 Omni-Man Guardians of the Globe, Soldier</item>
+        <item>006 Titan Brute</item>
+        <item>007 Angstrom Levy Scientist</item>
+        <item>001 G\'nort Animal, Green Lantern Corps, Justice League Antarctica,
+			Super Buddies</item>
+        <item>002 Ch\'p Green Lantern Corps</item>
+        <item>003 Abin Sur Green Lantern Corps</item>
+        <item>004 Arisia Green Lantern Corps</item>
+        <item>005 Katma Tui Green Lantern Corps</item>
+        <item>006 Ganthet Green Lantern Corps, Quintessence</item>
+        <item>007 Tomar Re Green Lantern Corps, Scientist</item>
+        <item>001 Colonel Logan Future, Mutant, Soldier</item>
+        <item>002 Hound Future, Mutant</item>
+        <item>003 Advanced Sentinel Future, Robot</item>
+        <item>001 Kree Warrior Kree, Soldier</item>
+        <item>002 Kree Captain Kree, Soldier</item>
+        <item>003 Kree Colonel Kree, Soldier</item>
+        <item>004 Skrull Infiltrator Skrulls, Spy</item>
+        <item>005 Skrull Warrior Skrulls, Soldier</item>
+        <item>006 Skrull General Skrulls, Soldier</item>
+        <item>007 Shi\'ar Warrior Shi\'ar, Soldier</item>
+        <item>008 Shi\'ar Borderer Shi\'ar, Soldier</item>
+        <item>009 Shi\'ar Admiral Shi\'ar, Soldier</item>
+        <item>010 Badoon Warrior Badoon, Soldier</item>
+        <item>011 Badoon Guard Badoon, Soldier</item>
+        <item>012 Badoon Commander Badoon, Soldier</item>
+        <item>013 Night Thrasher Martial Artist, New Warriors, Teen</item>
+        <item>014 Night Thrasher Martial Artist, Teen</item>
+        <item>015 Night Thrasher Celebrity, Martial Artist, New Warriors</item>
+        <item>016 Jubilee Mutant, Teen, X-Men</item>
+        <item>017 Jubilee Generation X, Mutant, Teen</item>
+        <item>018 Jubilee Mutant</item>
+        <item>019 Super-Apes: Igor Animal, Super-Apes</item>
+        <item>020 Super-Apes: Mikhlo Animal, Super-Apes</item>
+        <item>021 Super-Apes: Peotor Animal, Super-Apes</item>
+        <item>022 Raza Robot, Martial Artist, Starjammers, Warrior</item>
+        <item>023 Raza Robot, Martial Artist, Starjammers</item>
+        <item>024 Raza Robot, Starjammers, Warrior</item>
+        <item>025 Sunspot Fallen Angels, Mutant, New Mutants, Teen</item>
+        <item>026 Sunspot Hellfire Club, Mutant, Teen, X-Force</item>
+        <item>027 Sunspot Hellfire Club, Mutant</item>
+        <item>028 Marvel Boy Mutant, New Warriors, Teen</item>
+        <item>029 Justice New Warriors, Teen</item>
+        <item>030 Justice Avengers, Mutant</item>
+        <item>031 Tessa Hellfire Club, Mutant, Spy</item>
+        <item>032 Sage Hellfire Club, Mutant, Psychic, X-Men</item>
+        <item>033 Sage Excalibur, Mutant, X-Men</item>
+        <item>034 Nocturne Exiles, Mutant, Mystical, X-Men</item>
+        <item>035 Nocturne Exiles, Hellfire Club, Mutant, Mystical</item>
+        <item>036 Nocturne Exiles, Mutant, Mystical</item>
+        <item>037 Nova New Warriors, Nova Corps, Police, Teen</item>
+        <item>038 Kid Nova Celebrity, New Warriors, Teen</item>
+        <item>039 Nova Nova Corps, Police, Soldier</item>
+        <item>040 Bulldozer Brute, Wrecking Crew</item>
+        <item>041 Bulldozer Brute, Masters of Evil, Wrecking Crew</item>
+        <item>042 Bulldozer Brute, Wrecking Crew</item>
+        <item>043 Aleta Future, Guardians of the Galaxy</item>
+        <item>044 Aleta Future, Guardians of the Galaxy</item>
+        <item>045 Starhawk Future, Guardians of the Galaxy</item>
+        <item>046 Kang Future, Scientist, Warrior</item>
+        <item>047 Kang Future, Past, Scientist, Soldier, Warrior</item>
+        <item>048 Kang the Conqueror Future, Past, Ruler, Scientist, Soldier</item>
+        <item>049 Ant-Man Avengers, Scientist</item>
+        <item>050 Ant-Man Scientist, West Coast Avengers</item>
+        <item>051 Ant-Man Avengers, Scientist</item>
+        <item>052 Weapon Alpha Alpha Flight, Armor, Scientist</item>
+        <item>053 Guardian Alpha Flight, Armor, Scientist</item>
+        <item>054 Vindicator Alpha Flight, Armor, Beta Flight, Scientist</item>
+        <item>055 She-Hulk Avengers, Brute</item>
+        <item>056 She-Hulk Fantastic Four</item>
+        <item>057 She-Hulk Avengers, S.H.I.E.L.D.</item>
+        <item>058 Vance Astro Guardians of the Galaxy, Psychic, Soldier</item>
+        <item>059 Vance Astro Future, Guardians of the Galaxy, Psychic</item>
+        <item>060 Major Victory Future, Guardians of the Galaxy, Psychic</item>
+        <item>061 Vision Avengers, Robot</item>
+        <item>062 Vision Avengers, Robot, West Coast Avengers</item>
+        <item>063 Vision Avengers, Robot, Young Avengers</item>
+        <item>064 Drax the Destroyer Brute</item>
+        <item>065 Drax the Destroyer Brute, Infinity Watch</item>
+        <item>066 Drax Warrior</item>
+        <item>067 Mantis Martial Artist</item>
+        <item>068 Mantis Martial Artist, West Coast Avengers</item>
+        <item>069 Mantis Martial Artist</item>
+        <item>070 Doctor Spectrum Squadron Sinister</item>
+        <item>071 Doctor Spectrum Squadron Supreme</item>
+        <item>072 Doctor Spectrum Squadron Supreme</item>
+        <item>073 Hyperion Eternal, Squadron Sinister</item>
+        <item>074 Hyperion Squadron Supreme</item>
+        <item>075 Hyperion Squadron Supreme</item>
+        <item>076 Silver Surfer Herald</item>
+        <item>077 Silver Surfer Defenders, Herald</item>
+        <item>078 Silver Surfer Cosmic, Herald</item>
+        <item>079 Legacy Kree</item>
+        <item>080 Captain Marvel Avengers, Cosmic, Kree</item>
+        <item>081 Photon Cosmic, Kree, Thunderbolts</item>
+        <item>082 Thor Asgardian, Avengers, Deity</item>
+        <item>083 Thor Asgardian, Deity, Thor Corps, Warrior</item>
+        <item>084 Thor Asgardian, Avengers, Deity, Warrior</item>
+        <item>085 Majestrix Lilandra Ruler, Shi\'ar, Starjammers</item>
+        <item>086 Red Ghost Scientist, Super-Apes</item>
+        <item>087 Machine Man Avengers, Nextwave, Robot</item>
+        <item>088 Karnak Inhumans, Martial Artist</item>
+        <item>089 Power Princess Exiles, Squadron Supreme, Warrior</item>
+        <item>090 Jack of Hearts Avengers</item>
+        <item>091 Super-Skrull Skrulls, Soldier</item>
+        <item>092 Korvac Cosmic, Future, Robot</item>
+        <item>093 Captain Mar-Vell Cosmic, Kree, Soldier, Spy</item>
+        <item>094 Binary Starjammers, X-Men</item>
+        <item>095 Graviton Scientist</item>
+        <item>096 Thanos Infinity Watch</item>
+        <item>201 Super-Nova No Keywords</item>
+        <item>202 Henry Camp Wrecking Crew</item>
+        <item>203 One-Who-Knows Cosmic, Guardians of the Galaxy</item>
+        <item>204 Nathaniel Richards Future, Past, Scientist, Soldier</item>
+        <item>205 Dr. Hank Pym Scientist, West Coast Avengers</item>
+        <item>206 James MacDonald Hudson Alpha Flight, Armor, Scientist</item>
+        <item>207 Jennifer Walters, Esq. No Keywords</item>
+        <item>208 Vance Astrovik Future, Guardians of the Galaxy, Psychic</item>
+        <item>209 Victor Shade Avengers, Robot</item>
+        <item>210 Arthur Douglas Brute</item>
+        <item>211 Celestial Madonna Martial Artist</item>
+        <item>212 Joe Ledger Squadron Supreme</item>
+        <item>213 King Hyperion Brute, Ruler</item>
+        <item>214 Norrin Radd Cosmic, Herald</item>
+        <item>215 Genis-Vell Cosmic, Kree</item>
+        <item>216 Dr. Donald Blake Avengers, Deity, Warrior</item>
+        <item>217 Iron Man Armor, Avengers</item>
+        <item>218 Doom Cosmic, Scientist</item>
+        <item>219 Skymax Skrulls, Squadron Supreme</item>
+        <item>220 Spider-Man Monster</item>
+        <item>221 Colonel America Monster</item>
+        <item>222 Wolverine Monster</item>
+        <item>223 Hulk Monster</item>
+        <item>224 The Mighty Thor Deity, Warrior</item>
+        <item>225 Fin Fang Foom Martial Artist, Monster</item>
+        <item>001 Hulk Brute, Future</item>
+        <item>002 Ravage Animal, Future</item>
+        <item>003 Punisher Future, Police, S.H.I.E.L.D., Soldier</item>
+        <item>004 Ghost Rider Future, Robot</item>
+        <item>005 Meanstreak Future, X-Men</item>
+        <item>006 Junkpile Brute, Future, Police, S.H.I.E.L.D., X-Men</item>
+        <item>007 Doom Armor, Future, Mystical, Politician, Scientist</item>
+        <item>001 Blackhawks Blackhawks, Past, Soldier</item>
+        <item>002 Blackhawks Blackhawks, Past, Soldier</item>
+        <item>003 Blackhawk Blackhawks, Past, Soldier</item>
+        <item>004 Phantom Lady All-Star Squadron, Freedom Fighters</item>
+        <item>005 Phantom Lady Freedom Fighters, Spy</item>
+        <item>006 Phantom Lady Freedom Fighters, Martial Artist, Spy</item>
+        <item>007 Robotman Doom Patrol, Robot</item>
+        <item>008 Robotman Doom Patrol, Robot</item>
+        <item>009 Robotman Doom Patrol, Robot</item>
+        <item>010 Ray Forgotten Heroes, Justice League of America, Teen</item>
+        <item>011 Ray Justice League of America, Justice League Task Force, Teen,
+			Young Justice</item>
+        <item>012 Ray Freedom Fighters</item>
+        <item>013 Wildcat All-Star Squadron, Justice Society</item>
+        <item>014 Wildcat Justice Society</item>
+        <item>015 Wildcat Justice Society</item>
+        <item>016 Damage Teen</item>
+        <item>017 Damage Teen, Teen Titans</item>
+        <item>018 Damage Justice Society</item>
+        <item>019 Halo Outsiders, Teen</item>
+        <item>020 Halo Outsiders</item>
+        <item>021 Halo Outsiders</item>
+        <item>022 Mano Fatal Five, Future, Mutant</item>
+        <item>023 Mano Fatal Five, Future</item>
+        <item>024 Mano Fatal Five, Future</item>
+        <item>025 Shadow Thief Injustice League</item>
+        <item>026 Shadow Thief No Keywords</item>
+        <item>027 Shadow Thief Society</item>
+        <item>028 Knockout Brute, Female Furies</item>
+        <item>029 Knockout Brute, Suicide Squad</item>
+        <item>030 Knockout Brute, Secret Six, Society</item>
+        <item>031 Copperhead Gotham City</item>
+        <item>032 Copperhead Suicide Squad</item>
+        <item>033 Copperhead Animal, Society</item>
+        <item>034 Question Detective, Reporter</item>
+        <item>035 Question Mystical, Reporter</item>
+        <item>036 Question Detective</item>
+        <item>037 Animal Man Animal, Forgotten Heroes</item>
+        <item>038 Animal Man Animal, Justice League Europe</item>
+        <item>039 Animal Man Animal</item>
+        <item>040 Cat-Man No Keywords</item>
+        <item>041 Cat-Man No Keywords</item>
+        <item>042 Cat-Man Secret Six</item>
+        <item>043 Booster Gold Celebrity, Future, Justice League International,
+			Metropolis</item>
+        <item>044 Booster Gold Conglomerate, Extreme Justice,
+			Justice League International, Super Buddies</item>
+        <item>045 Booster Gold Celebrity</item>
+        <item>046 Atom Scientist</item>
+        <item>047 Atom Teen Titans</item>
+        <item>048 Atom Justice League of America, Scientist</item>
+        <item>049 Mirror Master Injustice Gang, Rogues</item>
+        <item>050 Mirror Master Rogues, Secret Society of Super Villains</item>
+        <item>051 Mirror Master Injustice Gang, Rogues</item>
+        <item>052 Triplicate Girl Future, Legion of Super Heroes, Teen</item>
+        <item>053 Triplicate Girl Future, Legion of Super Heroes, Teen</item>
+        <item>054 Triplicate Girl Future, Legion of Super Heroes, Teen</item>
+        <item>055 Supergirl Teen</item>
+        <item>056 Supergirl Teen</item>
+        <item>057 Supergirl Legion of Super Heroes, Teen</item>
+        <item>058 Hawkman All-Star Squadron, Justice Society</item>
+        <item>059 Hawkman Justice League of America</item>
+        <item>060 Hawkman Justice Society, Warrior</item>
+        <item>061 Wonder Girl Teen, Young Justice</item>
+        <item>062 Wonder Girl Teen, Teen Titans</item>
+        <item>063 Wonder Girl Teen, Teen Titans</item>
+        <item>064 Cyborg Superman Metropolis, Robot</item>
+        <item>065 Cyborg Superman Robot</item>
+        <item>066 Cyborg Superman Manhunters, Robot</item>
+        <item>067 Steel Armor, Metropolis</item>
+        <item>068 Steel Armor, Justice League, Scientist</item>
+        <item>069 Steel Armor, Metropolis, Scientist</item>
+        <item>070 Mister Miracle New Gods</item>
+        <item>071 Mister Miracle Justice League International, New Gods</item>
+        <item>072 Mister Miracle New Gods</item>
+        <item>073 Mon-El Legion of Super Heroes, Teen</item>
+        <item>074 Valor L.E.G.I.O.N., Teen</item>
+        <item>075 M\'onel Legion of Super Heroes, Teen</item>
+        <item>076 Green Lantern All-Star Squadron, Justice Society, Mystical</item>
+        <item>077 Sentinel Justice Society, Mystical</item>
+        <item>078 Green Lantern Checkmate, Justice Society</item>
+        <item>079 Shazam! Kid, Mystical</item>
+        <item>080 Shazam! Kid, Justice League International</item>
+        <item>081 Shazam! Justice Society, Mystical</item>
+        <item>082 Martian Manhunter Detective, Justice League of America, Police</item>
+        <item>083 Martian Manhunter Justice League International, Justice League Task
+			Force</item>
+        <item>084 J\'onn J\'onzz Detective, Justice League, Police</item>
+        <item>085 Starman All-Star Squadron, Justice Society, Scientist</item>
+        <item>086 Sandman All-Star Squadron, Detective, Justice Society</item>
+        <item>087 Blue Beetle Armor, Teen</item>
+        <item>088 Mister Mind Animal, Monster Society of Evil, Psychic</item>
+        <item>089 Jakeem Thunder Justice Society, Teen</item>
+        <item>090 Gentleman Ghost Injustice Society, Mystical,
+			Secret Society of Super Villains</item>
+        <item>091 Vandal Savage Injustice Society, Secret Society of Super Villains,
+			Warrior</item>
+        <item>092 Johnny Quick Crime Syndicate</item>
+        <item>093 Negative Woman Checkmate, Doom Patrol</item>
+        <item>094 STRIPE All-Star Squadron, Armor, Infinity Inc,
+			Justice Society, Seven Soldiers</item>
+        <item>095 Batman Detective, Gotham City, Justice Society</item>
+        <item>096 Superman Justice Society, Metropolis</item>
+        <item>201 Animal Master Animal, Mystical</item>
+        <item>202 Michael Carter Celebrity</item>
+        <item>203 Ray Palmer Justice League of America, Scientist</item>
+        <item>204 Duo Damsel Legion of Super Heroes</item>
+        <item>205 Supergirl Teen</item>
+        <item>206 Carter Hall Justice League of America, Warrior</item>
+        <item>207 Cassie Sandsmark Teen, Teen Titans</item>
+        <item>208 Alan Scott Green Lantern Corps, Justice Society</item>
+        <item>209 Guardian of Eternity Mystical</item>
+        <item>210 Detective John Jones Detective, Justice League, Justice League of
+			America, Justice League International, Police</item>
+        <item>211 Wonder Woman Amazon, Justice Society</item>
+        <item>212 Dr. Fate Justice Society, Mystical</item>
+        <item>213 Johnny Thunder All-Star Squadron, Justice Society, Mystical</item>
+        <item>214 Alfred Pennyworth Gotham City</item>
+        <item>214 Batman Gotham City</item>
+        <item>215 Lois Lane Metropolis, Reporter</item>
+        <item>216 Wizard Shazam Mystical, Quintessence</item>
+        <item>217 Hippolyta Amazon, Justice Society, Ruler, Warrior</item>
+        <item>001 Hellboy B.P.R.D., Monster</item>
+        <item>002 Liz Sherman B.P.R.D.</item>
+        <item>003 Abe Sapien B.P.R.D.</item>
+        <item>004 Roger B.P.R.D., Brute, Mystical</item>
+        <item>005 Johann Kraus B.P.R.D., Psychic</item>
+        <item>006 Captain Ben Daimyo B.P.R.D., Soldier</item>
+        <item>007 Hellbaby Kid, Monster, Past</item>
+    </string-array>
+</resources>

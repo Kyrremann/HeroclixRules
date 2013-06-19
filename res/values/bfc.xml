@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="bfc">
+		<item>ALPHA STRIKE\n
+			Before the beginning of each player\'s first turn,
+			that player chooses a
+			team symbol possessed by an opposing character.
+			The first opposing
+			character with that team symbol that is defeated is
+			worth additional
+			victory points equal to half of that character\'s
+			point value.</item>
+		<item>ANTIMATTER UNIVERSE\n
+			Critical hits do not increase damage dealt.
+		</item>
+		<item>ARMOR WARS\n
+			When damage dealt is reduced by any power or effect,
+			increase the damage
+			dealt by 1 after it is reduced by all other game
+			effects.</item>
+		<item>ASSEMBLED\n
+			When a force has more than four characters on it with
+			the same team
+			symbol but different names, each character gets +1 to
+			its attack
+			value when adjacent to a friendly character with the same
+			team
+			symbol.</item>
+		<item>ASTRAL PLANE\n
+			Hindering terrain features become clear terrain
+			for movement purposes.</item>
+		<item>ATLANTIS RISING\n
+			All clear grounded terrain is water terrain.
+		</item>
+		<item>BACK ALLEY BRAWL\n
+			Characters who make close combat attacks using
+			no powers, feats, or team
+			abilities and who are not affected by the
+			powers, feats, or team
+			abilities of any friendly character get +2 to
+			their attack values.
+		</item>
+		<item>
+			BIZARRO WORLD\n
+			A critical miss does not deal the attacker
+			damage. Instead,
+			after the attack resolves the target of the attack is healed of 1
+			damage. After a critical hit is resolved, remove an action token
+			from the target of the attack if it has one or more action tokens.
+			</item>
+		<item>BLACKEST NIGHT\n
+			Characters can\'t be healed by standard powers or team abilities unless they
+			possess the Black Lantern Corps keyword.</item>
+		<item>
+			BLOOD CURSE\n
+			For each character that
+			KO\'s one or more opposing characters during a
+			turn, roll a d6 at the end of the turn. On a result of 1-3, that
+			character is dealt 1 damage.</item>
+		<item>BRIGHT LIGHTS\n
+			When determining line of fire, ignore Stealth and team abilities that
+			duplicate the effects of Stealth.</item>
+		<item>BRIGHTEST DAY\n
+			Characters do not take pushing damage for receiving a second token to use
+			Regeneration or Support.</item>
+		<item>COMMUNICATION BREAKDOWN\n
+			Before the beginning of the game\'s first turn, the player playing
+			Communication Breakdown chooses one combat value; that combat value
+			cannot be modified during the game. When rolling a six-sided die
+			for Leadership, subtract 1 from the result.</item>
+		<item>
+			COSMIC RADIATION INTERFERENCE\n
+			Hindering terrain markers and blocking terrain markers can\'t be placed.
+			(Debris terrain markers and special markers are unaffected.)</item>
+		<item>CRITICAL STRIKE\n
+			At the beginning of each of the first player\'s turns, place a strike
+			token on this card if there are fewer than six strike tokens on
+			this card. When a friendly character is attacking a single
+			opposing character and the result is a critical hit, you may
+			choose to deal damage normally, or deal damage equal to the number
+			of strike tokens on this card and then remove all strike tokens
+			from this card.</item>
+		<item>CROSSWINDS\n
+			Character that can use the Flight ability cannot use the Flight or Carry
+			ability.</item>
+		<item>DAMAGE CONTROL\n
+			Remove all objects from the game, none can be brought into the game. All
+			debris tokens are ignored for all purposes except for movement. At
+			the beginning of each player\'s turn, all destroyed walls and
+			blocking terrain (except Barrier markers and terrain in occupied
+			squares) are no longer destroyed.</item>
+		<item>DARKNESS\n
+			Characters with a range value greater than 6 have a range value of 6
+			instead. Perplex may not be used to increase a range value to a
+			number greater than 6. Powers and abilities that affect characters
+			up to 10 squares away instead affect characters only up to 6
+			squares away.</item>
+		<item>DAY OF DISCORD\n
+			Combat values cannot be replaced by the combat values of other
+			characters.</item>
+		<item>DEBRIS\n
+			Each player must place three additional standard objects in addition
+			to those included in their force.</item>
+		<item>DEEP SHADOWS\n
+			Treat all non-blocking terrain as hindering terrain for line of fire
+			purposes. Characters that have range values greater than 6 have
+			range values of 6 instead, and range values can\'t be modified to a
+			value more than 6. Powers, abilities, and effects able to affect
+			characters more than 6 squares away instead can only affect
+			characters up to 6 squares away.</item>
+		<item>DE-FEATED\n
+			At the beginning of each player\'s turn, that player must roll a d6.
+			On a result of 1, feats assigned to characters controlled by that
+			player are ignored until the beginning of the next player\'s turn.
+		</item>
+		<item>DEFIANCE\n
+			When one of your characters makes a critical hit, remove an action
+			token from a friendly character that has not been given an action
+			(including a free action) this turn.</item>
+		<item>DISBANDED!\n
+			Ignore all team abilities.</item>
+		<item>DISRUPTION\n
+			Characters on a themed team cannot use the Probability Control granted by a
+			themed team if they already have an action token placed on them.
+			When a character on a themed team uses the Probability Control
+			granted by a themed team, place two action tokens on the
+			character; the character does not take pushing damage from the
+			placement of these tokens.</item>
+		<item>EARTHQUAKE\n
+			At the beginning of each player\'s turn, that player rolls two
+			six-sided dice. If the combined result is 2-3, remove this
+			Earthquake from the game. Characters without the wing speed symbol
+			are each dealt 3 damage.</item>
+		<item>EXHAUSTION\n
+			Modify all pushing damage by +1.</item>
+		<item>
+			EXTRAORDINARY DAY\n
+			A roll of 11 or 12 on any attack roll is a critical hit.
+			A roll of 2 or 3 on any attack roll is a critical miss.
+							</item>
+		<item>FEARLESS ASSAULT\n
+			Characters get +2 to their speed values when they begin move actions in
+			their starting areas.</item>
+		<item>FIMBULWINTER\n
+			Characters with two action tokens modify their defense value by -1.</item>
+		<item>THE GREAT ARENA\n
+			Any successful attack roll resulting in doubles is a critical hit.
+		</item>
+		<item>GROUND ZERO\n
+			Whenever a character makes a successful close combat attack, roll a
+			six-sided die before damage is dealt. On a result of 5 or 6, the
+			attack deals 1 additional damage. On a result of 1 or 2, after
+			the attack resolves the attacking character is dealt 1
+			unavoidable damage.</item>
+		<item>GROUNDED\n
+			The Carry ability can\'t be used.</item>
+		<item>HIGH GRAVITY\n
+			Light objects are considered to be heavy objects, and heavy objects
+			are considered to be immobile objects. If a character carries
+			another character during an action, deal the carrying character
+			1 damage after the action resolves.</item>
+		<item>INERTIAL INTERFERENCE FIELD\n
+			When a character makes an attack using Running Shot, Charge, or
+			Hypersonic Speed, reduce damage dealt by 2. Knockback damage is
+			reduced by 1.</item>
+		<item>INFERNO\n
+			At the beginning of your turn, deal 1 damage to each friendly
+			character occupying hindering terrain not generated by powers or
+			abilities.</item>
+		<item>INFILTRATION\n
+			When placing characters at the beginning of the game, characters
+			that can use Phasing/Teleport, Smoke Cloud, or Stealth on their
+			starting positions can be placed into hindering terrain up to
+			half their unmodified speed values away from their starting
+			areas. Characters that can use the Swim ability on their
+			starting positions can be placed in water terrain up to half
+			their unmodified speed values away from their starting areas.
+							</item>
+		<item>INTERNAL STRIFE\n
+			Characters get +1 to their attack values whenever they make a close or
+			ranged combat attacks against opposing characters with which
+			they share the same team symbol.</item>
+		<item>ISOLATION\n
+			Combat values can\'t be replaced by higher values.</item>
+		<item>KNOCKOUT GAS\n
+			Characters occupying indoor terrain modify their speed values by -2.
+			Characters using Smoke Cloud can place up to eight hindering
+			terrain markers.</item>
+		<item>KRAKOA THE LIVING ISLAND\n
+			Once at the end of each player\'s turn, he or she can choose a target
+			opposing character adjacent to an unoccupied square of outdoor
+			hindering, blocking, or elevated terrain and make an attack roll
+			with an attack value of 9 and a damage value of 2 against the
+			target; the target can\'t be knocked back by the attack. If the
+			attack succeeds but the character target takes no damage from
+			the attack and has zero or one action token, give the target an
+			action token.</item>
+		<item>LEGENDARY DAY\n
+			Abilities can\'t be countered. All characters can use Willpower if they
+			can\'t already.</item>
+		<item>LOW GRAVITY\n
+			Any standard character occupying clear terrain that is hit by an
+			attack is knocked back equal to the damage taken.</item>
+		<item>LOYALTY\n
+			After forces are placed in their starting area but before the first
+			player\'s first turn, each wild card must choose a team ability
+			that can be copied by wild cards and is possessed by a friendly
+			character. The wild card possesses the chosen team ability until
+			the end of the game, and can\'t use any other team ability.
+							</item>
+		<item>MADNESS\n
+			Critical hits are critical misses instead, and vice versa. When a
+			character uses Support, the target is healed of 1 fewer damage
+			on a critical hit.</item>
+		<item>MALICE\n
+			At the end of each player\'s turn, if none of his or her characters
+			made an attack against an opposing character, that player
+			chooses a friendly character and deals it 1 unavoidable damage.
+							</item>
+		<item>MALFUNCTION\n
+			Before the beginning of the first turn, starting with the player who
+			played this battlefield condition, each player can remove one
+			object from the game.</item>
+		<item>MISTRUST\n
+			When characters that have the same team symbol or team ability are
+			adjacent to each other, modify their defense value by -1, to a
+			maximum of -1.</item>
+		<item>NOWHERE TO HIDE\n
+			Squares with objects in them are not hindering terrain.</item>
+		<item>ORDINARY DAY\n
+			Cancel a single target battlefield condition.</item>
+		<item>
+			OVERCONFIDENCE\n
+			A character with Perplex may use it only on its own
+			combat values.</item>
+		<item>PACIFICATION\n
+			When 4 or more damage would be dealt, reduce damage dealt by 1.
+								</item>
+		<item>POOR TEAMWORK\n
+			Characters can\'t be carried. Characters that have Telekinesis can\'t
+			target friendly characters with Telekinesis.</item>
+		<item>POWER DAMPENING FIELD\n
+			Damage values higher than 3 become 3 instead.</item>
+		<item>PROTECT THE INNOCENT\n
+			Once per turn as a free action, you may choose to remove from the
+			game a bystander token adjacent to a friendly character. No
+			victory points are scored for the removed bystander token.
+								</item>
+		<item>PROXIMITY MINES\n
+			At the end of a turn, if any character is in the same square as
+			a non-held object or in a square adjacent to a non-held
+			object, roll one six-sided die. On a result of 5 or 6, deal 1
+			damage (that ignores all effects that reduce damage) to all
+			characters in the same square as or adjacent to the object, and
+			then remove the object from the game.</item>
+		<item>RADIATION LEAK\n
+			When a character uses Regeneration or when a character is the
+			target of Support, instead of following the rules for those
+			abilities, roll one six-sided die and subtract 3 from the
+			result. Treat a negative result as damage dealt to the
+			character that may not be evaded or reduced.</item>
+		<item>RALLY\n
+			Whenever the character with the highest point value remaining on your
+			force is defeated, remove one action token from all
+			characters on your force, as applicable, and then remove the
+			defeated character from the game.</item>
+		<item>RESISTANCE\n
+			Characters can\'t be the target of Outwit when they are adjacent to at
+			least one friendly character with the same team symbol.</item>
+		<item>RUSHED ASSAULT\n
+			The first character to make an attack targeting an opposing
+			character during a game gets -2 to its attack value until the
+			attack resolves.</item>
+		<item>SABOTAGE\n
+			Before the beginning of the first round, the player who played this
+			battlefield condition may place an action token on any one
+			opposing character. Then, continuing clockwise around the
+			table, each other player may choose to roll a d6; on a result
+			of 4-6, that player may place an action token on any one
+			opposing character that does not already have one.</item>
+		<item>SHRUNK\n
+			All characters with the #giant# damage symbol have the #attack# damage symbol
+			instead. All range values are halved, as is the range of all
+			effects that have a range.</item>
+		<item>
+			SKRULL KILL KREW\n
+			When a character with Plasticity rolls to break away, subtract two
+			from the result (minimum result 1.) When a character using
+			Super Senses or Shape Change rolls a d6, subtract one from the
+			result (minimum result 1.)</item>
+		<item>SKYSCRAPERS\n
+			Elevated terrain is blocking terrain.</item>
+		<item>TELEKINETIC STRAIN\n
+			When Telekinesis is used to place a character or object 6 or more
+			squares away from its starting square, the character using the Telekinesis is dealt 1
+			unavoidable damage after the action resolves.</item>
+		<item>WAR ZONE\n
+			A character using Support does not roll one six-sided die when
+			targeting another character; instead, it heals the target of
+			damage equal to its unmodified damage value.</item>
+		<item>WASTELAND\n
+			All elevated terrain is grounded hindering terrain. All walls are
+			destroyed. All squares adjacent to walls are hindering
+			terrain.</item>
+		<item>WHITE NOISE\n
+			When a character is the target of Outwit or Perplex, its
+			controller rolls one six-sided die. On a result of 4-6, the
+			target ignores that use of Outwit or Perplex.</item>
+	</string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="abilities_names">
+		<item>ADDITIONAL TEAM ABILITIES</item>
+		<item>BREAKING AWAY</item>
+		<item>CAPTURE</item>
+		<item>CARRY</item>
+		<item>COLOSSAL STAMINA</item>
+		<item>COMBAT ABILITIES</item>
+		<item>DUO ATTACK</item>
+		<item>FIRST-ROUND IMMUNITY</item>
+		<item>FLIGHT</item>
+		<item>GIANT REACH</item>
+		<item>GREAT SIZE</item>
+		<item>GRENADES</item>
+		<item>IMPROVED MOVEMENT &amp; TARGETING</item>
+		<item>INDOMITABLE</item>
+		<item>KNOCK BACK</item>
+		<item>MERGE</item>
+		<item>MOVE AND ATTACK</item>
+		<item>MULTIATTACK</item>
+		<item>MULTI-BASE CHARACTERS</item>
+		<item>PREPARING FOR BATTLE</item>
+		<item>RAM</item>
+		<item>ROLLING 2 AND 12</item>
+		<item>ROLLING DOUBLES</item>
+		<item>SHARPSHOOTER</item>
+		<item>SPLIT</item>
+		<item>SWIM</item>
+		<item>THE RULE OF THREE</item>
+		<item>TEAM DIALS</item>
+		<item>THEMED TEAMS</item>
+		<item>THROW A GRENADE</item>
+		<item>TINY SIZE</item>
+		<item>TRANSPORTER</item>
+		<item>VEHICLES</item>
+		<item>WILD CARDS</item>
+	</string-array>
+</resources>

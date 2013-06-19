@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HeroClix Rules</string>
+    <string name="options">Opciones</string>
+    <string name="about">Acerca de</string>
+    <string name="donate">Donaciones</string>
+    <string name="intro">¡Gracias por usar Heroclix Rules! Por favor, dona y ayúdanos a mejorar esta y otras app de Heroclix.\nEsta pequeña aplicación está destinada para hacerte más sencillo el echo de buscar y consultar las diferentes reglas del juego Heroclix. Nosotros hemos enumerado casi todas las reglas.\n\nPuedes usar tu dedo para navegar por la lista. Haz click en un elemento y visuliza la regla. También puedes desplazar la barra inferior (de derecha a izquierda).\n\nPor favor pónganos un ratio y comente. Si encuentras algún fallo, por favor repórtanoslo a heroclix@fifthfloorstudio.net. También puedes enviarnos sugerencias o dudas. Si tienes dudas sobre la traducción española, por favor contacta con Cristina Gómez González: sweety_cg@hotmail.com.\nLas reglas han sido actulizadas el 14.06.2013\nGracias a Cristina Gómez González y Vinx Rockstansky por la traducción de la app al español\nHeroclix es una marca comercial de WizKids/NECA, LLC.  </string>
+    <string-array name="fontSize">
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+    <string name="donateText">Gracias por considerar la donación. Presiona \'okey\' para abrir un navegador y redireccionarte a Paypal.com. </string>
+
+</resources>

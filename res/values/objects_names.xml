@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="objects_names">
+        <item>OBJECTS</item>
+        <item>DESTROYING OBJECTS</item>
+        <item>SPECIAL OBJECTS</item>
+        <item>USING OBJECTS AS WEAPONS</item>
+        <item>PICKING UP AN OBJECT</item>
+        <item>HOLDING AN OBJECT</item>
+        <item>THE INFINITY GAUNTLET</item>
+        <item>USING OBJECTS IN CLOSE COMBAT ATTACKS</item>
+        <item>USING OBJECTS IN RANGED COMBAT ATTACKS</item>
+        <item>UTILITY BELT</item>
+        <item>UTILITY BELT ATTACHMENTS</item>
+        <item>AERIAL BAFFLER</item>
+        <item>BAT SIGNAL</item>
+        <item>BATARANGS</item>
+        <item>BATMAN COWL</item>
+        <item>BLACK LANTERN</item>
+        <item>BLUE LANTERN</item>
+        <item>BOOKCASE</item>
+        <item>BROKEN DRONE</item>
+        <item>BUCKET OF WATER</item>
+        <item>CAPTAIN AMERICA\'S SHIELD</item>
+        <item>COM DISH</item>
+        <item>COMPUTER</item>
+        <item>COSMIC CUBE</item>
+        <item>CRATE</item>
+        <item>CRIMSON GEM OF CYTTORAK</item>
+        <item>DARK CAULDRON</item>
+        <item>DR. OCTOPUS ARMS</item>
+        <item>DUMPSTER</item>
+        <item>DYNAMOSTAT</item>
+        <item>ELEHA\'AL VINE</item>
+        <item>FLASH GRENADE</item>
+        <item>FOOM FINGER</item>
+        <item>FORCE FIELD GENERATOR</item>
+        <item>FUEL TANK</item>
+        <item>GAMMA BOMB</item>
+        <item>GAS PELLETS/SMOKE GRENADE</item>
+        <item>GENERATOR</item>
+        <item>GLOBE OF ULTIMATE KNOWLEDGE</item>
+        <item>GREEN KRYPTONITE</item>
+        <item>GOLD KRYPTONITE</item>
+        <item>GRAPNEL GUN</item>
+        <item>GREEN LANTERN</item>
+        <item>HANDCUFFS</item>
+        <item>HARVEST STAFF</item>
+        <item>INDIGO LANTERN</item>
+        <item>IRON MAN BRIEFCASE ARMOR</item>
+        <item>JEWEL KRYPTONITE</item>
+        <item>KINETIC ABSORBER</item>
+        <item>KINETIC ACCELERATOR</item>
+        <item>KUURTH\'S HAMMER</item>
+        <item>LASER TURRET</item>
+        <item>LIGHT POST</item>
+        <item>MAILBOX</item>
+        <item>MASS-ABSORBER</item>
+        <item>METEORITE</item>
+        <item>MIND GEM</item>
+        <item>MIND GEM (relic)</item>
+        <item>MJOLNIR</item>
+        <item>MR. FREEZE\'S GUN</item>
+        <item>NOVA HELMET</item>
+        <item>NEWSBOT</item>
+        <item>OFFICE DESK</item>
+        <item>THE ONE RING</item>
+        <item>OPENED HYDRANT</item>
+        <item>ORANGE LANTERN</item>
+        <item>ORCRIST</item>
+        <item>POWER GEM</item>
+        <item>POWER GEM (relic)</item>
+        <item>RADAR MONITOR</item>
+        <item>REALITY GEM</item>
+        <item>REALITY GEM (relic)</item>
+        <item>REBREATHER</item>
+        <item>RED KRYPTONITE</item>
+        <item>RED LANTERN</item>
+        <item>ROBIN UNIFORM</item>
+        <item>SATELLITE</item>
+        <item>SCORPIO KEY</item>
+        <item>SEPARATION FIELD GENERATOR</item>
+        <item>SHIELD DISRUPTOR</item>
+        <item>SKADI\'S HAMMER</item>
+        <item>SILVER MJOLNIR</item>
+        <item>SODA MACHINE</item>
+        <item>SONIC TRANSMITTER</item>
+        <item>SOUL GEM</item>
+        <item>SOUL GEM (relic)</item>
+        <item>SPACE GEM</item>
+        <item>SPACE GEM (relic)</item>
+        <item>STATUE</item>
+        <item>STEPLADDER</item>
+        <item>STING</item>
+        <item>STRUCTURAL INTEGRITY FIELD</item>
+        <item>SUIT OF SORROWS</item>
+        <item>TANK TURRET</item>
+        <item>TELEPHONE BOOTH</item>
+        <item>TELEPORT PAD</item>
+        <item>TIME GEM</item>
+        <item>TIME GEM (relic)</item>
+        <item>TOMBSTONE</item>
+        <item>TRAPPED DUMPSTER</item>
+        <item>VIOLET LANTERN</item>
+        <item>WHITE KRYPTONITE</item>
+        <item>WHITE LANTERN</item>
+        <item>WONDER GIRL LASSO</item>
+        <item>X-KRYPTONITE</item>
+        <item>YELLOW LANTERN</item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="feats_names">
+		<item>ALIAS</item>
+		<item>AMBIDEXTROUS</item>
+		<item>AMBUSH</item>
+		<item>AND STAY DOWN</item>
+		<item>ARMOR PIERCING</item>
+		<item>AUTOMATIC REGENERATION</item>
+		<item>BLOOD OATH</item>
+		<item>BOOK OF DESTINY</item>
+		<item>BRILLIANT TACTICIAN</item>
+		<item>CALL TO ARMS</item>
+		<item>CAMOUFLAGE</item>
+		<item>CANNONBALL</item>
+		<item>COMPEL</item>
+		<item>CONSTRUCT</item>
+		<item>CONTINGENCY PLAN</item>
+		<item>COORDINATION</item>
+		<item>DAMAGE SHIELD</item>
+		<item>DARKNESS WITHIN</item>
+		<item>DISASSEMBLE</item>
+		<item>DISINTEGRATE</item>
+		<item>DISSENT</item>
+		<item>DIVEBOMB</item>
+		<item>DOUBLE-TIME</item>
+		<item>DRAG</item>
+		<item>ELITE SNIPER</item>
+		<item>ENDURANCE</item>
+		<item>ENERVATION</item>
+		<item>ENTANGLE</item>
+		<item>ENTRENCH</item>
+		<item>EXTENDED RANGE</item>
+		<item>FALL BACK</item>
+		<item>FASTBALL SPECIAL</item>
+		<item>FLASHBANG</item>
+		<item>FORCE FIELD</item>
+		<item>FORTITUDE</item>
+		<item>FROG LEGS</item>
+		<item>GETAWAY</item>
+		<item>GIANT STRIDE</item>
+		<item>HAYMAKER</item>
+		<item>HEALING FACTOR</item>
+		<item>HEIGHTENED REFLEXES</item>
+		<item>HOLD THE LINE</item>
+		<item>HOMING DEVICE</item>
+		<item>IMMORTAL CONTEMPT</item>
+		<item>IMPROVISE</item>
+		<item>IN CONTACT WITH ORACLE</item>
+		<item>INDOMITABLE</item>
+		<item>INFILTRATE</item>
+		<item>INSIDE INFORMATION</item>
+		<item>INSPIRING COMMAND</item>
+		<item>INVIGORATE</item>
+		<item>KNOCKDOWN</item>
+		<item>LARGE OBJECT</item>
+		<item>LAZARUS PIT</item>
+		<item>LIFE MODEL DECOY</item>
+		<item>LONER</item>
+		<item>LOOK! UP IN THE SKY!</item>
+		<item>LUCKY BREAK</item>
+		<item>LUNGE</item>
+		<item>MANEUVER</item>
+		<item>MENTAL SHIELDS</item>
+		<item>MERCENARY</item>
+		<item>MONSTER HUNTER</item>
+		<item>MOVETHROUGH</item>
+		<item>NANOARMOR</item>
+		<item>NANOBOTS</item>
+		<item>NOT SO SPECIAL</item>
+		<item>NOVA BLAST</item>
+		<item>OPPORTUNIST</item>
+		<item>OUTSMART</item>
+		<item>PASSENGER</item>
+		<item>POINT BLANK</item>
+		<item>POUNCE</item>
+		<item>POWER BARRAGE</item>
+		<item>PRECISION DEMOLITION</item>
+		<item>PROTECTED</item>
+		<item>PUMMEL</item>
+		<item>PYM PARTICLES</item>
+		<item>RECHARGE</item>
+		<item>REPULSOR</item>
+		<item>REPULSOR SHIELD</item>
+		<item>RETALIATION</item>
+		<item>REVENGE</item>
+		<item>RIP IT UP</item>
+		<item>RUNNING START</item>
+		<item>SABOTEUR</item>
+		<item>SCATTER!</item>
+		<item>SHAKE OFF</item>
+		<item>SHELLHEAD</item>
+		<item>SHOCKWAVE</item>
+		<item>SHOW OFF</item>
+		<item>SIDEKICK</item>
+		<item>SIDESTEP</item>
+		<item>SIPHON POWER</item>
+		<item>SKULLDUGGERY</item>
+		<item>SLIPPERY</item>
+		<item>SNEAK</item>
+		<item>SPOTTER</item>
+		<item>STARSTRUCK ADMIRER</item>
+		<item>STREAK OF LUCK</item>
+		<item>STUNNING BLOW</item>
+		<item>SUBMERGED</item>
+		<item>SUNDER</item>
+		<item>SUPPRESSIVE FIRE</item>
+		<item>SWINGLINE</item>
+		<item>TACTICS</item>
+		<item>TAUNT</item>
+		<item>TAKEDOWN</item>
+		<item>TELEKINETIC REACH</item>
+		<item>TERRIFY</item>
+		<item>THUNDERING BLOW</item>
+		<item>THWART</item>
+		<item>TOXIC BURST</item>
+		<item>TRIAGE</item>
+		<item>TRICK SHOT</item>
+		<item>UNSTOPPABLE</item>
+		<item>VAMPIRISM</item>
+		<item>VAULT</item>
+		<item>VENDETTA</item>
+		<item>WARBOUND</item>
+		<item>WHIRLWIND</item>
+	</string-array>
+</resources>
